@@ -4,6 +4,8 @@
 - 🌎 At this point a [recovering geophysicist](https://the-geophysicist.com).
 - 🤖 Venturing into [Software](https://github.com/JesperDramsch?tab=repositories), [Data Science](https://www.kaggle.com/jesperdramsch/notebooks) and [Machine Learning](https://dramsch.net/projects).
 
+![Jesper Dramsch's github stats](https://github-readme-stats.vercel.app/api?username=jesperdramsch)
+
 ---
 
 
