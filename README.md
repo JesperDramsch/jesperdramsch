@@ -6,24 +6,23 @@
 
 ![Jesper Dramsch's github stats](https://github-readme-stats.vercel.app/api?username=jesperdramsch&show_icons=true&hide_border=true&title_color=000000&cache_seconds=86400)
 
----
+## What matters
 
+💸👉[blacklivesmatters](https://blacklivesmatters.carrd.co/)
 
-I love coding, writing, and speaking. Feel free to contact me about opportunities, but let's make sure our [values](https://dramsch.net/#values) align.
+## My Courses
 
-<img src="https://dramsch.net/assets/images/banner1.jpg" width="50%">
+Check out my latest course on data science and business analytics in Python:
 
----
+[![](https://dramsch.net/assets/images/work-skillshare.png)<br/>https://the-geophysicist.com/go/skillshare-data-science-with-python](https://the-geophysicist.com/go/skillshare-data-science-with-python)
+
+## Collaboration
 
 - 👯 I’m looking to collaborate on [cool](https://arxiv.org/abs/2006.13311) [useful](https://github.com/scikit-learn/scikit-learn/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+author%3AJesperDramsch) [projects](https://github.com/pandas-dev/pandas/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+author%3AJesperDramsch).
 - 📫 How to reach me: [jesper@dramsch.net](jesper@dramsch.net)
 - ⚡ Fun fact: The singer of Bad Religion has a PhD in evolutionary biology[.](https://en.wikipedia.org/wiki/Greg_Graffin)
 
----
-
-💸👉[blacklivesmatters](https://blacklivesmatters.carrd.co/)
-
----
+I love coding, writing, and speaking. Feel free to contact me about opportunities, but let's make sure our [values](https://dramsch.net/#values) align.
 
 <a href="https://dramsch.net/">
   <img align="left" alt="Jesper Dramsch' Website" width="22pt" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
@@ -49,9 +48,14 @@ I love coding, writing, and speaking. Feel free to contact me about opportunitie
 <a href="https://github.com/JesperDramsch">
   <img align="left" alt="Jesper Dramsch' Github" width="22pt" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://the-geophysicist.com/go/skillshare-data-science-with-python">
+  <img align="left" alt="Jesper Dramsch' Twitch" width="22pt" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skillshare.svg" />
+</a>
 <a href="https://bit.ly/YTgeo">
   <img align="left" alt="Jesper Dramsch' Youtube" width="22pt" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <a href="https://twitch.tv/thegeophysicist">
   <img align="left" alt="Jesper Dramsch' Twitch" width="22pt" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />
 </a>
+
+<img src="https://dramsch.net/assets/images/banner1.jpg" width="50%">
