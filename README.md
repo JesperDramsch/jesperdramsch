@@ -57,5 +57,5 @@ I love coding, writing, and speaking. Feel free to contact me about opportunitie
 <a href="https://twitch.tv/thegeophysicist">
   <img align="left" alt="Jesper Dramsch' Twitch" width="22pt" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />
 </a>
-
+<br/>
 <img src="https://dramsch.net/assets/images/banner1.jpg" width="50%">
