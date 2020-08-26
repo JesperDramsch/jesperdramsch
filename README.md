@@ -14,7 +14,7 @@
 
 Check out my latest course on data science and business analytics in Python:
 
-[![](https://dramsch.net/assets/images/work-skillshare.png)<br/>https://the-geophysicist.com/go/skillshare-data-science-with-python](https://the-geophysicist.com/go/skillshare-data-science-with-python)
+[![](https://raw.githubusercontent.com/JesperDramsch/skillshare-data-science/master/img/thumbnail.png)<br/>https://the-geophysicist.com/go/skillshare-data-science-with-python](https://the-geophysicist.com/go/skillshare-data-science-with-python)
 
 ## Collaboration
 
