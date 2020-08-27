@@ -17,6 +17,8 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Skillshare Course on Data Science in Python](https://dev.to/jesperdramsch/skillshare-course-on-data-science-in-python-a0m)
+- [I cannot tell you how excited I am!⠀ Over the weekend we passed 10 students and 1000(!) minutes watch time on my #datascience course in #python.⠀ ⠀ Link, as always, in the bio.⠀ #machinelearning #ml4science #ml #dataviz](https://the-geophysicist.com/i-cannot-tell-you-how-excited-i-am%e2%a0%80-over-the-weekend-we-passed-10-students-and-1000-minutes-watch-time-on-my-datascience-course-in-python-%e2%a0%80-%e2%a0%80-link-as-always-in-the-bio?utm_source=rss&utm_medium=rss&utm_campaign=i-cannot-tell-you-how-excited-i-am%25e2%25a0%2580-over-the-weekend-we-passed-10-students-and-1000-minutes-watch-time-on-my-datascience-course-in-python-%25e2%25a0%2580-%25e2%25a0%2580-link-as-always-in-the-bio)
+- [Juneteenth 2020](https://the-geophysicist.com/juneteenth-2020?utm_source=rss&utm_medium=rss&utm_campaign=juneteenth-2020)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter
