@@ -3,10 +3,9 @@
 
 - 🐍 I'm mostly a [Parselmouth](https://xkcd.com/353/).
 
-- 🌱 I’m currently learning **about differential privacy**
+- 🌱 I’m currently learning **about differential privacy**.
 
-- 👨‍💻 All of my projects are available at [dramsch.net/projects](dramsch.net/projects)
-
+- 💻 All of my projects are available at [dramsch.net/projects](dramsch.net/projects).
 - 📝 I regulary write articles on [the-geophysicist.com](the-geophysicist.com) and a [newsletter](https://buttondown.email/jesper).
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jesperdramsch&show_icons=true&hide_border=true&title_color=000000&cache_seconds=86400" /></p>
@@ -19,11 +18,11 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## My Courses
+<!-- ## My Courses
 
 Check out my latest course on data science and business analytics in Python:
 
-[![](https://raw.githubusercontent.com/JesperDramsch/skillshare-data-science/master/img/thumbnail.png)<br/>https://the-geophysicist.com/go/skillshare-data-science-with-python](https://the-geophysicist.com/go/skillshare-data-science-with-python)
+[![](https://raw.githubusercontent.com/JesperDramsch/skillshare-data-science/master/img/thumbnail.png)<br/>https://the-geophysicist.com/go/skillshare-data-science-with-python](https://the-geophysicist.com/go/skillshare-data-science-with-python) -->
 
 ## Collaboration
 
@@ -69,5 +68,5 @@ I love coding, writing, and speaking. Feel free to contact me about opportunitie
 <a href="https://twitch.tv/thegeophysicist">
   <img align="left" alt="Jesper Dramsch' Twitch" width="22pt" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />
 </a>
-<br/>
+<br/><br/>
 <img src="https://dramsch.net/assets/images/banner1.jpg" width="50%">
