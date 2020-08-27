@@ -1,14 +1,23 @@
-# Moin, I'm Jesper 👋
+<h1 align="center">Moin 👋, I'm Jesper</h1>
+<h3 align="center">I'm a recovering geophysicist and do machine learning and data science.</h3>
 
 - 🐍 I'm mostly a [Parselmouth](https://xkcd.com/353/).
-- 🌎 At this point a [recovering geophysicist](https://the-geophysicist.com).
-- 🤖 Venturing into [Software](https://github.com/JesperDramsch?tab=repositories), [Data Science](https://www.kaggle.com/jesperdramsch/notebooks) and [Machine Learning](https://dramsch.net/projects).
 
-![Jesper Dramsch's github stats](https://github-readme-stats.vercel.app/api?username=jesperdramsch&show_icons=true&hide_border=true&title_color=000000&cache_seconds=86400)
+- 🌱 I’m currently learning **about differential privacy**
+
+- 👨‍💻 All of my projects are available at [dramsch.net/projects](dramsch.net/projects)
+
+- 📝 I regulary write articles on [the-geophysicist.com](the-geophysicist.com) and a [newsletter](https://buttondown.email/jesper).
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jesperdramsch&show_icons=true&hide_border=true&title_color=000000&cache_seconds=86400" /></p>
 
 ## What matters
 
 💸👉[blacklivesmatters](https://blacklivesmatters.carrd.co/)
+
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## My Courses
 
@@ -18,9 +27,12 @@ Check out my latest course on data science and business analytics in Python:
 
 ## Collaboration
 
+- 💬 Ask me about **python, machine learning, and data science.**
 - 👯 I’m looking to collaborate on [cool](https://arxiv.org/abs/2006.13311) [useful](https://github.com/scikit-learn/scikit-learn/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+author%3AJesperDramsch) [projects](https://github.com/pandas-dev/pandas/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+author%3AJesperDramsch).
 - 📫 How to reach me: [jesper@dramsch.net](jesper@dramsch.net)
-- ⚡ Fun fact: The singer of Bad Religion has a PhD in evolutionary biology[.](https://en.wikipedia.org/wiki/Greg_Graffin)
+- ⚡ Fun fact: The singer of Bad Religion has a PhD in [evolutionary biology](https://en.wikipedia.org/wiki/Greg_Graffin).
+
+---
 
 I love coding, writing, and speaking. Feel free to contact me about opportunities, but let's make sure our [values](https://dramsch.net/#values) align.
 
@@ -49,7 +61,7 @@ I love coding, writing, and speaking. Feel free to contact me about opportunitie
   <img align="left" alt="Jesper Dramsch' Github" width="22pt" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://the-geophysicist.com/go/skillshare-data-science-with-python">
-  <img align="left" alt="Jesper Dramsch' Twitch" width="22pt" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skillshare.svg" />
+  <img align="left" alt="Jesper Dramsch' Skillshare Course on Data Science with Python" width="22pt" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skillshare.svg" />
 </a>
 <a href="https://bit.ly/YTgeo">
   <img align="left" alt="Jesper Dramsch' Youtube" width="22pt" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
