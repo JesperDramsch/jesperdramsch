@@ -19,6 +19,10 @@
 - [Skillshare Course on Data Science in Python](https://dev.to/jesperdramsch/skillshare-course-on-data-science-in-python-a0m)
 <!-- BLOG-POST-LIST:END -->
 
+## Newsletter
+<!-- NEWSLETTER-LIST:START -->
+<!-- NEWSLETTER-LIST:END -->
+
 <!-- ## My Courses
 
 Check out my latest course on data science and business analytics in Python:
