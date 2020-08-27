@@ -14,7 +14,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "3"
-          feed_list: "https://dev.to/feed/jesperdramsch"
+          feed_list: "https://dev.to/feed/jesperdramsch, https://the-geophysicist.com/feed"
   update-readme-with-newsletter:
     name: Update this repo's README with latest activity from Newsletter
     runs-on: ubuntu-latest
