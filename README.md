@@ -23,6 +23,7 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [🌌 I'm reading a book about anti-gravity. It's impossible to put down!](https://buttondown.email/jesper/archive/im-reading-a-book-about-anti-gravity-its/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
