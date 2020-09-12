@@ -23,6 +23,7 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [🌵 Do plant photosympathize with each other?](https://buttondown.email/jesper/archive/do-plant-photosympathize-with-each-other/)
 - [⚛️ Don't trust atoms. They make up everything!](https://buttondown.email/jesper/archive/dont-trust-atoms-they-make-up-everything/)
 - [🌌 I'm reading a book about anti-gravity. It's impossible to put down!](https://buttondown.email/jesper/archive/im-reading-a-book-about-anti-gravity-its/)
 <!-- NEWSLETTER-LIST:END -->
