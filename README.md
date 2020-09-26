@@ -23,9 +23,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [🪐 How do you throw a space party? You planet.](https://buttondown.email/jesper/archive/how-do-you-throw-a-space-party-you-planet/)
 - [🌋 Volcanologists liked magma before it was cool](https://buttondown.email/jesper/archive/volcanologists-liked-magma-before-it-was-cool/)
 - [🌵 Do plant photosympathize with each other?](https://buttondown.email/jesper/archive/do-plant-photosympathize-with-each-other/)
-- [⚛️ Don't trust atoms. They make up everything!](https://buttondown.email/jesper/archive/dont-trust-atoms-they-make-up-everything/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
