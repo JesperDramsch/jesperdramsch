@@ -23,9 +23,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [🦠 Antibiotics are popular, but they never went viral.](https://buttondown.email/jesper/archive/antibiotics-are-popular-but-they-never-went-viral/)
 - [🪐 How do you throw a space party? You planet.](https://buttondown.email/jesper/archive/how-do-you-throw-a-space-party-you-planet/)
 - [🌋 Volcanologists liked magma before it was cool](https://buttondown.email/jesper/archive/volcanologists-liked-magma-before-it-was-cool/)
-- [🌵 Do plant photosympathize with each other?](https://buttondown.email/jesper/archive/do-plant-photosympathize-with-each-other/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
