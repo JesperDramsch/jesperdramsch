@@ -23,9 +23,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [🖥️ Do programmers love dark mode because light attracts bugs?](https://buttondown.email/jesper/archive/do-programmers-love-dark-mode-because-light/)
 - [🛸 Do astronauts serve tea on flying saucers?](https://buttondown.email/jesper/archive/do-astronauts-serve-tea-on-flying-saucers/)
 - [🦠 Antibiotics are popular, but they never went viral.](https://buttondown.email/jesper/archive/antibiotics-are-popular-but-they-never-went-viral/)
-- [🪐 How do you throw a space party? You planet.](https://buttondown.email/jesper/archive/how-do-you-throw-a-space-party-you-planet/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
