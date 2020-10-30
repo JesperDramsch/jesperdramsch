@@ -16,6 +16,9 @@
 
 ## Youtube: [LiKe, coMMeNt, SubsCrIbE](https://bit.ly/YTgeo)
 <!-- YOUTUBE-LIST:START -->
+- [Data Science and Business Analytics in Python on Skillshare](https://www.youtube.com/watch?v=e4nKYTFN1_g)
+- [What is Artificial Intelligence?](https://www.youtube.com/watch?v=ykaAbgrOpe4)
+- [How to learn ANYTHING](https://www.youtube.com/watch?v=pTtI3xnzDiM)
 <!-- YOUTUBE-LIST:END -->
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/)
