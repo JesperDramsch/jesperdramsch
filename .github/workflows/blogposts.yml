@@ -21,3 +21,9 @@ jobs:
           commit_message: "Updated readme with the latest Newsletter "
           max_post_count: "3"
           feed_list: "https://buttondown.email/jesper/rss"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "YOUTUBE-LIST"
+          commit_message: "Updated readme with the latest Youtube "
+          max_post_count: "3"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCn_c_QdG1qQ2nCBo2MLdktQ"
