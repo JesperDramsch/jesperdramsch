@@ -14,6 +14,10 @@
 
 💸👉[blacklivesmatters](https://blacklivesmatters.carrd.co/)
 
+## Youtube: [LiKe, coMMeNt, SubsCrIbE](https://bit.ly/YTgeo)
+<!-- YOUTUBE-LIST:START -->
+<!-- YOUTUBE-LIST:END -->
+
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/)
 <!-- BLOG-POST-LIST:START -->
 - [Skillshare Course on Data Science in Python](https://dev.to/jesperdramsch/skillshare-course-on-data-science-in-python-a0m)
