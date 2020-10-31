@@ -30,9 +30,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [🎃 Programmers confuse Halloween and Christmas because: 31 OCT == 25 DEC](https://buttondown.email/jesper/archive/programmers-confuse-halloween-and-christmas/)
 - [🖥️ Do programmers love dark mode because light attracts bugs?](https://buttondown.email/jesper/archive/do-programmers-love-dark-mode-because-light/)
 - [🛸 Do astronauts serve tea on flying saucers?](https://buttondown.email/jesper/archive/do-astronauts-serve-tea-on-flying-saucers/)
-- [🦠 Antibiotics are popular, but they never went viral.](https://buttondown.email/jesper/archive/antibiotics-are-popular-but-they-never-went-viral/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
