@@ -30,9 +30,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [🖥️ I don't like computer science jokes, not one bit!](https://buttondown.email/jesper/archive/i-dont-like-computer-science-jokes-not-one-bit/)
 - [🎃 Programmers confuse Halloween and Christmas because: 31 OCT == 25 DEC](https://buttondown.email/jesper/archive/programmers-confuse-halloween-and-christmas/)
 - [🖥️ Do programmers love dark mode because light attracts bugs?](https://buttondown.email/jesper/archive/do-programmers-love-dark-mode-because-light/)
-- [🛸 Do astronauts serve tea on flying saucers?](https://buttondown.email/jesper/archive/do-astronauts-serve-tea-on-flying-saucers/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
