@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **about differential privacy**.
 
-- 💻 All of my projects are available at [dramsch.net/projects](dramsch.net/projects).
+- 💻 All of my projects are available at [dramsch.net/projects](https://dramsch.net/projects).
 - 📝 I regulary write articles on [the-geophysicist.com](the-geophysicist.com) and a [newsletter](https://buttondown.email/jesper).
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jesperdramsch&show_icons=true&hide_border=true&title_color=000000&cache_seconds=86400" /></p>
