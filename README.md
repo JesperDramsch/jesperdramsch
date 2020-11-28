@@ -30,9 +30,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [⛰️ Many people take geology puns for granite.](https://buttondown.email/jesper/archive/many-people-take-geology-puns-for-granite/)
 - [🐏 Do Android dream of electric sheep?](https://buttondown.email/jesper/archive/do-android-dream-of-electric-sheep/)
 - [🌩️ Do clouds wear thunderwear?](https://buttondown.email/jesper/archive/do-clouds-wear-thunderwear/)
-- [🖥️ I don't like computer science jokes, not one bit!](https://buttondown.email/jesper/archive/i-dont-like-computer-science-jokes-not-one-bit/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
