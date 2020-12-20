@@ -30,9 +30,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [🧙‍♂️ A newsletter is never late, nor early. It arrives precisely when it is meant to.](https://buttondown.email/jesper/archive/a-newsletter-is-never-late-nor-early-it-arrives/)
 - [🎁 But wait—there’s myrrh.](https://buttondown.email/jesper/archive/but-wait-theres-myrrh/)
 - [⛰️ Many people take geology puns for granite.](https://buttondown.email/jesper/archive/many-people-take-geology-puns-for-granite/)
-- [🐏 Do Android dream of electric sheep?](https://buttondown.email/jesper/archive/do-android-dream-of-electric-sheep/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
