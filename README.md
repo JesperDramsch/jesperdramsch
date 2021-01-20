@@ -16,9 +16,9 @@
 
 ## Youtube: [LiKe, coMMeNt, SubsCrIbE](https://bit.ly/YTgeo)
 <!-- YOUTUBE-LIST:START -->
+- [The No-Code Data Science Masterclass on @Skillshare](https://www.youtube.com/watch?v=SlUKC05VWMc)
 - [Pydata Global is getting virtual conferences right with Gather.Town](https://www.youtube.com/watch?v=vbmqFuZLxTM)
-- [Data Science and Business Analytics in Python on Skillshare](https://www.youtube.com/watch?v=e4nKYTFN1_g)
-- [What is Artificial Intelligence?](https://www.youtube.com/watch?v=ykaAbgrOpe4)
+- [Data Science and Business Analytics in Python on @Skillshare](https://www.youtube.com/watch?v=e4nKYTFN1_g)
 <!-- YOUTUBE-LIST:END -->
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/)
