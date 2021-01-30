@@ -30,9 +30,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [🍟 Do UK physicists eat Fission Chips?](https://buttondown.email/jesper/archive/do-uk-physicists-eat-fission-chips/)
 - [🎓 With a PhD I can call myself Jesper Dr.amsch.](https://buttondown.email/jesper/archive/with-a-phd-i-can-call-myself-jesper-dramsch/)
 - [🐏 Do Sheep work on the bleating edge?](https://buttondown.email/jesper/archive/do-sheep-work-on-the-bleating-edge/)
-- [🧙‍♂️ A newsletter is never late, nor early. It arrives precisely when it is meant to.](https://buttondown.email/jesper/archive/a-newsletter-is-never-late-nor-early-it-arrives/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
