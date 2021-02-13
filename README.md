@@ -30,9 +30,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [👨‍🚀 When Neil Armstrong's moon jokes bombed, he'd say "guess you had to be there".](https://buttondown.email/jesper/archive/when-neil-armstrongs-moon-jokes-bombed-hed-say/)
 - [🦆 Do subatomic ducks quark?](https://buttondown.email/jesper/archive/do-subatomic-ducks-quark/)
 - [🍟 Do UK physicists eat Fission Chips?](https://buttondown.email/jesper/archive/do-uk-physicists-eat-fission-chips/)
-- [🎓 With a PhD I can call myself Jesper Dr.amsch.](https://buttondown.email/jesper/archive/with-a-phd-i-can-call-myself-jesper-dramsch/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
