@@ -24,8 +24,8 @@
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/)
 <!-- BLOG-POST-LIST:START -->
 - [Skillshare Course on Data Science in Python](https://dev.to/jesperdramsch/skillshare-course-on-data-science-in-python-a0m)
-- [Juneteenth 2020](https://the-geophysicist.com/juneteenth-2020?utm_source=rss&utm_medium=rss&utm_campaign=juneteenth-2020)
-- [All About Dashboards – Friday Faves](https://the-geophysicist.com/all-about-dashboards-friday-faves?utm_source=rss&utm_medium=rss&utm_campaign=all-about-dashboards-friday-faves)
+- [Juneteenth 2020](http://the-geophysicist.com/juneteenth-2020?utm_source=rss&utm_medium=rss&utm_campaign=juneteenth-2020)
+- [All About Dashboards – Friday Faves](http://the-geophysicist.com/all-about-dashboards-friday-faves?utm_source=rss&utm_medium=rss&utm_campaign=all-about-dashboards-friday-faves)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
