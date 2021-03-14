@@ -30,9 +30,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [🌵 When plants are hungry they have a light snack](https://buttondown.email/jesper/archive/when-plants-are-hungry-they-have-a-light-snack/)
 - [🦖 Dinos with large vocabulary are called thesaurus](https://buttondown.email/jesper/archive/dinos-with-large-vocabulary-are-called-thesaurus/)
 - [⚛️ Neutrons are popular because they're free of charge](https://buttondown.email/jesper/archive/neutrons-are-popular-because-theyre-free-of-charge/)
-- [👨‍🚀 When Neil Armstrong's moon jokes bombed, he'd say "guess you had to be there".](https://buttondown.email/jesper/archive/when-neil-armstrongs-moon-jokes-bombed-hed-say/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
