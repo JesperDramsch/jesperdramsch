@@ -23,9 +23,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/)
 <!-- BLOG-POST-LIST:START -->
+- [Data Science Question of the Week](https://dev.to/jesperdramsch/data-science-question-of-the-week-4l7j)
 - [Skillshare Course on Data Science in Python](https://dev.to/jesperdramsch/skillshare-course-on-data-science-in-python-a0m)
 - [Juneteenth 2020](http://the-geophysicist.com/juneteenth-2020?utm_source=rss&utm_medium=rss&utm_campaign=juneteenth-2020)
-- [All About Dashboards – Friday Faves](http://the-geophysicist.com/all-about-dashboards-friday-faves?utm_source=rss&utm_medium=rss&utm_campaign=all-about-dashboards-friday-faves)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
