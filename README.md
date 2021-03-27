@@ -30,9 +30,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [🧮 Do mathematicians practice solve-love?](https://buttondown.email/jesper/archive/do-mathematicians-practice-solve-love/)
 - [🌵 When plants are hungry they have a light snack](https://buttondown.email/jesper/archive/when-plants-are-hungry-they-have-a-light-snack/)
 - [🦖 Dinos with large vocabulary are called thesaurus](https://buttondown.email/jesper/archive/dinos-with-large-vocabulary-are-called-thesaurus/)
-- [⚛️ Neutrons are popular because they're free of charge](https://buttondown.email/jesper/archive/neutrons-are-popular-because-theyre-free-of-charge/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
