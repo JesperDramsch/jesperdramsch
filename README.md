@@ -30,9 +30,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [🐝 Bees don't go to church because they're insects.](https://buttondown.email/jesper/archive/bees-dont-go-to-church-because-theyre-insects/)
 - [🧮 Do mathematicians practice solve-love?](https://buttondown.email/jesper/archive/do-mathematicians-practice-solve-love/)
 - [🌵 When plants are hungry they have a light snack](https://buttondown.email/jesper/archive/when-plants-are-hungry-they-have-a-light-snack/)
-- [🦖 Dinos with large vocabulary are called thesaurus](https://buttondown.email/jesper/archive/dinos-with-large-vocabulary-are-called-thesaurus/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
