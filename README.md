@@ -21,7 +21,7 @@
 - [Pydata Global is getting virtual conferences right with Gather.Town](https://www.youtube.com/watch?v=vbmqFuZLxTM)
 <!-- YOUTUBE-LIST:END -->
 
-## Blog posts: [The Geophysicist](https://the-geophysicist.com/)
+## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
 - [Day Zero](https://dramsch.net/posts/day-zero/)
 - [Data Science Question of the Week](https://dev.to/jesperdramsch/data-science-question-of-the-week-4l7j)
