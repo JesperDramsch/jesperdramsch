@@ -16,9 +16,9 @@
 
 ## Youtube: [LiKe, coMMeNt, SubsCrIbE](https://bit.ly/YTgeo)
 <!-- YOUTUBE-LIST:START -->
+- [My 10 Favourite VS Code Extensions 🐍](https://www.youtube.com/watch?v=qoL51QGDVZk)
 - [Machine Learning in Geoscience - PhD Defence of Jesper Dramsch](https://www.youtube.com/watch?v=aNXyx215brU)
 - [The No-Code Data Science Masterclass on @Skillshare](https://www.youtube.com/watch?v=SlUKC05VWMc)
-- [Pydata Global is getting virtual conferences right with Gather.Town](https://www.youtube.com/watch?v=vbmqFuZLxTM)
 <!-- YOUTUBE-LIST:END -->
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
