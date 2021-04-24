@@ -30,9 +30,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [☀️ Summer arrived, all suns blazing!](https://buttondown.email/jesper/archive/summer-arrived-all-suns-blazing/)
 - [🍕 Jokes about pizza need good delivery](https://buttondown.email/jesper/archive/jokes-about-pizza-need-good-delivery/)
 - [🐝 Bees don't go to church because they're insects.](https://buttondown.email/jesper/archive/bees-dont-go-to-church-because-theyre-insects/)
-- [🧮 Do mathematicians practice solve-love?](https://buttondown.email/jesper/archive/do-mathematicians-practice-solve-love/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
