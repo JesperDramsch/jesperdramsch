@@ -3,10 +3,10 @@
 
 - 🐍 I'm mostly a [Parselmouth](https://xkcd.com/353/).
 
-- 🌱 I’m currently learning **about differential privacy**.
+- 🌱 I’m currently learning **pointcloud data**.
 
 - 💻 All of my projects are available at [dramsch.net/projects](https://dramsch.net/projects).
-- 📝 I regulary write articles on [the-geophysicist.com](the-geophysicist.com) and a [newsletter](https://buttondown.email/jesper).
+- 📝 I regulary write articles on [my website](https://dramsch.net/blog), [the-geophysicist.com](https://the-geophysicist.com) and a [newsletter](https://buttondown.email/jesper).
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jesperdramsch&show_icons=true&hide_border=true&title_color=000000&cache_seconds=86400" /></p>
 
@@ -44,7 +44,8 @@ Check out my latest course on data science and business analytics in Python:
 ## Collaboration
 
 - 💬 Ask me about **python, machine learning, and data science.**
-- 👯 I’m looking to collaborate on [cool](https://arxiv.org/abs/2006.13311) [useful](https://github.com/scikit-learn/scikit-learn/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+author%3AJesperDramsch) [projects](https://github.com/pandas-dev/pandas/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+author%3AJesperDramsch).
+- 👯 I’m looking to collaborate on [cool](https://arxiv.org/abs/2006.13311) [useful](https://github.com/scikit-learn/scikit-learn/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+author%3AJesperDramsch) [projects](https://dramsch.net/projects).
+- 🙊 Need a speaker? Maybe we're a [match](https://dramsch.net/talks).
 - 📫 How to reach me: [jesper@dramsch.net](jesper@dramsch.net)
 - ⚡ Fun fact: The singer of Bad Religion has a PhD in [evolutionary biology](https://en.wikipedia.org/wiki/Greg_Graffin).
 
