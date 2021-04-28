@@ -23,9 +23,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [The Curious Case of Powers of Two](https://dramsch.net/posts/the-curious-case-of-powers-of-two/)
 - [My 10 Favourite VS Code Extensions 🐍](https://dramsch.net/posts/my-10-favourite-vs-code-extensions/)
 - [Day Zero](https://dramsch.net/posts/day-zero/)
-- [Juneteenth 2020](http://the-geophysicist.com/juneteenth-2020?utm_source=rss&utm_medium=rss&utm_campaign=juneteenth-2020)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
