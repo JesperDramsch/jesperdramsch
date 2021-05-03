@@ -30,9 +30,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [📕 My fave read? That'd just open up a can of bookworms.](https://buttondown.email/jesper/archive/my-fave-read-thatd-just-open-up-a-can-of-bookworms/)
 - [☀️ Summer arrived, all suns blazing!](https://buttondown.email/jesper/archive/summer-arrived-all-suns-blazing/)
 - [🍕 Jokes about pizza need good delivery](https://buttondown.email/jesper/archive/jokes-about-pizza-need-good-delivery/)
-- [🐝 Bees don't go to church because they're insects.](https://buttondown.email/jesper/archive/bees-dont-go-to-church-because-theyre-insects/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
