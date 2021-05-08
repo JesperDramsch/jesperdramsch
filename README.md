@@ -30,9 +30,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [🛬 Travelling lawyers rest their suitcase](https://buttondown.email/jesper/archive/travelling-lawyers-rest-their-suitcase/)
 - [📕 My fave read? That'd just open up a can of bookworms.](https://buttondown.email/jesper/archive/my-fave-read-thatd-just-open-up-a-can-of-bookworms/)
 - [☀️ Summer arrived, all suns blazing!](https://buttondown.email/jesper/archive/summer-arrived-all-suns-blazing/)
-- [🍕 Jokes about pizza need good delivery](https://buttondown.email/jesper/archive/jokes-about-pizza-need-good-delivery/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
