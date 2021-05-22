@@ -30,9 +30,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [🐋 Granddad Orca loves watching Whale of Fortune.](https://buttondown.email/jesper/archive/granddad-orca-loves-watching-whale-of-fortune/)
 - [🦆 Dr. Duckie is a total quack!](https://buttondown.email/jesper/archive/dr-duckie-is-a-total-quack/)
 - [🛬 Travelling lawyers rest their suitcase](https://buttondown.email/jesper/archive/travelling-lawyers-rest-their-suitcase/)
-- [📕 My fave read? That'd just open up a can of bookworms.](https://buttondown.email/jesper/archive/my-fave-read-thatd-just-open-up-a-can-of-bookworms/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
