@@ -30,9 +30,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [🦙 Llama tell you: Puns are alive and wool](https://buttondown.email/jesper/archive/llama-tell-you-puns-are-alive-and-wool/)
 - [🐋 Granddad Orca loves watching Whale of Fortune.](https://buttondown.email/jesper/archive/granddad-orca-loves-watching-whale-of-fortune/)
 - [🦆 Dr. Duckie is a total quack!](https://buttondown.email/jesper/archive/dr-duckie-is-a-total-quack/)
-- [🛬 Travelling lawyers rest their suitcase](https://buttondown.email/jesper/archive/travelling-lawyers-rest-their-suitcase/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
