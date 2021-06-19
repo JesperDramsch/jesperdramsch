@@ -30,9 +30,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [🏝️ Snoop Dogg's vacation: In the Tropic like it's hot!](https://buttondown.email/jesper/archive/snoop-doggs-vacation-in-the-tropic-like-its-hot/)
 - [🏎️ Why do you drive in the parkway and park in the driveway?](https://buttondown.email/jesper/archive/why-do-you-drive-in-the-parkway-and-park-in-the/)
 - [🦙 Llama tell you: Puns are alive and wool](https://buttondown.email/jesper/archive/llama-tell-you-puns-are-alive-and-wool/)
-- [🐋 Granddad Orca loves watching Whale of Fortune.](https://buttondown.email/jesper/archive/granddad-orca-loves-watching-whale-of-fortune/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
