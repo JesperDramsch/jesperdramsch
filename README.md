@@ -23,9 +23,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Transfer Learning is the Most Important Tool You Need to Learn](https://dramsch.net/posts/transfer-learning-is-the-most-important-tool-you-need-to-learn/)
 - [A Life of Convergence and Divergence](https://dramsch.net/posts/a-life-of-convergence-and-divergence/)
 - [The Curious Case of Powers of Two](https://dramsch.net/posts/the-curious-case-of-powers-of-two/)
-- [My 10 Favourite VS Code Extensions 🐍](https://dramsch.net/posts/my-10-favourite-vs-code-extensions/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
