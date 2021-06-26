@@ -30,9 +30,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [🐨 Australians spend Koalaty Time](https://buttondown.email/jesper/archive/australians-spend-koalaty-time/)
 - [🏝️ Snoop Dogg's vacation: In the Tropic like it's hot!](https://buttondown.email/jesper/archive/snoop-doggs-vacation-in-the-tropic-like-its-hot/)
 - [🏎️ Why do you drive in the parkway and park in the driveway?](https://buttondown.email/jesper/archive/why-do-you-drive-in-the-parkway-and-park-in-the/)
-- [🦙 Llama tell you: Puns are alive and wool](https://buttondown.email/jesper/archive/llama-tell-you-puns-are-alive-and-wool/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
