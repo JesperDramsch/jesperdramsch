@@ -16,9 +16,9 @@
 
 ## Youtube: [LiKe, coMMeNt, SubsCrIbE](https://bit.ly/YTgeo)
 <!-- YOUTUBE-LIST:START -->
+- [Machine Learning on Laptops? Everything you need to consider.](https://www.youtube.com/watch?v=LHiM0WnRaD8)
 - [My 10 Most Productive VS Code Extensions 🐍](https://www.youtube.com/watch?v=qoL51QGDVZk)
 - [Machine Learning in Geoscience - PhD Defence of Jesper Dramsch](https://www.youtube.com/watch?v=aNXyx215brU)
-- [The No-Code Data Science Masterclass on @Skillshare](https://www.youtube.com/watch?v=SlUKC05VWMc)
 <!-- YOUTUBE-LIST:END -->
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
