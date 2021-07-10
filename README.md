@@ -23,9 +23,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [The Incredible Benefit of Taking Extended Breaks](https://dramsch.net/posts/the-incredible-benefit-of-taking-extended-breaks/)
 - [What I consider in a Laptop for Machine Learning](https://dramsch.net/posts/what-i-consider-in-a-laptop-for-machine-learning/)
 - [Transfer Learning is the Most Important Tool You Need to Learn](https://dramsch.net/posts/transfer-learning-is-the-most-important-tool-you-need-to-learn/)
-- [A Life of Convergence and Divergence](https://dramsch.net/posts/a-life-of-convergence-and-divergence/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
