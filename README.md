@@ -30,9 +30,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [🍌 What Is Yellow and Shoots? A Bannone](https://buttondown.email/jesper/archive/what-is-yellow-and-shoots-a-bannone/)
 - [🌬️ Coming up with Weather Puns Is a Breeze](https://buttondown.email/jesper/archive/coming-up-with-weather-puns-is-a-breeze/)
 - [🐨 Australians spend Koalaty Time](https://buttondown.email/jesper/archive/australians-spend-koalaty-time/)
-- [🏝️ Snoop Dogg's vacation: In the Tropic like it's hot!](https://buttondown.email/jesper/archive/snoop-doggs-vacation-in-the-tropic-like-its-hot/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
