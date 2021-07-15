@@ -3,7 +3,7 @@
 
 - 🐍 I'm mostly a [Parselmouth](https://xkcd.com/353/).
 
-- 🌱 I’m currently learning **pointcloud data**.
+- 🌱 I’m currently learning **geometric deep learning**.
 
 - 💻 All of my projects are available at [dramsch.net/projects](https://dramsch.net/projects).
 - 📝 I regulary write articles on [my website](https://dramsch.net/blog), [the-geophysicist.com](https://the-geophysicist.com) and a [newsletter](https://buttondown.email/jesper).
