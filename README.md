@@ -8,7 +8,6 @@
 - 💻 All of my projects are available at [dramsch.net/projects](https://dramsch.net/projects).
 - 📝 I regulary write articles on [my website](https://dramsch.net/blog), [the-geophysicist.com](https://the-geophysicist.com) and a [newsletter](https://buttondown.email/jesper).
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jesperdramsch&show_icons=true&hide_border=true&title_color=000000&cache_seconds=86400" /></p>
 
 ## What matters
 
@@ -53,6 +52,12 @@ Check out my latest course on data science and business analytics in Python:
 
 I love coding, writing, and speaking. Feel free to contact me about opportunities, but let's make sure our [values](https://dramsch.net/#values) align.
 
+
+<details>
+<summary>My Github stats</summary>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jesperdramsch&show_icons=true&hide_border=true&title_color=000000&cache_seconds=86400" /></p>
+</details>
+
 <a href="https://dramsch.net/">
   <img align="left" alt="Jesper Dramsch' Website" width="22pt" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
 </a>
@@ -87,4 +92,4 @@ I love coding, writing, and speaking. Feel free to contact me about opportunitie
   <img align="left" alt="Jesper Dramsch' Twitch" width="22pt" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />
 </a>
 <br/><br/>
-<img src="https://dramsch.net/assets/images/banner1.jpg" width="50%">
+<img src="https://dramsch.net/images/banner/banner-me-speaking.jpg" width="50%">
