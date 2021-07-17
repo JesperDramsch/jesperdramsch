@@ -29,9 +29,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [🥀 If you dry flowers in books, you too can have an Alfalfa Fold](https://buttondown.email/jesper/archive/if-you-dry-flowers-in-books-you-too-can-have-an/)
 - [🍌 What Is Yellow and Shoots? A Bannone](https://buttondown.email/jesper/archive/what-is-yellow-and-shoots-a-bannone/)
 - [🌬️ Coming up with Weather Puns Is a Breeze](https://buttondown.email/jesper/archive/coming-up-with-weather-puns-is-a-breeze/)
-- [🐨 Australians spend Koalaty Time](https://buttondown.email/jesper/archive/australians-spend-koalaty-time/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
