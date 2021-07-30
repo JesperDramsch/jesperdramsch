@@ -15,9 +15,9 @@
 
 ## Youtube: [LiKe, coMMeNt, SubsCrIbE](https://bit.ly/YTgeo)
 <!-- YOUTUBE-LIST:START -->
+- [How to do free Machine Learning in the Cloud 💸](https://www.youtube.com/watch?v=Ld8vPbtyJWQ)
 - [How to do Machine Learning on Laptops 🦾](https://www.youtube.com/watch?v=LHiM0WnRaD8)
 - [My 10 Most Productive VS Code Extensions 🐍](https://www.youtube.com/watch?v=qoL51QGDVZk)
-- [Machine Learning in Geoscience - PhD Defence of Jesper Dramsch](https://www.youtube.com/watch?v=aNXyx215brU)
 <!-- YOUTUBE-LIST:END -->
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
