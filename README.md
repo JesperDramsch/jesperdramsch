@@ -29,9 +29,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [☕ Spending hours on Artisinal Espresso is Procaffeinating](https://buttondown.email/jesper/archive/spending-hours-on-artisinal-espresso-is/)
 - [🎂 Statistically, those with the most birthdays live the longest](https://buttondown.email/jesper/archive/statistically-those-with-the-most-birthdays-live/)
 - [🥀 If you dry flowers in books, you too can have an Alfalfa Fold](https://buttondown.email/jesper/archive/if-you-dry-flowers-in-books-you-too-can-have-an/)
-- [🍌 What Is Yellow and Shoots? A Bannone](https://buttondown.email/jesper/archive/what-is-yellow-and-shoots-a-bannone/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
