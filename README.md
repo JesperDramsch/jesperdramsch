@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [What Chess taught me about Data Science](https://dramsch.net/posts/what-chess-taught-me-about-data-science/)
 - [Get a free GPU for machine learning](https://dramsch.net/posts/get-a-free-gpu-for-machine-learning/)
 - [Polywork Is Made for Multi-passionate Folks like Me](https://dramsch.net/posts/polywork-is-made-for-multi-passionate-folks-like-me/)
-- [Process over Perfection](https://dramsch.net/posts/process-over-perfection/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
