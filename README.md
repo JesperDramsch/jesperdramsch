@@ -29,9 +29,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [🐍 When your Python change is accepted, do you have a PEP in your step?](https://buttondown.email/jesper/archive/when-your-python-change-is-accepted-do-you-have-a/)
 - [🧇 Waffles Are Pancakes with Abs](https://buttondown.email/jesper/archive/waffles-are-pancakes-with-abs/)
 - [☕ Spending hours on Artisinal Espresso is Procaffeinating](https://buttondown.email/jesper/archive/spending-hours-on-artisinal-espresso-is/)
-- [🎂 Statistically, those with the most birthdays live the longest](https://buttondown.email/jesper/archive/statistically-those-with-the-most-birthdays-live/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
