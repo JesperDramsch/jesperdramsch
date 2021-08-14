@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [I recreated Hey.com in Gmail](https://dramsch.net/posts/i-recreated-heycom-in-gmail/)
 - [What Chess taught me about Data Science](https://dramsch.net/posts/what-chess-taught-me-about-data-science/)
 - [Get a free GPU for machine learning](https://dramsch.net/posts/get-a-free-gpu-for-machine-learning/)
-- [Polywork Is Made for Multi-passionate Folks like Me](https://dramsch.net/posts/polywork-is-made-for-multi-passionate-folks-like-me/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
