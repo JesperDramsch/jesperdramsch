@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [What Finally Got Me to use Typehints in Python](https://dramsch.net/posts/what-finally-got-me-to-use-typehints-in-python/)
 - [The Winning Lottery Ticket Hypothesis Blows My Mind](https://dramsch.net/posts/winning-lottery-ticket-hypothesis/)
 - [I recreated Hey.com in Gmail](https://dramsch.net/posts/i-recreated-heycom-in-gmail/)
-- [What Chess taught me about Data Science](https://dramsch.net/posts/what-chess-taught-me-about-data-science/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
