@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [My Budget just got Supercharged with Wise.com](https://dramsch.net/posts/my-budget-just-got-supercharged-with-wisecom/)
 - [What Finally Got Me to use Typehints in Python](https://dramsch.net/posts/what-finally-got-me-to-use-typehints-in-python/)
 - [The Winning Lottery Ticket Hypothesis Blows My Mind](https://dramsch.net/posts/winning-lottery-ticket-hypothesis/)
-- [I recreated Hey.com in Gmail](https://dramsch.net/posts/i-recreated-heycom-in-gmail/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
