@@ -29,9 +29,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [🎉 Putting the fun in fundamental models](https://buttondown.email/jesper/archive/putting-the-fun-in-fundamental-models/)
 - [🎂 For Anniversaries Physicists Get Joule-ry [Giveaway Inside]](https://buttondown.email/jesper/archive/for-anniversaries-physicists-get-joule-ry/)
 - [🦕 Dinos got a rawr deal](https://buttondown.email/jesper/archive/dinos-got-a-rawr-deal/)
-- [🐍 When your Python change is accepted, do you have a PEP in your step?](https://buttondown.email/jesper/archive/when-your-python-change-is-accepted-do-you-have-a/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
