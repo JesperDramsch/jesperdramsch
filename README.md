@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [How do you get job experience when no one is hiring?](https://dramsch.net/posts/how-do-you-get-job-experience-when-no-one-is-hiring/)
 - [My Budget just got Supercharged with Wise.com](https://dramsch.net/posts/my-budget-just-got-supercharged-with-wisecom/)
 - [What Finally Got Me to use Typehints in Python](https://dramsch.net/posts/what-finally-got-me-to-use-typehints-in-python/)
-- [The Winning Lottery Ticket Hypothesis Blows My Mind](https://dramsch.net/posts/winning-lottery-ticket-hypothesis/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
