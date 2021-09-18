@@ -29,9 +29,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [🌐 Httpsters were online before it was cool](https://buttondown.email/jesper/archive/httpsters-were-online-before-it-was-cool/)
 - [😇 In Fortran GOD is real, unless declared an integer](https://buttondown.email/jesper/archive/in-fortran-god-is-real-unless-declared-an-integer/)
 - [🎉 Putting the fun in fundamental models](https://buttondown.email/jesper/archive/putting-the-fun-in-fundamental-models/)
-- [🎂 For Anniversaries Physicists Get Joule-ry [Giveaway Inside]](https://buttondown.email/jesper/archive/for-anniversaries-physicists-get-joule-ry/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
