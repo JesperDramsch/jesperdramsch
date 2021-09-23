@@ -15,9 +15,9 @@
 
 ## Youtube: [LiKe, coMMeNt, SubsCrIbE](https://bit.ly/YTgeo)
 <!-- YOUTUBE-LIST:START -->
-- [How to detect fraud with machine learning?](https://www.youtube.com/watch?v=f4wotdZc2zM)
-- [How to do free Machine Learning in the Cloud 💸](https://www.youtube.com/watch?v=Ld8vPbtyJWQ)
-- [How to do Machine Learning on Laptops 🦾](https://www.youtube.com/watch?v=LHiM0WnRaD8)
+- [How to detect FRAUD with machine learning? 🦹](https://www.youtube.com/watch?v=f4wotdZc2zM)
+- [How to get FREE cloud GPUs for Machine Learning 💸](https://www.youtube.com/watch?v=Ld8vPbtyJWQ)
+- [Watch this BEFORE buying a LAPTOP for Machine Learning 🦾](https://www.youtube.com/watch?v=LHiM0WnRaD8)
 <!-- YOUTUBE-LIST:END -->
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
