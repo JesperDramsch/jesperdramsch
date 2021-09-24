@@ -16,7 +16,7 @@
 ## Youtube: [LiKe, coMMeNt, SubsCrIbE](https://bit.ly/YTgeo)
 <!-- YOUTUBE-LIST:START -->
 - [How to detect FRAUD with machine learning? 🦹](https://www.youtube.com/watch?v=f4wotdZc2zM)
-- [How to get FREE cloud GPUs for Machine Learning 💸](https://www.youtube.com/watch?v=Ld8vPbtyJWQ)
+- [Completely FREE GPUs for Machine Learning in the CLOUD 💸](https://www.youtube.com/watch?v=Ld8vPbtyJWQ)
 - [Watch this BEFORE buying a LAPTOP for Machine Learning 🦾](https://www.youtube.com/watch?v=LHiM0WnRaD8)
 <!-- YOUTUBE-LIST:END -->
 
