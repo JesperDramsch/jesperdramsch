@@ -15,9 +15,9 @@
 
 ## Youtube: [LiKe, coMMeNt, SubsCrIbE](https://bit.ly/YTgeo)
 <!-- YOUTUBE-LIST:START -->
+- [This is how YOU get Job Experience when no one's HIRING](https://www.youtube.com/watch?v=1EhhhGaElAM)
 - [How to detect FRAUD with machine learning? 🦹](https://www.youtube.com/watch?v=f4wotdZc2zM)
 - [Access FREE GPUs for Machine Learning in the Google CLOUD 💸](https://www.youtube.com/watch?v=Ld8vPbtyJWQ)
-- [Watch this BEFORE buying a LAPTOP for Machine Learning 🦾](https://www.youtube.com/watch?v=LHiM0WnRaD8)
 <!-- YOUTUBE-LIST:END -->
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
