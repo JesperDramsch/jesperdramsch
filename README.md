@@ -29,9 +29,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [☕ Wake me up before you cocoa](https://buttondown.email/jesper/archive/wake-me-up-before-you-cocoa/)
 - [🐴 Horses make good neighbours](https://buttondown.email/jesper/archive/horses-make-good-neighbours/)
 - [🌐 Httpsters were online before it was cool](https://buttondown.email/jesper/archive/httpsters-were-online-before-it-was-cool/)
-- [😇 In Fortran GOD is real, unless declared an integer](https://buttondown.email/jesper/archive/in-fortran-god-is-real-unless-declared-an-integer/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
