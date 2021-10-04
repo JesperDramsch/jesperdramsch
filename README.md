@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [What is the Deepmind Nowcasting paper all about?](https://dramsch.net/posts/deepmind-nowcasting/)
 - [Double descent explains why your machine learning model is getting worse](https://dramsch.net/posts/double-descent-explains-why-your-machine-learning-model-is-getting-worse/)
 - [How do you get job experience when no one is hiring?](https://dramsch.net/posts/how-do-you-get-job-experience-when-no-one-is-hiring/)
-- [My Budget just got Supercharged with Wise.com](https://dramsch.net/posts/my-budget-just-got-supercharged-with-wisecom/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
