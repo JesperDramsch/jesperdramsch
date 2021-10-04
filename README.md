@@ -15,7 +15,7 @@
 
 ## Youtube: [LiKe, coMMeNt, SubsCrIbE](https://bit.ly/YTgeo)
 <!-- YOUTUBE-LIST:START -->
-- [How YOU get Job Experience when no one's HIRING](https://www.youtube.com/watch?v=1EhhhGaElAM)
+- [How you get JOB Experience when no one's HIRING](https://www.youtube.com/watch?v=1EhhhGaElAM)
 - [How to detect FRAUD with machine learning? 🦹](https://www.youtube.com/watch?v=f4wotdZc2zM)
 - [Access FREE GPUs for Machine Learning in the Google CLOUD 💸](https://www.youtube.com/watch?v=Ld8vPbtyJWQ)
 <!-- YOUTUBE-LIST:END -->
