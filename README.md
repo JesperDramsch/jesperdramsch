@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [How hard is your Machine Learning Problem?](https://dramsch.net/posts/how-hard-is-your-machine-learning-problem/)
 - [Scientists make great Data Scientists](https://dramsch.net/posts/scientists-make-great-data-scientists/)
 - [In Awe of those who Create](https://dramsch.net/posts/in-awe-of-those-who-create/)
-- [What is the Deepmind Nowcasting paper all about?](https://dramsch.net/posts/deepmind-nowcasting/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
