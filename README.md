@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [If your model doesn't work, make it smaller](https://dramsch.net/posts/if-your-model-doesnt-work-make-it-smaller/)
 - [How hard is your Machine Learning Problem?](https://dramsch.net/posts/how-hard-is-your-machine-learning-problem/)
 - [Scientists make great Data Scientists](https://dramsch.net/posts/scientists-make-great-data-scientists/)
-- [In Awe of those who Create](https://dramsch.net/posts/in-awe-of-those-who-create/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
