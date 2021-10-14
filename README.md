@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Machine Learning can learn from Tesla & Friends](https://dramsch.net/posts/machine-learning-can-learn-from-tesla-friends/)
 - [If your model doesn't work, make it smaller](https://dramsch.net/posts/if-your-model-doesnt-work-make-it-smaller/)
 - [How hard is your Machine Learning Problem?](https://dramsch.net/posts/how-hard-is-your-machine-learning-problem/)
-- [Scientists make great Data Scientists](https://dramsch.net/posts/scientists-make-great-data-scientists/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
