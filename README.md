@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [My Personal Great Resignation](https://dramsch.net/posts/my-personal-great-resignation/)
 - [Real-world Machine Learning is Hard](https://dramsch.net/posts/real-world-machine-learning-is-hard/)
 - [My Machine Learning Ideas Multiply When Shared](https://dramsch.net/posts/my-machine-learning-ideas-multiply-when-shared/)
-- [3 Ways AI improves our World](https://dramsch.net/posts/3-ways-ai-improves-our-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
