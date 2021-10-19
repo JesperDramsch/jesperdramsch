@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [How to Supercharge Your Developer Productivity](https://dramsch.net/posts/how-to-supercharge-your-developer-productivity/)
 - [My Personal Great Resignation](https://dramsch.net/posts/my-personal-great-resignation/)
 - [Real-world Machine Learning is Hard](https://dramsch.net/posts/real-world-machine-learning-is-hard/)
-- [My Machine Learning Ideas Multiply When Shared](https://dramsch.net/posts/my-machine-learning-ideas-multiply-when-shared/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
