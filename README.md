@@ -17,7 +17,7 @@
 <!-- YOUTUBE-LIST:START -->
 - [7 Ways to get JOB Experience when no one's HIRING 👔](https://www.youtube.com/watch?v=1EhhhGaElAM)
 - [How to detect FRAUD with machine learning? 🦹](https://www.youtube.com/watch?v=f4wotdZc2zM)
-- [3 ways to FREE Tesla GPUs for Machine Learning in the CLOUD 💸](https://www.youtube.com/watch?v=Ld8vPbtyJWQ)
+- [3 ways to free TESLA cards for Machine Learning in the CLOUD 💸](https://www.youtube.com/watch?v=Ld8vPbtyJWQ)
 <!-- YOUTUBE-LIST:END -->
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
