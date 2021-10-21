@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Never Include These Data Science Projects on a Resume](https://dramsch.net/posts/never-include-these-data-science-projects-on-a-resume/)
+- [The Mistake Data Scientists Make on Their Resume and How to Avoid Writing 100s of Applications](https://dramsch.net/posts/the-mistake-data-scientists-make-on-their-resume-and-how-to-avoid-writing-100s-of-applications/)
 - [Do You Use Cross-Validation in Deep Learning?](https://dramsch.net/posts/do-you-use-cross-validation-in-deep-learning/)
-- [How to Supercharge Your Developer Productivity](https://dramsch.net/posts/how-to-supercharge-your-developer-productivity/)
-- [My Personal Great Resignation](https://dramsch.net/posts/my-personal-great-resignation/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
