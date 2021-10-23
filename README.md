@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Good software practice saved 3 of my friends & me from being expelled from university](https://dramsch.net/posts/good-software-practice-saved-3-of-my-friends-me-from-being-expelled-from-university/)
+- [Here’s How Data Scientists Suffer from Imposter Syndrome](https://dramsch.net/posts/heres-how-data-scientists-suffer-from-imposter-syndrome/)
 - [Never Include These Data Science Projects on a Resume](https://dramsch.net/posts/never-include-these-data-science-projects-on-a-resume/)
-- [The Mistake Data Scientists Make on Their Resume and How to Avoid Writing 100s of Applications](https://dramsch.net/posts/the-mistake-data-scientists-make-on-their-resume-and-how-to-avoid-writing-100s-of-applications/)
-- [Do You Use Cross-Validation in Deep Learning?](https://dramsch.net/posts/do-you-use-cross-validation-in-deep-learning/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
