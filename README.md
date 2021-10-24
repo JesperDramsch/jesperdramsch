@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [I Got Successful in Machine Learning with This Decision Framework & How it Can Help Your Career Growth](https://dramsch.net/posts/i-got-successful-in-machine-learning-with-this-decision-framework-how-it-can-help-your-career-growth/)
 - [Good software practice saved 3 of my friends & me from being expelled from university](https://dramsch.net/posts/good-software-practice-saved-3-of-my-friends-me-from-being-expelled-from-university/)
 - [Here’s How Data Scientists Suffer from Imposter Syndrome](https://dramsch.net/posts/heres-how-data-scientists-suffer-from-imposter-syndrome/)
-- [Never Include These Data Science Projects on a Resume](https://dramsch.net/posts/never-include-these-data-science-projects-on-a-resume/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
