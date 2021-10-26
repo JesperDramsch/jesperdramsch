@@ -16,7 +16,7 @@
 ## Youtube: [LiKe, coMMeNt, SubsCrIbE](https://bit.ly/YTgeo)
 <!-- YOUTUBE-LIST:START -->
 - [NEVER include these Data Science projects on your RESUME 🙅](https://www.youtube.com/watch?v=UdZsTaMyuYo)
-- [7 Ways to get JOB Experience when no one's HIRING 👔](https://www.youtube.com/watch?v=1EhhhGaElAM)
+- [7 Smart Hacks to get EXPERIENCE without a JOB 👔](https://www.youtube.com/watch?v=1EhhhGaElAM)
 - [How to detect FRAUD with machine learning? 🦹](https://www.youtube.com/watch?v=f4wotdZc2zM)
 <!-- YOUTUBE-LIST:END -->
 
