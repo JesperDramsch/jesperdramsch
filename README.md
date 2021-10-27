@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [I Hate Cheatsheets. Here's how they make you a worse programmer and a better alternative.](https://dramsch.net/posts/i-hate-cheatsheets-heres-how-they-make-you-a-worse-programmer-and-a-better-alternative/)
 - [Anyone Can Build a Neural Network, This Skill Will Set You Apart from Others](https://dramsch.net/posts/anyone-can-build-a-neural-network-this-skill-will-set-you-apart-from-others/)
 - [Top Research Facilities Have a "Software Person" Here's Why You Need One to Stop Wasting Grant Money and Accelerate Research Exponentially](https://dramsch.net/posts/top-research-facilities-have-a-software-person-heres-why-you-need-one-to-stop-wasting-grant-money-and-accelerate-research-exponentially/)
-- [I Got Successful in Machine Learning with This Decision Framework & How it Can Help Your Career Growth](https://dramsch.net/posts/i-got-successful-in-machine-learning-with-this-decision-framework-how-it-can-help-your-career-growth/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
