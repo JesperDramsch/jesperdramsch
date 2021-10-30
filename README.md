@@ -29,9 +29,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [🍬 On Halloween be careful your AI doesn't cross into uncandy valley](https://buttondown.email/jesper/archive/on-halloween-be-careful-your-ai-doesnt-cross-into/)
 - [👀 X-ray technicians can see right through your lies](https://buttondown.email/jesper/archive/x-ray-technicians-can-see-right-through-your-lies/)
 - [🎆 Building fireworks is easy with a blewprint](https://buttondown.email/jesper/archive/building-fireworks-is-easy-with-a-blewprint/)
-- [⭕ To the person who invented zero, thanks for nothing.](https://buttondown.email/jesper/archive/to-the-person-who-invented-zero-thanks-for-nothing/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
