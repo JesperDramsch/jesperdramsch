@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [How to finally start learning data science and stop worrying if it's the right course](https://dramsch.net/posts/how-to-finally-start-learning-data-science-and-stop-worrying-if-its-the-right-course/)
 - [How to Guarantee No One Understands What You Did in Your Machine Learning Project](https://dramsch.net/posts/how-to-guarantee-no-one-understands-what-you-did-in-your-machine-learning-project/)
 - [Open-source a mystery to you? Here's how I got started.](https://dramsch.net/posts/open-source-a-mystery-to-you-heres-how-i-got-started/)
-- [This Small Thing about Python No One Notices Can Help You Scale Globally](https://dramsch.net/posts/this-small-thing-about-python-no-one-notices-can-help-you-scale-globally/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
