@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [These 2 mindset shifts helped in my PhD and might just save you too](https://dramsch.net/posts/these-2-mindset-shifts-helped-in-my-phd-and-might-just-save-you-too/)
+- [There’s a silent killer in your data.](https://dramsch.net/posts/theres-a-silent-killer-in-your-data/)
 - [The Oscar-winning movie "A Beautiful Mind" about a Nobel Laureate shows why you should value your small open-source contribution](https://dramsch.net/posts/the-oscar-winning-movie-a-beautiful-mind-about-a-nobel-laureate-shows-why-you-should-value-your-small-open-source-contribution/)
-- [How to finally start learning data science and stop worrying if it's the right course](https://dramsch.net/posts/how-to-finally-start-learning-data-science-and-stop-worrying-if-its-the-right-course/)
-- [How to Guarantee No One Understands What You Did in Your Machine Learning Project](https://dramsch.net/posts/how-to-guarantee-no-one-understands-what-you-did-in-your-machine-learning-project/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
