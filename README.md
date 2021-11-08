@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [5 Lessons from Creating an Essay a Day for 30 Days](https://dramsch.net/posts/5-lessons-from-creating-an-essay-a-day-for-30-days/)
+- [Why Data Science Fails](https://dramsch.net/posts/why-data-science-fails/)
 - [The myth of Kaggle and what people can actually learn on the platform](https://dramsch.net/posts/the-myth-of-kaggle-and-what-people-can-actually-learn-on-the-platform/)
-- [3 Translations you need to make in your Academic Resume to apply as a Data Scientist](https://dramsch.net/posts/3-translations-you-need-to-make-in-your-academic-resume-to-apply-as-a-data-scientist/)
-- [The dangerous reason Social Media companies have an Ethical AI Research section](https://dramsch.net/posts/the-dangerous-reason-social-media-companies-have-an-ethical-ai-research-section/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
