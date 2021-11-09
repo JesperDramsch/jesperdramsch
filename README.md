@@ -30,7 +30,7 @@
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
 - [🌞 Sicily turns me into a pizza afficionadough](https://buttondown.email/jesper/archive/sicily-turns-me-into-a-pizza-afficionadough/)
-- [🍬 On Halloween be careful your AI doesn't cross into uncandy valley](https://buttondown.email/jesper/archive/on-halloween-be-careful-your-ai-doesnt-cross-into/)
+- [🍬 On Halloween be careful your AI doesn&#39;t cross into uncandy valley](https://buttondown.email/jesper/archive/on-halloween-be-careful-your-ai-doesnt-cross-into/)
 - [👀 X-ray technicians can see right through your lies](https://buttondown.email/jesper/archive/x-ray-technicians-can-see-right-through-your-lies/)
 <!-- NEWSLETTER-LIST:END -->
 
