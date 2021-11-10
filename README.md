@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Data Science Influencers are Lying to You About Your Degree](https://dramsch.net/posts/data-science-influencers-are-lying-to-you-about-your-degree/)
 - [5 Insights You are Missing Out on on Kaggle](https://dramsch.net/posts/5-insights-you-are-missing-out-on-on-kaggle/)
 - [5 Lessons from Creating an Essay a Day for 30 Days](https://dramsch.net/posts/5-lessons-from-creating-an-essay-a-day-for-30-days/)
-- [Why Data Science Fails](https://dramsch.net/posts/why-data-science-fails/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
