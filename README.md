@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t learn another machine learning library. This other tool is in high demand!](https://dramsch.net/posts/dont-learn-another-machine-learning-library-this-other-tool-is-in-high-demand/)
 - [How Physicists can Start Learning Data Science](https://dramsch.net/posts/how-physicists-can-start-learning-data-science/)
 - [Data Science Influencers are Lying to You About Your Degree](https://dramsch.net/posts/data-science-influencers-are-lying-to-you-about-your-degree/)
-- [5 Insights You are Missing Out on on Kaggle](https://dramsch.net/posts/5-insights-you-are-missing-out-on-on-kaggle/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
