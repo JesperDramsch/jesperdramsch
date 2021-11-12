@@ -15,7 +15,7 @@
 
 ## Youtube: [LiKe, coMMeNt, SubsCrIbE](https://bit.ly/YTgeo)
 <!-- YOUTUBE-LIST:START -->
-- [Don&#39;t LOSE jobs to these DATA Science projects on your resume 🙅](https://www.youtube.com/watch?v=UdZsTaMyuYo)
+- [BOOST your resume -- avoid this DATA Science project 🙅](https://www.youtube.com/watch?v=UdZsTaMyuYo)
 - [7 valuable UPGRADES to your RESUME without experience👔](https://www.youtube.com/watch?v=1EhhhGaElAM)
 - [How to detect FRAUD with machine learning? 🦹](https://www.youtube.com/watch?v=f4wotdZc2zM)
 <!-- YOUTUBE-LIST:END -->
