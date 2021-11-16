@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [When reality changes, machine learning fails &amp; how you can avoid these pitfalls](https://dramsch.net/posts/when-reality-changes-machine-learning-fails-how-you-can-avoid-these-pitfalls/)
 - [Python is slow! Or is it?!](https://dramsch.net/posts/python-is-slow-or-is-it/)
 - [Don&#39;t learn another machine learning library. This other tool is in high demand!](https://dramsch.net/posts/dont-learn-another-machine-learning-library-this-other-tool-is-in-high-demand/)
-- [How Physicists can Start Learning Data Science](https://dramsch.net/posts/how-physicists-can-start-learning-data-science/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
