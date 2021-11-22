@@ -29,9 +29,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [🌳 Bad gardeners are rough around the hedges.](https://buttondown.email/jesper/archive/bad-gardeners-are-rough-around-the-hedges/)
 - [🏴‍☠️  Davy Jones climbed the cor-pirate ladder](https://buttondown.email/jesper/archive/davy-jones-climbed-the-cor-pirate-ladder/)
 - [🌞 Sicily turns me into a pizza afficionadough](https://buttondown.email/jesper/archive/sicily-turns-me-into-a-pizza-afficionadough/)
-- [🍬 On Halloween be careful your AI doesn&#39;t cross into uncandy valley](https://buttondown.email/jesper/archive/on-halloween-be-careful-your-ai-doesnt-cross-into/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
