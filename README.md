@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [A Guide to Data Science Bootcamps](https://dramsch.net/posts/data-science-bootcamps/)
+- [The Curious Case of Quantum Machine Learning](https://dramsch.net/posts/the-curious-case-of-quantum-machine-learning/)
 - [Every December I Become a Better Programmer and You Could Too](https://dramsch.net/posts/every-december-i-become-a-better-programmer-and-you-could-too/)
-- [When reality changes, machine learning fails &amp; how you can avoid these pitfalls](https://dramsch.net/posts/when-reality-changes-machine-learning-fails-how-you-can-avoid-these-pitfalls/)
-- [Python is slow! Or is it?!](https://dramsch.net/posts/python-is-slow-or-is-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
