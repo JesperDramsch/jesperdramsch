@@ -15,9 +15,9 @@
 
 ## Youtube: [LiKe, coMMeNt, SubsCrIbE](https://bit.ly/YTgeo)
 <!-- YOUTUBE-LIST:START -->
+- [DON&#39;T join a DATA Science Bootcamp before watching this🥾](https://www.youtube.com/watch?v=yVFMI-dQ7po)
 - [AVOID these 3 beginner DATA Science projects to BOOST your resume 🙅](https://www.youtube.com/watch?v=UdZsTaMyuYo)
 - [7 valuable UPGRADES to your RESUME without experience👔](https://www.youtube.com/watch?v=1EhhhGaElAM)
-- [How to detect FRAUD with machine learning? 🦹](https://www.youtube.com/watch?v=f4wotdZc2zM)
 <!-- YOUTUBE-LIST:END -->
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
