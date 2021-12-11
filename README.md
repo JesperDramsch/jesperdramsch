@@ -29,9 +29,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [🎅 A simple case of Claus and effect](https://buttondown.email/jesper/archive/a-simple-case-of-claus-and-effect/)
 - [❄ It takes one to snow one](https://buttondown.email/jesper/archive/it-takes-one-to-snow-one/)
 - [🌳 Bad gardeners are rough around the hedges.](https://buttondown.email/jesper/archive/bad-gardeners-are-rough-around-the-hedges/)
-- [🏴‍☠️  Davy Jones climbed the cor-pirate ladder](https://buttondown.email/jesper/archive/davy-jones-climbed-the-cor-pirate-ladder/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
