@@ -15,9 +15,9 @@
 
 ## Youtube: [LiKe, coMMeNt, SubsCrIbE](https://bit.ly/YTgeo)
 <!-- YOUTUBE-LIST:START -->
-- [Unsure about data science Bootcamps in 2022? Watch this first! 🥾](https://www.youtube.com/watch?v=yVFMI-dQ7po)
-- [AVOID these 3 beginner DATA Science projects to BOOST your resume 🙅](https://www.youtube.com/watch?v=UdZsTaMyuYo)
-- [Upgrade your RESUME even WITHOUT experience👔 | Entry-level data science advice](https://www.youtube.com/watch?v=1EhhhGaElAM)
+- [data science Bootcamps in 2022? All you need to know 🥾](https://www.youtube.com/watch?v=yVFMI-dQ7po)
+- [These DATA Science projects COST you jobs 🙅](https://www.youtube.com/watch?v=UdZsTaMyuYo)
+- [get DATA science experience without a JOB👔](https://www.youtube.com/watch?v=1EhhhGaElAM)
 <!-- YOUTUBE-LIST:END -->
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
