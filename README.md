@@ -29,9 +29,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [🎆 My New Year&#39;s resolution is 1920x1080](https://buttondown.email/jesper/archive/my-new-years-resolution-is-1920x1080/)
 - [🎅 We&#39;re lucky Santa isn&#39;t Claus-trophobic](https://buttondown.email/jesper/archive/were-lucky-santa-isnt-claus-trophobic/)
 - [🎁 Book gifts for Christmas make you elf-taught](https://buttondown.email/jesper/archive/book-gifts-for-christmas-make-you-elf-taught/)
-- [🎅 A simple case of Claus and effect](https://buttondown.email/jesper/archive/a-simple-case-of-claus-and-effect/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
