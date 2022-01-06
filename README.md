@@ -16,7 +16,7 @@
 ## Youtube: [LiKe, coMMeNt, SubsCrIbE](https://bit.ly/YTgeo)
 <!-- YOUTUBE-LIST:START -->
 - [learn AI in 2022 📚](https://www.youtube.com/watch?v=IGb1uLiVsaY)
-- [data science Boot camps in 2022? ALL you need to know 🥾](https://www.youtube.com/watch?v=yVFMI-dQ7po)
+- [data SCIENCE Boot camps in 2022? ALL you need to know 🥾](https://www.youtube.com/watch?v=yVFMI-dQ7po)
 - [These DATA Science projects COST you jobs 🙅](https://www.youtube.com/watch?v=UdZsTaMyuYo)
 <!-- YOUTUBE-LIST:END -->
 
