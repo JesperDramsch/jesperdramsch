@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [You&#39;re Using Kaggle Wrong](https://dramsch.net/posts/youre-using-kaggle-wrong/)
 - [My 2021 in Numbers](https://dramsch.net/posts/my-2021-in-numbers/)
 - [I Built my First Neural Network From Scratch](https://dramsch.net/posts/i-built-my-first-neural-network-from-scratch/)
-- [A Guide to Data Science Bootcamps](https://dramsch.net/posts/data-science-bootcamps/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
