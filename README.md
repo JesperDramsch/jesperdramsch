@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Worldwide Trillions of Dollars in value are lost in PDFs](https://dramsch.net/posts/worldwide-trillions-of-dollars-in-value-are-lost-in-pdfs/)
 - [AI is dead! Long Live AI!](https://dramsch.net/posts/ai-is-dead-long-live-ai/)
 - [Data Scientists need to understand these two metrics and consider this third recommendation from a Stanford professor](https://dramsch.net/posts/data-scientists-need-to-understand-these-two-metrics-and-consider-this-third-recommendation-from-a-stanford-professor/)
-- [You&#39;re Using Kaggle Wrong](https://dramsch.net/posts/youre-using-kaggle-wrong/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
