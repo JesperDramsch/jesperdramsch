@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Startin a new machine learning project? User this 3-tier system to gauge difficulty.](https://dramsch.net/posts/startin-a-new-machine-learning-project-user-this-3-tier-system-to-gauge-difficulty/)
 - [Worldwide Trillions of Dollars in value are lost in PDFs](https://dramsch.net/posts/worldwide-trillions-of-dollars-in-value-are-lost-in-pdfs/)
 - [AI is dead! Long Live AI!](https://dramsch.net/posts/ai-is-dead-long-live-ai/)
-- [Data Scientists need to understand these two metrics and consider this third recommendation from a Stanford professor](https://dramsch.net/posts/data-scientists-need-to-understand-these-two-metrics-and-consider-this-third-recommendation-from-a-stanford-professor/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
