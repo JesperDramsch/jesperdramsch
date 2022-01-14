@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [I have been selected as a Software Sustainability Institute fellow 2022](https://dramsch.net/posts/i-have-been-selected-as-a-software-sustainability-institute-fellow-2022/)
 - [Startin a new machine learning project? User this 3-tier system to gauge difficulty.](https://dramsch.net/posts/startin-a-new-machine-learning-project-user-this-3-tier-system-to-gauge-difficulty/)
 - [Worldwide Trillions of Dollars in value are lost in PDFs](https://dramsch.net/posts/worldwide-trillions-of-dollars-in-value-are-lost-in-pdfs/)
-- [AI is dead! Long Live AI!](https://dramsch.net/posts/ai-is-dead-long-live-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
