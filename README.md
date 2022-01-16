@@ -29,9 +29,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [📈 Omega 3 helps with art-of-fish-oil intelligence](https://buttondown.email/jesper/archive/omega-3-helps-with-art-of-fish-oil-intelligence/)
 - [🎆 It’s a new year! Viva la resolución!](https://buttondown.email/jesper/archive/its-a-new-year-viva-la-resolucion/)
 - [🎆 My New Year&#39;s resolution is 1920x1080](https://buttondown.email/jesper/archive/my-new-years-resolution-is-1920x1080/)
-- [🎅 We&#39;re lucky Santa isn&#39;t Claus-trophobic](https://buttondown.email/jesper/archive/were-lucky-santa-isnt-claus-trophobic/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
