@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Physicists have an unfair advantage getting into machine learning](https://dramsch.net/posts/physicists-have-an-unfair-advantage-getting-into-machine-learning/)
 - [Start your first research project applying machine learning to real-world data in 2022](https://dramsch.net/posts/start-your-first-research-project-applying-machine-learning-to-real-world-data-in-2022/)
 - [I have been selected as a Software Sustainability Institute fellow 2022](https://dramsch.net/posts/i-have-been-selected-as-a-software-sustainability-institute-fellow-2022/)
-- [Startin a new machine learning project? User this 3-tier system to gauge difficulty.](https://dramsch.net/posts/startin-a-new-machine-learning-project-user-this-3-tier-system-to-gauge-difficulty/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
