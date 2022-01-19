@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [There&#39;s one skill that prevents data science from certain failure](https://dramsch.net/posts/theres-one-skill-that-prevents-data-science-from-certain-failure/)
 - [Physicists have an unfair advantage getting into machine learning](https://dramsch.net/posts/physicists-have-an-unfair-advantage-getting-into-machine-learning/)
 - [Start your first research project applying machine learning to real-world data in 2022](https://dramsch.net/posts/start-your-first-research-project-applying-machine-learning-to-real-world-data-in-2022/)
-- [I have been selected as a Software Sustainability Institute fellow 2022](https://dramsch.net/posts/i-have-been-selected-as-a-software-sustainability-institute-fellow-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
