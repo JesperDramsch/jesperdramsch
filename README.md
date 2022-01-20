@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Solving coding challenges is hard but it&#39;s great practice for tech interviews](https://dramsch.net/posts/solving-coding-challenges-is-hard-but-its-great-practice-for-tech-interviews/)
+- [What&#39;s better than a GAN? Two GANs!](https://dramsch.net/posts/whats-better-than-a-gan-two-gans/)
 - [There&#39;s one skill that prevents data science from certain failure](https://dramsch.net/posts/theres-one-skill-that-prevents-data-science-from-certain-failure/)
-- [Physicists have an unfair advantage getting into machine learning](https://dramsch.net/posts/physicists-have-an-unfair-advantage-getting-into-machine-learning/)
-- [Start your first research project applying machine learning to real-world data in 2022](https://dramsch.net/posts/start-your-first-research-project-applying-machine-learning-to-real-world-data-in-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
