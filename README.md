@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
-- [The biggest lie we tell students - Industry or Academia](https://dramsch.net/posts/the-biggest-lie-we-tell-students/)
-- [Solving coding challenges is hard but it&#39;s great practice for tech interviews](https://dramsch.net/posts/solving-coding-challenges-is-hard-but-its-great-practice-for-tech-interviews/)
-- [What&#39;s better than a GAN? Two GANs!](https://dramsch.net/posts/whats-better-than-a-gan-two-gans/)
+- [Juneteenth 2020](http://the-geophysicist.com/juneteenth-2020?utm_source=rss&utm_medium=rss&utm_campaign=juneteenth-2020)
+- [All About Dashboards – Friday Faves](http://the-geophysicist.com/all-about-dashboards-friday-faves?utm_source=rss&utm_medium=rss&utm_campaign=all-about-dashboards-friday-faves)
+- [Keeping Busy – Friday Faves](http://the-geophysicist.com/keeping-busy-friday-faves?utm_source=rss&utm_medium=rss&utm_campaign=keeping-busy-friday-faves)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
