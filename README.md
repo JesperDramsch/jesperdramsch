@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [My first first-author paper broke 50 citations. I think I know why and you can do it too](https://dramsch.net/posts/my-first-first-author-paper-broke-50-citations-i-think-i-know-why-and-you-can-do-it-too/)
 - [You can shortcut 90% of Data Structures and Algorithms courses by learning about Big O notation](https://dramsch.net/posts/you-can-shortcut-90-of-data-structures-and-algorithms-courses-by-learning-about-big-o-notation/)
 - [Machine Learning engineers need to learn from radiologists to truly understand human-labelled data](https://dramsch.net/posts/machine-learning-engineers-need-to-learn-from-radiologists-to-truly-understand-human-labelled-data/)
-- [The biggest lie we tell students - Industry or Academia](https://dramsch.net/posts/the-biggest-lie-we-tell-students/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
