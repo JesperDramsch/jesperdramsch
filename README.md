@@ -29,9 +29,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [🔢 There is a fine line between the numerator and the denominator](https://buttondown.email/jesper/archive/there-is-a-fine-line-between-the-numerator-and/)
 - [🦆 Ducks like to quack a joke](https://buttondown.email/jesper/archive/ducks-like-to-quack-a-joke/)
 - [📈 Omega 3 helps with art-of-fish-oil intelligence](https://buttondown.email/jesper/archive/omega-3-helps-with-art-of-fish-oil-intelligence/)
-- [🎆 It’s a new year! Viva la resolución!](https://buttondown.email/jesper/archive/its-a-new-year-viva-la-resolucion/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
