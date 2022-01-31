@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [3 Ways you can use Jupyter Notebook as an excellent Communication Tool](https://dramsch.net/posts/3-ways-you-can-use-jupyter-notebook-as-an-excellent-communication-tool/)
 - [How to deal with data changing and machine learning models doing worse after training](https://dramsch.net/posts/how-to-deal-with-data-changing-and-machine-learning-models-doing-worse-after-training/)
 - [My first first-author paper broke 50 citations. I think I know why and you can do it too](https://dramsch.net/posts/my-first-first-author-paper-broke-50-citations-i-think-i-know-why-and-you-can-do-it-too/)
-- [You can shortcut 90% of Data Structures and Algorithms courses by learning about Big O notation](https://dramsch.net/posts/you-can-shortcut-90-of-data-structures-and-algorithms-courses-by-learning-about-big-o-notation/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
