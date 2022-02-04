@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Follow these 5 great ML creators on Twitter](https://dramsch.net/posts/follow-these-5-great-ml-creators-on-twitter/)
 - [4 Tools Kaggle Grandmasters use to win $100,000s in competitions](https://dramsch.net/posts/4-tools-kaggle-grandmasters-use-to-win-100000s-in-competitions/)
 - [My 2022 Twitter Experiment](https://dramsch.net/posts/my-2022-twitter-experiment/)
-- [Pandas borrows a core concept from SQL and these 3 emoji tell you exactly how to use it](https://dramsch.net/posts/pandas-borrows-a-core-concept-from-sql-and-these-3-emoji-tell-you-exactly-how-to-use-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
