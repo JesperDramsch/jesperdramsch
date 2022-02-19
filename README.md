@@ -29,9 +29,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [👩‍🍳 A chef that likes arson commits crìme brûlée](https://buttondown.email/jesper/archive/a-chef-that-likes-arson-commits-crime-brulee/)
 - [🦦 Small mammals are otterly adorable](https://buttondown.email/jesper/archive/small-mammals-are-otterly-adorable/)
 - [☕ Good coffee deserves the seal of abrewval](https://buttondown.email/jesper/archive/good-coffee-deserves-the-seal-of-abrewval/)
-- [🔢 There is a fine line between the numerator and the denominator](https://buttondown.email/jesper/archive/there-is-a-fine-line-between-the-numerator-and/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
