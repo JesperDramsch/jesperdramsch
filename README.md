@@ -29,9 +29,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [⚒ Geologists for their faults are marbellous](https://buttondown.email/jesper/archive/geologists-for-their-faults-are-marbellous/)
 - [👩‍🍳 A chef that likes arson commits crìme brûlée](https://buttondown.email/jesper/archive/a-chef-that-likes-arson-commits-crime-brulee/)
 - [🦦 Small mammals are otterly adorable](https://buttondown.email/jesper/archive/small-mammals-are-otterly-adorable/)
-- [☕ Good coffee deserves the seal of abrewval](https://buttondown.email/jesper/archive/good-coffee-deserves-the-seal-of-abrewval/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
