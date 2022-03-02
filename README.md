@@ -15,7 +15,7 @@
 
 ## Youtube: [LiKe, coMMeNt, SubsCrIbE](https://bit.ly/YTgeo)
 <!-- YOUTUBE-LIST:START -->
-- [The EASIEST way to get started in Machine Learning 🤗](https://www.youtube.com/watch?v=-ce06bOzTm0)
+- [These PRE-TRAINED MODELS are the EASIEST way into Machine Learning 🤗](https://www.youtube.com/watch?v=-ce06bOzTm0)
 - [SSI Fellowship Application 2022 for Jesper Sören Dramsch](https://www.youtube.com/watch?v=wxMZxbui4Bg)
 - [learn AI on these 3 websites in 2022 📚](https://www.youtube.com/watch?v=IGb1uLiVsaY)
 <!-- YOUTUBE-LIST:END -->
