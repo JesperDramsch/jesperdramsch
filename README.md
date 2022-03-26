@@ -29,9 +29,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [Milkshakes on a cliff are ledge ‘n’ dairy](https://buttondown.email/jesper/archive/milkshakes-on-a-cliff-are-ledge-n-dairy/)
 - [🌍 The only thing flat-earthers fear is sphere itself](https://buttondown.email/jesper/archive/the-only-thing-flat-earthers-fear-is-sphere-itself/)
 - [⚒ Geologists for their faults are marbellous](https://buttondown.email/jesper/archive/geologists-for-their-faults-are-marbellous/)
-- [👩‍🍳 A chef that likes arson commits crìme brûlée](https://buttondown.email/jesper/archive/a-chef-that-likes-arson-commits-crime-brulee/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
