@@ -15,9 +15,9 @@
 
 ## Youtube: [LiKe, coMMeNt, SubsCrIbE](https://bit.ly/YTgeo)
 <!-- YOUTUBE-LIST:START -->
+- [Try this to IMPROVE your computer vision model easily | Inside Kaggle](https://www.youtube.com/watch?v=w4sAh9lKyls)
 - [These PRE-TRAINED MODELS are the EASIEST way into Machine Learning 🤗](https://www.youtube.com/watch?v=-ce06bOzTm0)
 - [SSI Fellowship Application 2022 for Jesper Sören Dramsch](https://www.youtube.com/watch?v=wxMZxbui4Bg)
-- [learn AI on these 3 websites in 2022 📚](https://www.youtube.com/watch?v=IGb1uLiVsaY)
 <!-- YOUTUBE-LIST:END -->
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
