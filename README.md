@@ -15,7 +15,7 @@
 
 ## Youtube: [LiKe, coMMeNt, SubsCrIbE](https://bit.ly/YTgeo)
 <!-- YOUTUBE-LIST:START -->
-- [Try this to IMPROVE your computer vision model easily | Inside Kaggle](https://www.youtube.com/watch?v=w4sAh9lKyls)
+- [Try TTA to IMPROVE your Machine Learning model easily | Inside Kaggle](https://www.youtube.com/watch?v=w4sAh9lKyls)
 - [These PRE-TRAINED MODELS are the EASIEST way into Machine Learning 🤗](https://www.youtube.com/watch?v=-ce06bOzTm0)
 - [SSI Fellowship Application 2022 for Jesper Sören Dramsch](https://www.youtube.com/watch?v=wxMZxbui4Bg)
 <!-- YOUTUBE-LIST:END -->
