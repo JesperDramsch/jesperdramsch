@@ -29,9 +29,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [📆 Turns out you get fired from the calendar factory when you take a few days off](https://buttondown.email/jesper/archive/turns-out-you-get-fired-from-the-calendar-factory/)
 - [🧮 I cant do alot of math but i can do SUM of it.](https://buttondown.email/jesper/archive/i-cant-do-alot-of-math-but-i-can-do-sum-of-it/)
 - [👯‍♀️ Clones are people two](https://buttondown.email/jesper/archive/clones-are-people-two/)
-- [Milkshakes on a cliff are ledge ‘n’ dairy](https://buttondown.email/jesper/archive/milkshakes-on-a-cliff-are-ledge-n-dairy/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
