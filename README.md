@@ -16,7 +16,7 @@
 ## Youtube: [LiKe, coMMeNt, SubsCrIbE](https://bit.ly/YTgeo)
 <!-- YOUTUBE-LIST:START -->
 - [Craft a Data Science Resumé for Your Career Transition into Tech, Data Science &amp; AI on @Skillshare](https://www.youtube.com/watch?v=fL5554P5YNo)
-- [Predict Bitcoin and Stock Prices using Machine Learning on @Skillshare](https://www.youtube.com/watch?v=dM5zvQwjl0A)
+- [Predict Bitcoin and Stock Prices using Machine Learning Class on @Skillshare](https://www.youtube.com/watch?v=dM5zvQwjl0A)
 - [Try TTA to IMPROVE your Machine Learning model easily | Inside Kaggle](https://www.youtube.com/watch?v=w4sAh9lKyls)
 <!-- YOUTUBE-LIST:END -->
 
