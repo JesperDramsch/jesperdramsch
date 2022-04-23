@@ -14,7 +14,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "3"
-          feed_list: "https://the-geophysicist.com/feed, https://dramsch.net/rss.xml"
+          feed_list: "https://dramsch.net/rss.xml"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "NEWSLETTER-LIST"
