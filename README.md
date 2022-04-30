@@ -29,9 +29,9 @@
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
 <!-- NEWSLETTER-LIST:START -->
+- [🌭 German sausage jokes are just the wurst](https://buttondown.email/jesper/archive/german-sausage-jokes-are-just-the-wurst/)
 - [⚗️ Is it illegal for chemists to own any other dog than a labrador?](https://buttondown.email/jesper/archive/is-it-illegal-for-chemists-to-own-any-other-dog/)
 - [📆 Turns out you get fired from the calendar factory when you take a few days off](https://buttondown.email/jesper/archive/turns-out-you-get-fired-from-the-calendar-factory/)
-- [🧮 I cant do alot of math but i can do SUM of it.](https://buttondown.email/jesper/archive/i-cant-do-alot-of-math-but-i-can-do-sum-of-it/)
 <!-- NEWSLETTER-LIST:END -->
 
 <!-- ## My Courses
