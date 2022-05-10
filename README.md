@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Why &lpar;and how&rpar; I&#39;m still wearing my mask](https://dramsch.net/posts/why-im-still-wearing-my-mask/)
 - [Take these 3 courses to level up your MLOps skills](https://dramsch.net/posts/take-these-3-courses-to-level-up-your-mlops-skills/)
 - [Learn Machine Learning Engineering with these 3 Books](https://dramsch.net/posts/learn-machine-learning-engineering-with-these-3-books/)
-- [Deepmind built a competitive coding AI called AlphaCode here&#39;s the gist of it](https://dramsch.net/posts/deepmind-built-a-competitive-coding-ai-called-alphacode-heres-the-gist-of-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
