@@ -22,9 +22,9 @@
 
 ## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Break into AI and Robotics with these 3 top reinforcement learning courses](https://dramsch.net/posts/break-into-ai-and-robotics-with-these-3-top-reinforcement-learning-courses/)
+- [Don&#39;t sleep on these 3 books for learning Data Analytics](https://dramsch.net/posts/dont-sleep-on-these-3-books-for-learning-data-analytics/)
 - [Why &lpar;and how&rpar; I&#39;m still wearing my mask](https://dramsch.net/posts/why-im-still-wearing-my-mask/)
-- [Take these 3 courses to level up your MLOps skills](https://dramsch.net/posts/take-these-3-courses-to-level-up-your-mlops-skills/)
-- [Learn Machine Learning Engineering with these 3 Books](https://dramsch.net/posts/learn-machine-learning-engineering-with-these-3-books/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
