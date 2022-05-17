@@ -1,12 +1,13 @@
 <h1 align="center">Moin 👋, I'm Jesper</h1>
-<h3 align="center">I'm a recovering geophysicist and do machine learning and data science.</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=30&duration=3000&color=00999F&vCenter=true&width=600&height=75&lines=I+am+the+Jack+of+All+Trades;I+am+a+Machine+Learning+Researcher;I+am+an+Engaging+Keynote+Speaker;I+am+a+Digital+Signal+Whisperer;I+am+an+Open+Sourcerer;I+am+an+Educator;I+am+a+Pythonista;I+am+an+Allrounder)](https://git.io/typing-svg)
 - 🐍 I'm mostly a [Parselmouth](https://xkcd.com/353/).
 
 - 🌱 I’m currently learning **geometric deep learning**.
 
 - 💻 All of my projects are available at [dramsch.net/projects](https://dramsch.net/projects).
-- 📝 I regulary write articles on [my website](https://dramsch.net/blog), [the-geophysicist.com](https://the-geophysicist.com) and a [newsletter](https://buttondown.email/jesper).
+
+- 📝 I regulary write articles for my [website](https://dramsch.net/blog) and my [newsletter](https://buttondown.email/jesper).
 
 
 ## What matters
@@ -34,7 +35,7 @@
 - [🌭 German sausage jokes are just the wurst](https://buttondown.email/jesper/archive/german-sausage-jokes-are-just-the-wurst/)
 <!-- NEWSLETTER-LIST:END -->
 
-## Recent Activity
+## Recent Public Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3617](https://github.com/getnikola/nikola/issues/3617) in [getnikola/nikola](https://github.com/getnikola/nikola)
 2. ❗️ Opened issue [#3617](https://github.com/getnikola/nikola/issues/3617) in [getnikola/nikola](https://github.com/getnikola/nikola)
@@ -59,7 +60,7 @@ Check out my latest course on data science and business analytics in Python:
 
 ---
 
-I love coding, writing, and speaking. Feel free to contact me about opportunities, but let's make sure our [values](https://dramsch.net/#values) align.
+I love [coding](https://dramsch.net/projects/), [writing](https://dramsch.net/books), and [speaking](https://dramsch.net/speaker). Feel free to contact me about opportunities, but let's make sure our [values](https://dramsch.net/#values) align.
 
 
 <details>
