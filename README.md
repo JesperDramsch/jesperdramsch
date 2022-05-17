@@ -36,7 +36,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## Newsletter: [Late To The Party](https://buttondown.email/jesper)
-<img src="https://github.com/JesperDramsch/jesperdramsch/raw/master/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/>
+<a href="https://dramsch.net/newsletter"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/master/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
 - [⛅ I made a pun about the wind but it blows.](https://buttondown.email/jesper/archive/i-made-a-pun-about-the-wind-but-it-blows/)
