@@ -113,13 +113,13 @@ I love [coding](https://dramsch.net/projects/), [writing](https://dramsch.net/bo
 ![Davinci Resolve](https://img.shields.io/badge/-Davinci%20Resolve-000?style=for-the-badge&logo=sat1) 
 
 #### Favourite Tools
-![Notion](https://img.shields.io/badge/-Notion-000?style=for-the-badge&logo=notion)
-![Obisidian](https://img.shields.io/badge/-Obsidian-000?style=for-the-badge&logo=obsidian)
-![VS Code](https://img.shields.io/badge/-Code-000?style=for-the-badge&logo=visualstudiocode)
-![Espanso](https://img.shields.io/badge/-Espanso-000?style=for-the-badge&logo=e)
-![Tasker](https://img.shields.io/badge/-Tasker-000?style=for-the-badge&logo=tumblr)
-![Podcast Addict](https://img.shields.io/badge/-Podcast%20Addict-000?style=for-the-badge&logo=podcastaddict)
-![Beeminder](https://img.shields.io/badge/-Beeminder-000?style=for-the-badge&logo=intigriti)
+[![Notion](https://img.shields.io/badge/-Notion-000?style=for-the-badge&logo=notion)](https://notion.so)
+[![Obisidian](https://img.shields.io/badge/-Obsidian-000?style=for-the-badge&logo=obsidian)](https://obsidian.md)
+[![VS Code](https://img.shields.io/badge/-Code-000?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudion.com)
+[![Espanso](https://img.shields.io/badge/-Espanso-000?style=for-the-badge&logo=e)](https://espanso.org)
+[![Tasker](https://img.shields.io/badge/-Tasker-000?style=for-the-badge&logo=tumblr)](https://tasker.joaoapps.com)
+[![Podcast Addict](https://img.shields.io/badge/-Podcast%20Addict-000?style=for-the-badge&logo=podcastaddict)](https://podcastaddict.com)
+[![Beeminder](https://img.shields.io/badge/-Beeminder-000?style=for-the-badge&logo=intigriti)](https://beeminder.com)
 
 ---
 
@@ -132,7 +132,7 @@ I love [coding](https://dramsch.net/projects/), [writing](https://dramsch.net/bo
 [![Kaggle](https://img.shields.io/badge/-Kaggle-000?style=for-the-badge&logo=kaggle)](https://dramschg.net/kaggle)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter)](https://dramsch.net/twitter)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-000?style=for-the-badge&logo=linkedin)](https://dramsch.net/linkedin)
-[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=github)](https://dramsch.net/github)
+[![Polywork](https://img.shields.io/badge/-Polywork-000?style=for-the-badge&logo=polywork)](https://dramsch.net/polywork)
 [![Skillshare](https://img.shields.io/badge/-Skillshare-000?style=for-the-badge&logo=skillshare)](https://dramsch.net/r/skillshare)
 [![Youtube](https://img.shields.io/badge/-Youtube-000?style=for-the-badge&logo=youtube)](https://dramsch.net/youtube)
 [![Twitch](https://img.shields.io/badge/-Twitch-000?style=for-the-badge&logo=twitch)](https://dramsch.net/twitch)
