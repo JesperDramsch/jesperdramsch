@@ -34,6 +34,10 @@
 - [🌭 German sausage jokes are just the wurst](https://buttondown.email/jesper/archive/german-sausage-jokes-are-just-the-wurst/)
 <!-- NEWSLETTER-LIST:END -->
 
+## Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <!-- ## My Courses
 
 Check out my latest course on data science and business analytics in Python:
