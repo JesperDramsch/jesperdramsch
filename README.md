@@ -36,6 +36,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#3617](https://github.com/getnikola/nikola/issues/3617) in [getnikola/nikola](https://github.com/getnikola/nikola)
+2. ❗️ Opened issue [#3617](https://github.com/getnikola/nikola/issues/3617) in [getnikola/nikola](https://github.com/getnikola/nikola)
+3. 🗣 Commented on [#3615](https://github.com/getnikola/nikola/issues/3615) in [getnikola/nikola](https://github.com/getnikola/nikola)
+4. 🗣 Commented on [#3615](https://github.com/getnikola/nikola/issues/3615) in [getnikola/nikola](https://github.com/getnikola/nikola)
+5. ❗️ Opened issue [#3615](https://github.com/getnikola/nikola/issues/3615) in [getnikola/nikola](https://github.com/getnikola/nikola)
 <!--END_SECTION:activity-->
 
 <!-- ## My Courses
