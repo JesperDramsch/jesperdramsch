@@ -81,11 +81,12 @@ I love [coding](https://dramsch.net/projects/), [writing](https://dramsch.net/bo
 #### Deep Learning Stack
 ![NumPy](https://img.shields.io/badge/-numpy-000?style=for-the-badge&logo=numpy) 
 ![Pandas](https://img.shields.io/badge/-pandas-000?style=for-the-badge&logo=pandas) 
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=for-the-badge&logo=PyTorch) 
+![SciPy](https://img.shields.io/badge/-SciPy-000?style=for-the-badge&logo=scipy) 
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-000?style=for-the-badge&logo=scikit-learn)
-![SciPy](https://img.shields.io/badge/-SciPy-000?style=for-the-badge&logo=scipy&logoColor=%white) 
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=for-the-badge&logo=PyTorch) 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?style=for-the-badge&logo=TensorFlow)
 ![Keras](https://img.shields.io/badge/-Keras-000?style=for-the-badge&logo=Keras) 
+![Shap](https://img.shields.io/badge/-Shap-000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEMAAABDCAYAAADHyrhzAAAIhUlEQVR42u3aBVBb2RoH8JMbglvdu3V3lzf1tbp7V2poXYNrDaui3brgTo3F1gWru86LAPWECJfkvC8zczK3eeFJWLkh+c/85xCc33wXyD0H/Z2RBJXwhM1DfAUWAY+FKAALLAJfwOOdbzfkWaGmlPufZ1j/Th3qIQop5aIGImq/L1qA/FVQrMGAVVOVqP3eaNQU8nBejkO5U6xPmcWxp6XoqKKUc/RZRZuEkKfrC3iIkZpPTgwTcPzqNAj/Vp6/5PWK5I+Qnshabm4pR27tZJ22OyA2R8D/mVPZLiEBEFRl6Bgm1TyuaBsfLQz6XTsl4n7hX5GJ0K3m9eK+kesRI8rVJ+xkjp5xMsrtLWAoZFw3gcxpI1+5KJadKA/nZg8s5RypY0JoQagjyvuzswZoMfqGf60PglTcM2wbed+6zYm2MifPyzLkqgYITAqPVbIO2w4jNubmoDPLYQrU+jDg9biy+4mdhmAoxodMlSEXBgQDxMJFVrf+bCc2YqyAH1oXghQwvuEbgiHvtdNFF4EUkLB8qN9iMwZp792eZgwzBgswbviWUzndUyalOp/bkd7mwuzybb9asxkDD1rbAtsvno4t5m7BDovHYo94HvojcnVU9uCM1hd/S29xQZHW/DyGtS691YUHeQPTp7MRAw90mYAt5okxmqfEaK4aVjm2W/gTnrCjbWMnwiajfWIxIKgBAZNqUGBCHpXMye/AJgz8VUQnzJtbAwgYEBgFlFbLC1BjUjj1yri0ZufrmBCk8Hr1pcEZq1mF0W/Nal0Ibblz5HC5dDL8EhmZswh+aC2AbnN6pQayCqPTykMMAJ3OUgFGD+PG6L1zvQy5NvBP13qs+CRinBajzbLcJo2hXBbbSWbp9k4vhp3HszqXs44mgUEi67braxnl+voDCEt3oXyA72gEMSkM5brTlLw7v7vM1sMLUJJkVh4b5b19uiOIyWGQKMYHc2RWLjxEYsoYJCaNkXexynLHstuLN867eX7T/FuJmxfeOr571Z1/mBzGtxk1nF0r7xwBCAVAYE3hZU3f+a+7t/IDjA4rEpo0RsSuxyM3zL2pJBBMkC2Lbr24eOyfjlqMvqtdGvwPlJqtBIyPjAeD3BDuHe5J3tdn9b318INrEZgFJPXeTQ9maDFm+3fA1vPvEQCd5yYXAYNiHUb1hLjJAuTXAIaf6uXsM8O1GF/fddEHQeq7+u6Hz1qHefYFkF8AQQEIMBHz3mPnpSfwuG1OCMI6DNhNsxU6BhfAFKh1p0LYIjT79aoUK0MwSHDHlc2x/aIJGM1ZhFuuGIT7u9kgCOswSGomxLcW2AVlCqgAqQYCVoXQJjCtemxsRwQxHEN/WItBIuq4z1ZgG9QLMAYIbIL6VA2MIhPRaIwjEws6Ro3O7x7zSVFzI8DQn8ZiwA/f/dD4b89Gjb72HDBE0LtHJhT4Jq373YnVGEsCa3gTNor7jnIVTZqyuapLbJaEagzGZd8b9gBRAgBqKCaNHHWNjvmkOIQVGJrXX+9zyh0xsir0ZfvxHuKs0W6iasCQjnYVCSZtEkdP31Xd2lCM47O/WxY58pqKIOiAvCsMu9euMRgL4Y74/4Rxd0rKkFLuUZleDHj9/ekZ/cj7fpMn1UzEFUBQj3YTY1KAqZ+8uerE4bT3lCEYMdOK9uoikIYPv6oCjB5/CobmpnBun7TdjF14qqJtQoyeXXgMrz8Bu/Ac8r5LA2smj3QV0UwI0pEuojq3yFdDDME4Oqkg50/D+H5+YRfYFqhp4IawsmDq5bGIkXtTUu3Km8d5l3KP/Q4Qz2EiKitaxHvcHHHeGTECl8JXugikMC14Br/ag1UYJLm90zaltTgv15mK+uyuyYdv+JXzkE7uTkzmlLeJdwaMTuUt41ogEr0Y+vv5rqptrMT4cVmxRU63lIXpLS9cAYifYS3O7JDoWjIr3w4ZEKPGIMnukmwLGI4AYY/+Q4ZE1TrZ+EjmIW/pKmsfyZJuIdJWRoxheIZH1fYGgB843hIlYGBY6y29pZUDw2tHNxmMwQl0G9sI+isURgfbhNMenQ/T3ZBO+NeUVs5+kl+RlwRrIJi19ZE8WHVR3sLoMfrG0eOtwukKdICuBwwMq8oijH7SPZpegBgZGVU7HfElKiYCKbxePTSydqFRY2wtUtk5RtKVAIA1EMxah9HPpl+kO5P3HRRWu0LfVJB23yPlGzXGuFP0RM4BmmYiaAtAvaJpN5PBGJpAL0T7GQA67XyEDjRjmDHMGGYMM4YZw4xhxjAFjOgphbF/GsbHF+jB3AO0rIH/QFUD4+nFbMJImFGyFm786sWIHH1NAhhtGvPchNfyIH0WfnC1DgSG5yw/zkqud2YTRtrGsrYHx+ZX6ILA4/roaUXxqLEZeYLuYBdBR3PD6ReAQFMH6Cp4Op/YN5YeiCBswSA5tfjHngfH5BfAJtIbQKCjxuQLYHftWOK63x1QI0MmhNPuCN0d7aenOYbTAzZcrbdAkL8bY+PcmzjQ9f4qpJOEWd/ZHhyfPxz2UKYdm1LYGy4PCv35+fMxQj0ffAo/dL1+kJuv4LBKG2RAjBIj7YTQetuS28VwYEWtc3Knnr/qTjhiYwBjGWCo9WIAUq+90k2GYGhyYOujTnBkKRYAHgDEI5iIW9uX3vaODX5mi9iYuadkfbl8iUwfBsWXyD+Llw02BIOkILOGA8eWWgBGyx3LbzsjNgduCHPbBUv4lJdEwYTgeEnotkHS8KDCOspwDCMLAWkTJHGnvKVlAHGd5yP5xdlPunp1ssIKQUwKg8TaW0ohaPMACYX0ZCa/eqVmT7WBjWe8wK96KTKVeB561Q3OY7zRhzHWXSzyPv6mFTKlfLqjahucx6glE6JZAeg9vH4nMrXAgRVq8mbxvDHuoquA8etYd1EanNyZGXbxHRf9vTHnX+j+I4Ev77ZOAAAAAElFTkSuQmCC) 
 
 #### Deployment
 ![Apache](https://img.shields.io/badge/-Apache-000?style=for-the-badge&logo=apache) 
@@ -98,6 +99,7 @@ I love [coding](https://dramsch.net/projects/), [writing](https://dramsch.net/bo
 #### Orchestration
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+![Dask](https://img.shields.io/badge/-dask-000?style=for-the-badge&logo=dask)
 ![Apache Airflow](https://img.shields.io/badge/-airflow-000?style=for-the-badge&logo=apacheairflow)
 ![Docker](https://img.shields.io/badge/-docker-000?style=for-the-badge&logo=docker)
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-000?style=for-the-badge&logo=githubactions) 
@@ -109,7 +111,6 @@ I love [coding](https://dramsch.net/projects/), [writing](https://dramsch.net/bo
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 ![Inkscape](https://img.shields.io/badge/-Inkscape-000?style=for-the-badge&logo=inkscape) 
 ![Davinci Resolve](https://img.shields.io/badge/-Davinci%20Resolve-000?style=for-the-badge&logo=sat1) 
-
 
 #### Favourite Tools
 ![Notion](https://img.shields.io/badge/-Notion-000?style=for-the-badge&logo=notion)
@@ -127,38 +128,14 @@ I love [coding](https://dramsch.net/projects/), [writing](https://dramsch.net/bo
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jesperdramsch&show_icons=true&hide_border=true&title_color=000000&cache_seconds=86400" /></p>
 </details>
 
-<a href="https://dramsch.net/">
-  <img align="left" alt="Jesper Dramsch' Website" width="22pt" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
-</a>
-<a href="https://the-geophysicist.com/">
-  <img align="left" alt="Jesper Dramsch' Blog" width="22pt" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />
-</a>
-<a href="https://dev.to/jesperdramsch">
-  <img align="left" alt="Jesper Dramsch' Dev.to" width="22pt" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
-</a>
-<a href="https://kaggle.com/JesperDramsch">
-  <img align="left" alt="Jesper Dramsch' Kaggle" width="22pt" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
-</a>
-<a href="https://instagram.com/JesperDramsch/">
-  <img align="left" alt="Jesper Dramsch' Instagram" width="22pt" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://twitter.com/JesperDramsch">
-  <img align="left" alt="Jesper Dramsch' Twitter" width="22pt" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/thegeophysicist/">
-  <img align="left" alt="Jesper Dramsch' Linkdin" width="22pt" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/JesperDramsch">
-  <img align="left" alt="Jesper Dramsch' Github" width="22pt" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://the-geophysicist.com/go/skillshare-data-science-with-python">
-  <img align="left" alt="Jesper Dramsch' Skillshare Course on Data Science with Python" width="22pt" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skillshare.svg" />
-</a>
-<a href="https://bit.ly/YTgeo">
-  <img align="left" alt="Jesper Dramsch' Youtube" width="22pt" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<a href="https://twitch.tv/thegeophysicist">
-  <img align="left" alt="Jesper Dramsch' Twitch" width="22pt" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />
-</a>
-<br/><br/>
+[![Website](https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAMAAAC7IEhfAAAA5FBMVEX////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////aw3uPAAAAS3RSTlMAAQIFBwgKDBATFRgcHR8hIyY0NjxBQ0RLTlJaXmBoaXt+iYqLjZGeoqSttrm7vsLExcbLzM7P3d7f4ePk6ert7u/z9Pb3+Pn7/f7PP9EFAAAA8klEQVR42mKgIzA15iFOIaB9esCRIIqiMHzbxrBt27Zx9r+esV6lHobR/OFJvu7y9uxTg4OJR8kZSDXArwZ3Z9/fwH8YyqRzYSm8SOOxmQQah2c8lRLDPIB0iAySc3Q2cSgqXIwDGKtctWWNS4MK7CH2cXoPJ6+uC+6DzNsfPZ10vxkb5sSUxdKpB5MbzedUxMiuBxtVYquib9VxfpCmJcqkU7RBbNfbY0IPVgrsNtQxIL3Gt+x2LZDRhSfNrmFGuoGdceyu9OGRdadzmvTrfXw72kCE+yrSS4FUDauUibj5Wmc8Nu2WbkiUwWR+zGSk73YPS78m9JiOGi8AAAAASUVORK5CYII=&logoColor=white)](https://dramsch.net/)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-000?style=for-the-badge&logo=kaggle)](https://dramschg.net/kaggle)
+[![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter)](https://dramsch.net/twitter)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-000?style=for-the-badge&logo=linkedin)](https://dramsch.net/linkedin)
+[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=github)](https://dramsch.net/github)
+[![Skillshare](https://img.shields.io/badge/-Skillshare-000?style=for-the-badge&logo=skillshare)](https://dramsch.net/r/skillshare)
+[![Youtube](https://img.shields.io/badge/-Youtube-000?style=for-the-badge&logo=youtube)](https://dramsch.net/youtube)
+[![Twitch](https://img.shields.io/badge/-Twitch-000?style=for-the-badge&logo=twitch)](https://dramsch.net/twitch)
+
+
 <img src="https://dramsch.net/images/banner/banner-me-speaking.jpg" width="50%">
