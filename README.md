@@ -59,16 +59,68 @@ Check out my latest course on data science and business analytics in Python:
 
 ## Collaboration
 
+I love [coding](https://dramsch.net/projects/), [writing](https://dramsch.net/books), and [speaking](https://dramsch.net/speaker). Feel free to contact me about opportunities, but let's make sure our [values](https://dramsch.net/#values) align.
+
 - 💬 Ask me about **python, machine learning, and data science.**
 - 👯 I’m looking to collaborate on [cool](https://arxiv.org/abs/2006.13311) [useful](https://github.com/scikit-learn/scikit-learn/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+author%3AJesperDramsch) [projects](https://dramsch.net/projects).
 - 🙊 Need a speaker? Maybe we're a [match](https://dramsch.net/talks).
 - 📫 How to reach me: [jesper@dramsch.net](jesper@dramsch.net)
 - ⚡ Fun fact: The singer of Bad Religion has a PhD in [evolutionary biology](https://en.wikipedia.org/wiki/Greg_Graffin).
 
+## Tech Stack
+
+#### Languages
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![Shell Script](https://img.shields.io/badge/-shell_script-000?style=for-the-badge&logo=gnu-bash) 
+![Markdown](https://img.shields.io/badge/-markdown-000?style=for-the-badge&logo=markdown) 
+![LaTeX](https://img.shields.io/badge/-latex-000?style=for-the-badge&logo=latex) 
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+
+#### Deep Learning Stack
+![NumPy](https://img.shields.io/badge/-numpy-000?style=for-the-badge&logo=numpy) 
+![Pandas](https://img.shields.io/badge/-pandas-000?style=for-the-badge&logo=pandas) 
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=for-the-badge&logo=PyTorch) 
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-000?style=for-the-badge&logo=scikit-learn)
+![SciPy](https://img.shields.io/badge/-SciPy-000?style=for-the-badge&logo=scipy&logoColor=%white) 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?style=for-the-badge&logo=TensorFlow)
+![Keras](https://img.shields.io/badge/-Keras-000?style=for-the-badge&logo=Keras) 
+
+#### Deployment
+![Apache](https://img.shields.io/badge/-Apache-000?style=for-the-badge&logo=apache) 
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?style=for-the-badge&logo=fastapi) 
+![Flask](https://img.shields.io/badge/-flask-000?style=for-the-badge&logo=flask)
+![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
+![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazon-aws) 
+
+#### Orchestration
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+![Apache Airflow](https://img.shields.io/badge/-airflow-000?style=for-the-badge&logo=apacheairflow)
+![Docker](https://img.shields.io/badge/-docker-000?style=for-the-badge&logo=docker)
+![Github Actions](https://img.shields.io/badge/-Github%20Actions-000?style=for-the-badge&logo=githubactions) 
+
+#### Design/Visual Tools
+![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/-Gimp-000?style=for-the-badge&logo=gimp)
+![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=Canva) 	
+![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
+![Inkscape](https://img.shields.io/badge/-Inkscape-000?style=for-the-badge&logo=inkscape) 
+![Davinci Resolve](https://img.shields.io/badge/-Davinci%20Resolve-000?style=for-the-badge&logo=sat1) 
+
+
+#### Favourite Tools
+![Notion](https://img.shields.io/badge/-Notion-000?style=for-the-badge&logo=notion)
+![Obisidian](https://img.shields.io/badge/-Obsidian-000?style=for-the-badge&logo=obsidian)
+![VS Code](https://img.shields.io/badge/-Code-000?style=for-the-badge&logo=visualstudiocode)
+![Espanso](https://img.shields.io/badge/-Espanso-000?style=for-the-badge&logo=e)
+![Tasker](https://img.shields.io/badge/-Tasker-000?style=for-the-badge&logo=tumblr)
+![Podcast Addict](https://img.shields.io/badge/-Podcast%20Addict-000?style=for-the-badge&logo=podcastaddict)
+![Beeminder](https://img.shields.io/badge/-Beeminder-000?style=for-the-badge&logo=intigriti)
+
 ---
-
-I love [coding](https://dramsch.net/projects/), [writing](https://dramsch.net/books), and [speaking](https://dramsch.net/speaker). Feel free to contact me about opportunities, but let's make sure our [values](https://dramsch.net/#values) align.
-
 
 <details>
 <summary>My Github stats</summary>
