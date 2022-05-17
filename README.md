@@ -1,4 +1,11 @@
 <h1 align="center">Moin 👋, I'm Jesper</h1>
+<p align="center">
+ <a href="https://dramsch.net" target="_blank"><img alt="" src="https://img.shields.io/badge/Website-f9bf3b?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH4AQHFRAlqeyI1gAAAB1pVFh0Q29tbWVudAAAAAAAQ3JlYXRlZCB3aXRoIEdJTVBkLmUHAAABo0lEQVRYw+2YPUvDUBSGn5YoDm7ix6BoKfgLxMUuouBQ8Ac4iKOb/8A9Ojm4Ooirji6Kix+L0l+gQ0EQC1ZFtGqb6HKESyHa3I+0xbxwSUJyLk/OvbnnvYFU3aEScAmMdirgGxACubiBXkKAd0Av0OjE7GW6YQ5+ScvHDcwmBPgugGGnAmorBUwBU8AU0LFs1+JFoCCLsgecAwftfslJwFfKmdru5ZlaO9xMFrgGJn4xBNvtytpWU6Z8Gd4o96KdwbgaBM4E6gPYbTEuEcABJWPlmLHOAfuAF4Gb0jChzgFLAreiETsu0yGQc+sqiuEsatr3ZYELgDHbcP2SuYpBH5vSR1U+Mqulbg14BYYMNj/DcnwG6rYBF6Rc/Wx8TACfgE+bw5s3gFJVlX72bbuZGeDUEK4gS1QDOLb9gRwCO4Yb9hPJ3o2L5aUMzBnEjwAPArjhAjAwjD9qslxOflfoalXia8C0K8C6AVwgtdd36V5KGobiQnE8S0l4v780D6wr8+1RrnuScs45qSRhxJ7jFrgC9oBZFwCZFu57EQt6qMy1/6tvv7JvzHjPGvYAAAAASUVORK5CYII=&logoColor=white" style="vertical-align:center" /></a>
+<a href="https://dramsch.net/twitter" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" style="vertical-align:center" /></a>
+<a href="https://dramsch.net/linkedin" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-00457C?logo=linkedin&logoColor=white" style="vertical-align:center" /></a>
+  <a href="https://dramsch.net/polywork" target="_blank"><img alt="" src="https://img.shields.io/badge/Polywork-543DE0?logo=polywork&logoColor=white" style="vertical-align:center" /></a>
+    <a href="https://dramsch.net/Youtube" target="_blank"><img alt="" src="https://img.shields.io/badge/Youtube-FF0000?logo=youtube&logoColor=white" style="vertical-align:center" /></a>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=30&duration=3000&color=00999F&vCenter=true&width=600&height=75&lines=I+am+the+Jack+of+All+Trades;I+am+a+Machine+Learning+Researcher;I+am+an+Engaging+Keynote+Speaker;I+am+a+Digital+Signal+Whisperer;I+am+an+Open+Sourcerer;I+am+an+Educator;I+am+a+Pythonista;I+am+an+Allrounder)](https://git.io/typing-svg)
 - 🐍 I'm mostly a [Parselmouth](https://xkcd.com/353/).
