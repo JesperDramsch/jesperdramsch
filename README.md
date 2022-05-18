@@ -19,23 +19,27 @@
 
 ## What matters
 
-💸👉[blacklivesmatters](https://blacklivesmatters.carrd.co/)
+💸👉[black lives matters](https://blacklivesmatters.carrd.co/)
 
-## Youtube: [LiKe, coMMeNt, SubsCrIbE](https://bit.ly/YTgeo)
+💸👉[trans rights are human rights](https://transrightshumanrights.carrd.co/)
+
+## Content Creation
+
+### Youtube: [LiKe, coMMeNt, SubsCrIbE](https://dramsch.net/youtube)
 <!-- YOUTUBE-LIST:START -->
 - [Craft a Top-Tier Data Science Resumé for your Career Transition into Tech on @Skillshare](https://www.youtube.com/watch?v=fL5554P5YNo)
 - [Predict Bitcoin, Crypto and Stock Prices using Machine Learning Class on @Skillshare](https://www.youtube.com/watch?v=dM5zvQwjl0A)
 - [Try TTA to IMPROVE your Machine Learning model easily | Inside Kaggle](https://www.youtube.com/watch?v=w4sAh9lKyls)
 <!-- YOUTUBE-LIST:END -->
 
-## Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
+### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
 - [Get started with Data Engineering with these 3 Youtube channels](https://dramsch.net/posts/get-started-with-data-engineering-with-these-3-youtube-channels/)
 - [Break into AI and Robotics with these 3 top reinforcement learning courses](https://dramsch.net/posts/break-into-ai-and-robotics-with-these-3-top-reinforcement-learning-courses/)
 - [Don&#39;t sleep on these 3 books for learning Data Analytics](https://dramsch.net/posts/dont-sleep-on-these-3-books-for-learning-data-analytics/)
 <!-- BLOG-POST-LIST:END -->
 
-## Newsletter: [Late To The Party](https://buttondown.email/jesper)
+### Newsletter: [Late To The Party](https://dramsch.net/newsletter)
 <a href="https://dramsch.net/newsletter"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/master/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
@@ -46,8 +50,7 @@
 
 I wrote a [book](https://dramsch.net/books) about ML validation and I give it away to my over [333+ newsletter subscribers](https://dramsch.net/newsletter). 👉
 
-
-## Recent Public Activity
+### Recent Public Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3617](https://github.com/getnikola/nikola/issues/3617) in [getnikola/nikola](https://github.com/getnikola/nikola)
 2. ❗️ Opened issue [#3617](https://github.com/getnikola/nikola/issues/3617) in [getnikola/nikola](https://github.com/getnikola/nikola)
@@ -56,11 +59,14 @@ I wrote a [book](https://dramsch.net/books) about ML validation and I give it aw
 5. ❗️ Opened issue [#3615](https://github.com/getnikola/nikola/issues/3615) in [getnikola/nikola](https://github.com/getnikola/nikola)
 <!--END_SECTION:activity-->
 
-## Data Education
+### Data Education
 
 <!-- <img src="https://raw.githubusercontent.com/JesperDramsch/skillshare-data-science/master/img/thumbnail.png" alt="drawing" align="left" width="150"/> -->
 
-I made a course about [data science and business analytics in Python](https://dramsch.net/course1) on [Skillshare](https://dramsch.net/r/skillshare). If you're just interested in the [higher level understanding of data science](https://dramsch.net/course2), that's also okay and I made a course about it. More into applied stuff? I made a course trying out [different ML models on financial data like stocks and crypto](https://dramsch.net/course3). And since we do eventually all want to get a job, I made a small course about [crafting a top-tier CV or Resumé for data science jobs](https://dramsch.net/course4).
+- I made a course about [data science and business analytics in Python](https://dramsch.net/course1) on [Skillshare](https://dramsch.net/r/skillshare). 
+- If you're just interested in the [higher level understanding of data science](https://dramsch.net/course2), that's also okay and I made a course about it. 
+- More into applied stuff? I made a course trying out [different ML models on financial data like stocks and crypto](https://dramsch.net/course3). 
+- And since we do eventually all want to get a job, I made a small course about [crafting a top-tier CV or Resumé for data science jobs](https://dramsch.net/course4).
 
 ## Collaboration
 
@@ -71,6 +77,8 @@ I love [coding](https://dramsch.net/projects/), [writing](https://dramsch.net/bo
 - 🙊 Need a speaker? Maybe we're a [match](https://dramsch.net/talks).
 - 📫 How to reach me: [jesper@dramsch.net](jesper@dramsch.net)
 - ⚡ Fun fact: The singer of Bad Religion has a PhD in [evolutionary biology](https://en.wikipedia.org/wiki/Greg_Graffin).
+
+<img src="https://dramsch.net/images/banner/banner-me-speaking.jpg" width="50%">
 
 ## Tech Stack
 
@@ -125,11 +133,9 @@ I love [coding](https://dramsch.net/projects/), [writing](https://dramsch.net/bo
 [![Tasker](https://img.shields.io/badge/-Tasker-000?style=for-the-badge&logo=tumblr)](https://tasker.joaoapps.com)
 [![Podcast Addict](https://img.shields.io/badge/-Podcast%20Addict-000?style=for-the-badge&logo=podcastaddict)](https://podcastaddict.com)
 [![Beeminder](https://img.shields.io/badge/-Beeminder-000?style=for-the-badge&logo=intigriti)](https://beeminder.com)
-
----
-
-<details>
-<summary>My Github stats</summary>
+ 
+ 
+## Github Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jesperdramsch&show_icons=true&hide_border=true&title_color=000000&cache_seconds=86400" /></p>
 </details>
 
@@ -143,4 +149,4 @@ I love [coding](https://dramsch.net/projects/), [writing](https://dramsch.net/bo
 [![Twitch](https://img.shields.io/badge/-Twitch-000?style=for-the-badge&logo=twitch)](https://dramsch.net/twitch)
 
 
-<img src="https://dramsch.net/images/banner/banner-me-speaking.jpg" width="50%">
+
