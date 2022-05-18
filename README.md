@@ -78,7 +78,18 @@ I love [coding](https://dramsch.net/projects/), [writing](https://dramsch.net/bo
 - 📫 How to reach me: [jesper@dramsch.net](jesper@dramsch.net)
 - ⚡ Fun fact: The singer of Bad Religion has a PhD in [evolutionary biology](https://en.wikipedia.org/wiki/Greg_Graffin).
 
-<img src="https://dramsch.net/images/banner/banner-me-speaking.jpg" width="50%">
+<a href="https://dramsch.net/speaker"><img src="https://dramsch.net/images/banner/banner-me-speaking.jpg" width="50%"></a>
+
+[![Website](https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAMAAAC7IEhfAAAA5FBMVEX////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////aw3uPAAAAS3RSTlMAAQIFBwgKDBATFRgcHR8hIyY0NjxBQ0RLTlJaXmBoaXt+iYqLjZGeoqSttrm7vsLExcbLzM7P3d7f4ePk6ert7u/z9Pb3+Pn7/f7PP9EFAAAA8klEQVR42mKgIzA15iFOIaB9esCRIIqiMHzbxrBt27Zx9r+esV6lHobR/OFJvu7y9uxTg4OJR8kZSDXArwZ3Z9/fwH8YyqRzYSm8SOOxmQQah2c8lRLDPIB0iAySc3Q2cSgqXIwDGKtctWWNS4MK7CH2cXoPJ6+uC+6DzNsfPZ10vxkb5sSUxdKpB5MbzedUxMiuBxtVYquib9VxfpCmJcqkU7RBbNfbY0IPVgrsNtQxIL3Gt+x2LZDRhSfNrmFGuoGdceyu9OGRdadzmvTrfXw72kCE+yrSS4FUDauUibj5Wmc8Nu2WbkiUwWR+zGSk73YPS78m9JiOGi8AAAAASUVORK5CYII=&logoColor=white)](https://dramsch.net/)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-000?style=for-the-badge&logo=kaggle)](https://dramschg.net/kaggle)
+[![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter)](https://dramsch.net/twitter)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-000?style=for-the-badge&logo=linkedin)](https://dramsch.net/linkedin)
+[![Polywork](https://img.shields.io/badge/-Polywork-000?style=for-the-badge&logo=polywork)](https://dramsch.net/polywork)
+[![Skillshare](https://img.shields.io/badge/-Skillshare-000?style=for-the-badge&logo=skillshare)](https://dramsch.net/r/skillshare)
+[![Youtube](https://img.shields.io/badge/-Youtube-000?style=for-the-badge&logo=youtube)](https://dramsch.net/youtube)
+[![Twitch](https://img.shields.io/badge/-Twitch-000?style=for-the-badge&logo=twitch)](https://dramsch.net/twitch)
+
+---
 
 ## Tech Stack
 
@@ -133,20 +144,9 @@ I love [coding](https://dramsch.net/projects/), [writing](https://dramsch.net/bo
 [![Tasker](https://img.shields.io/badge/-Tasker-000?style=for-the-badge&logo=tumblr)](https://tasker.joaoapps.com)
 [![Podcast Addict](https://img.shields.io/badge/-Podcast%20Addict-000?style=for-the-badge&logo=podcastaddict)](https://podcastaddict.com)
 [![Beeminder](https://img.shields.io/badge/-Beeminder-000?style=for-the-badge&logo=intigriti)](https://beeminder.com)
- 
- 
-## Github Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jesperdramsch&show_icons=true&hide_border=true&title_color=000000&cache_seconds=86400" /></p>
-</details>
 
-[![Website](https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAMAAAC7IEhfAAAA5FBMVEX////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////aw3uPAAAAS3RSTlMAAQIFBwgKDBATFRgcHR8hIyY0NjxBQ0RLTlJaXmBoaXt+iYqLjZGeoqSttrm7vsLExcbLzM7P3d7f4ePk6ert7u/z9Pb3+Pn7/f7PP9EFAAAA8klEQVR42mKgIzA15iFOIaB9esCRIIqiMHzbxrBt27Zx9r+esV6lHobR/OFJvu7y9uxTg4OJR8kZSDXArwZ3Z9/fwH8YyqRzYSm8SOOxmQQah2c8lRLDPIB0iAySc3Q2cSgqXIwDGKtctWWNS4MK7CH2cXoPJ6+uC+6DzNsfPZ10vxkb5sSUxdKpB5MbzedUxMiuBxtVYquib9VxfpCmJcqkU7RBbNfbY0IPVgrsNtQxIL3Gt+x2LZDRhSfNrmFGuoGdceyu9OGRdadzmvTrfXw72kCE+yrSS4FUDauUibj5Wmc8Nu2WbkiUwWR+zGSk73YPS78m9JiOGi8AAAAASUVORK5CYII=&logoColor=white)](https://dramsch.net/)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-000?style=for-the-badge&logo=kaggle)](https://dramschg.net/kaggle)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter)](https://dramsch.net/twitter)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-000?style=for-the-badge&logo=linkedin)](https://dramsch.net/linkedin)
-[![Polywork](https://img.shields.io/badge/-Polywork-000?style=for-the-badge&logo=polywork)](https://dramsch.net/polywork)
-[![Skillshare](https://img.shields.io/badge/-Skillshare-000?style=for-the-badge&logo=skillshare)](https://dramsch.net/r/skillshare)
-[![Youtube](https://img.shields.io/badge/-Youtube-000?style=for-the-badge&logo=youtube)](https://dramsch.net/youtube)
-[![Twitch](https://img.shields.io/badge/-Twitch-000?style=for-the-badge&logo=twitch)](https://dramsch.net/twitch)
+## Github Stats
+<p>&nbsp;<a href="https://github.com/JesperDramsch?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jesperdramsch&show_icons=true&hide_border=true&title_color=000000&cache_seconds=86400" /></a></p>
 
 
 
