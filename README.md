@@ -43,9 +43,9 @@
 <a href="https://dramsch.net/newsletter"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/master/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
+- [🚿 Towels have quite a dry sense of humor](https://buttondown.email/jesper/archive/towels-have-quite-a-dry-sense-of-humor/)
 - [⛅ I made a pun about the wind but it blows.](https://buttondown.email/jesper/archive/i-made-a-pun-about-the-wind-but-it-blows/)
 - [🐉 Long fairytales tend to dragon](https://buttondown.email/jesper/archive/long-fairytales-tend-to-dragon/)
-- [🌭 German sausage jokes are just the wurst](https://buttondown.email/jesper/archive/german-sausage-jokes-are-just-the-wurst/)
 <!-- NEWSLETTER-LIST:END -->
 
 I wrote a [book](https://dramsch.net/books) about ML validation and I give it away to my over [333+ newsletter subscribers](https://dramsch.net/newsletter). 👉
