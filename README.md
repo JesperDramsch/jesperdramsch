@@ -16,6 +16,7 @@
 
 - 📝 I regulary write articles for my [website](https://dramsch.net/blog) and my [newsletter](https://buttondown.email/jesper).
 
+- 🏳‍🌈 My pronouns are (they / them)
 
 ## What matters
 
