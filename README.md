@@ -35,9 +35,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t miss out on these 3 Data Engineering Books](https://dramsch.net/posts/data-engineering-books/)
 - [Get started with Data Engineering with these 3 Youtube channels](https://dramsch.net/posts/get-started-with-data-engineering-with-these-3-youtube-channels/)
 - [Break into AI and Robotics with these 3 top reinforcement learning courses](https://dramsch.net/posts/break-into-ai-and-robotics-with-these-3-top-reinforcement-learning-courses/)
-- [Don&#39;t sleep on these 3 books for learning Data Analytics](https://dramsch.net/posts/dont-sleep-on-these-3-books-for-learning-data-analytics/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://dramsch.net/newsletter)
