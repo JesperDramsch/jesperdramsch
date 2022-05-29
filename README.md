@@ -53,11 +53,11 @@ I wrote a [book](https://dramsch.net/books) about ML validation and I give it aw
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3617](https://github.com/getnikola/nikola/issues/3617) in [getnikola/nikola](https://github.com/getnikola/nikola)
-2. ❗️ Opened issue [#3617](https://github.com/getnikola/nikola/issues/3617) in [getnikola/nikola](https://github.com/getnikola/nikola)
-3. 🗣 Commented on [#3615](https://github.com/getnikola/nikola/issues/3615) in [getnikola/nikola](https://github.com/getnikola/nikola)
+1. 🗣 Commented on [#3](https://github.com/tobimori/streamdeck-toggl/issues/3) in [tobimori/streamdeck-toggl](https://github.com/tobimori/streamdeck-toggl)
+2. 🗣 Commented on [#3617](https://github.com/getnikola/nikola/issues/3617) in [getnikola/nikola](https://github.com/getnikola/nikola)
+3. ❗️ Opened issue [#3617](https://github.com/getnikola/nikola/issues/3617) in [getnikola/nikola](https://github.com/getnikola/nikola)
 4. 🗣 Commented on [#3615](https://github.com/getnikola/nikola/issues/3615) in [getnikola/nikola](https://github.com/getnikola/nikola)
-5. ❗️ Opened issue [#3615](https://github.com/getnikola/nikola/issues/3615) in [getnikola/nikola](https://github.com/getnikola/nikola)
+5. 🗣 Commented on [#3615](https://github.com/getnikola/nikola/issues/3615) in [getnikola/nikola](https://github.com/getnikola/nikola)
 <!--END_SECTION:activity-->
 
 ### Data Education
