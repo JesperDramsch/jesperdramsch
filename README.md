@@ -35,9 +35,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Dive deep into Python with these 4 Books](https://dramsch.net/posts/python-books/)
 - [The Notion Task List that Finally Works with my Brain &lpar;ADHD-friendly&rpar;](https://dramsch.net/posts/the-notion-task-list-that-finally-works-with-my-brain-adhd-friendly/)
 - [Don&#39;t miss out on these 3 Data Engineering Books](https://dramsch.net/posts/data-engineering-books/)
-- [Get started with Data Engineering with these 3 Youtube channels](https://dramsch.net/posts/get-started-with-data-engineering-with-these-3-youtube-channels/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://dramsch.net/newsletter)
