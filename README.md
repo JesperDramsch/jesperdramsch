@@ -28,7 +28,7 @@
 
 ### Youtube: [LiKe, coMMeNt, SubsCrIbE](https://dramsch.net/youtube)
 <!-- YOUTUBE-LIST:START -->
-- [What do you do when Machine Learning goes ROGUE?](https://www.youtube.com/watch?v=J1eAzT-vGok)
+- [What do you do when Machine Learning goes ROGUE? 🐱‍👤](https://www.youtube.com/watch?v=J1eAzT-vGok)
 - [Craft a Top-Tier Data Science Resumé for your Career Transition into Tech on @Skillshare](https://www.youtube.com/watch?v=fL5554P5YNo)
 - [Predict Bitcoin, Crypto and Stock Prices using Machine Learning Class on @Skillshare](https://www.youtube.com/watch?v=dM5zvQwjl0A)
 <!-- YOUTUBE-LIST:END -->
