@@ -44,9 +44,9 @@
 <a href="https://dramsch.net/newsletter"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/master/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
+- [⚛ We&#39;re late to the party so all good chemistry jokes argon](https://buttondown.email/jesper/archive/were-late-to-the-party-so-all-good-chemistry/)
 - [🧙‍♂️ Wizards go on dates spelling of roses](https://buttondown.email/jesper/archive/wizards-go-on-dates-spelling-of-roses/)
 - [🚗 Traffic jams so good, everyone lines up for it!](https://buttondown.email/jesper/archive/traffic-jams-so-good-everyone-lines-up-for-it/)
-- [🚿 Towels have quite a dry sense of humor](https://buttondown.email/jesper/archive/towels-have-quite-a-dry-sense-of-humor/)
 <!-- NEWSLETTER-LIST:END -->
 
 I wrote a [book](https://dramsch.net/books) about ML validation and I give it away to my over [333+ newsletter subscribers](https://dramsch.net/newsletter). 👉
