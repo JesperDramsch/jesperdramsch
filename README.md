@@ -28,7 +28,7 @@
 
 ### Youtube: [LiKe, coMMeNt, SubsCrIbE](https://dramsch.net/youtube)
 <!-- YOUTUBE-LIST:START -->
-- [Make Data Visualizations with Matplotlib easier! 💥](https://www.youtube.com/watch?v=ApXJidG-wfY)
+- [Make Data Visualizations FASTER in 3 lines instead of 12 in Matplotlib! 📈](https://www.youtube.com/watch?v=ApXJidG-wfY)
 - [What do you do when Machine Learning goes ROGUE? 🐱‍👤](https://www.youtube.com/watch?v=J1eAzT-vGok)
 - [Craft a Top-Tier Data Science Resumé for your Career Transition into Tech on @Skillshare](https://www.youtube.com/watch?v=fL5554P5YNo)
 <!-- YOUTUBE-LIST:END -->
