@@ -44,6 +44,7 @@
 <a href="https://dramsch.net/newsletter"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/master/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
+- [🏳‍🌈 Do gay people wait in a LGBT Queue?](https://buttondown.email/jesper/archive/do-gay-people-wait-in-a-lgbt-queue/)
 - [⚛ We&#39;re late to the party so all good chemistry jokes argon](https://buttondown.email/jesper/archive/were-late-to-the-party-so-all-good-chemistry/)
 - [🧙‍♂️ Wizards go on dates spelling of roses](https://buttondown.email/jesper/archive/wizards-go-on-dates-spelling-of-roses/)
 <!-- NEWSLETTER-LIST:END -->
