@@ -28,9 +28,9 @@
 
 ### Youtube: [LiKe, coMMeNt, SubsCrIbE](https://dramsch.net/youtube)
 <!-- YOUTUBE-LIST:START -->
+- [Use this TRICK to make Machine Learning stronger 🧠](https://www.youtube.com/watch?v=37SGbfylsqg)
 - [Make Data Visualizations FASTER in 3 lines instead of 12 in Matplotlib! 📈](https://www.youtube.com/watch?v=ApXJidG-wfY)
 - [What do you do when Machine Learning goes ROGUE? 🐱‍👤](https://www.youtube.com/watch?v=J1eAzT-vGok)
-- [Craft a Top-Tier Data Science Resumé for your Career Transition into Tech on @Skillshare](https://www.youtube.com/watch?v=fL5554P5YNo)
 <!-- YOUTUBE-LIST:END -->
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
