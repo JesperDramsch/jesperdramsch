@@ -35,9 +35,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Learn the magic of R with these 3 books](https://dramsch.net/posts/r-books/)
 - [AI books](https://dramsch.net/posts/ai-books/)
 - [3 books that up your SQL game!](https://dramsch.net/posts/sql-books/)
-- [Dive deep into Python with these 4 Books](https://dramsch.net/posts/python-books/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://dramsch.net/newsletter)
