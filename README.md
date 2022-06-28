@@ -28,7 +28,7 @@
 
 ### Youtube: [LiKe, coMMeNt, SubsCrIbE](https://dramsch.net/youtube)
 <!-- YOUTUBE-LIST:START -->
-- [Use this simple TRICK to make Machine Learning training stronger 🧠](https://www.youtube.com/watch?v=37SGbfylsqg)
+- [Use this simple TRICK to make Machine Learning training stronger 🧠 &lpar;NOT clickbait!&rpar;](https://www.youtube.com/watch?v=37SGbfylsqg)
 - [Make Data Visualizations FASTER in 3 lines instead of 12 in Matplotlib! 📈](https://www.youtube.com/watch?v=ApXJidG-wfY)
 - [What do you do when Machine Learning goes ROGUE? 🐱‍👤](https://www.youtube.com/watch?v=J1eAzT-vGok)
 <!-- YOUTUBE-LIST:END -->
