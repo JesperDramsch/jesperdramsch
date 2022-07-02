@@ -44,9 +44,9 @@
 <a href="https://dramsch.net/newsletter"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/master/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
+- [🏠 My ceiling isn’t the best, but it’s up there](https://buttondown.email/jesper/archive/my-ceiling-isnt-the-best-but-its-up-there/)
 - [🗺 I often confuse maps and poker, because you fold on the river](https://buttondown.email/jesper/archive/i-often-confuse-maps-and-poker-because-you-fold/)
 - [🏳‍🌈 Do gay people wait in a LGBT Queue?](https://buttondown.email/jesper/archive/do-gay-people-wait-in-a-lgbt-queue/)
-- [⚛ We&#39;re late to the party so all good chemistry jokes argon](https://buttondown.email/jesper/archive/were-late-to-the-party-so-all-good-chemistry/)
 <!-- NEWSLETTER-LIST:END -->
 
 I wrote a [book](https://dramsch.net/books) about ML validation and I give it away to my over [333+ newsletter subscribers](https://dramsch.net/newsletter). 👉
