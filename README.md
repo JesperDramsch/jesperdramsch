@@ -28,7 +28,7 @@
 
 ### Youtube: [LiKe, coMMeNt, SubsCrIbE](https://dramsch.net/youtube)
 <!-- YOUTUBE-LIST:START -->
-- [Get $90 research papers for FREE Legally 🆓](https://www.youtube.com/watch?v=NCLtPGKRKIA)
+- [Get $90 machine learning research papers for FREE completely legal 🆓](https://www.youtube.com/watch?v=NCLtPGKRKIA)
 - [Use this simple TRICK to make Machine Learning training stronger 🧠 &lpar;NOT clickbait!&rpar;](https://www.youtube.com/watch?v=37SGbfylsqg)
 - [Make Data Visualizations FASTER in 3 lines instead of 12 in Matplotlib! 📈](https://www.youtube.com/watch?v=ApXJidG-wfY)
 <!-- YOUTUBE-LIST:END -->
