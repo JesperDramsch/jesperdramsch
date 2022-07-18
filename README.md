@@ -54,9 +54,9 @@ I wrote a [book](https://dramsch.net/books) about ML validation and I give it aw
 ### Recent Public Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3635](https://github.com/getnikola/nikola/issues/3635) in [getnikola/nikola](https://github.com/getnikola/nikola)
-2. 🗣 Commented on [#773](https://github.com/buttondown-email/roadmap/issues/773) in [buttondown-email/roadmap](https://github.com/buttondown-email/roadmap)
-3. 🗣 Commented on [#3](https://github.com/tobimori/streamdeck-toggl/issues/3) in [tobimori/streamdeck-toggl](https://github.com/tobimori/streamdeck-toggl)
-4. ❗️ Opened issue [#3617](https://github.com/getnikola/nikola/issues/3617) in [getnikola/nikola](https://github.com/getnikola/nikola)
+2. 🗣 Commented on [#3635](https://github.com/getnikola/nikola/issues/3635) in [getnikola/nikola](https://github.com/getnikola/nikola)
+3. 🗣 Commented on [#773](https://github.com/buttondown-email/roadmap/issues/773) in [buttondown-email/roadmap](https://github.com/buttondown-email/roadmap)
+4. 🗣 Commented on [#3](https://github.com/tobimori/streamdeck-toggl/issues/3) in [tobimori/streamdeck-toggl](https://github.com/tobimori/streamdeck-toggl)
 5. 🗣 Commented on [#3615](https://github.com/getnikola/nikola/issues/3615) in [getnikola/nikola](https://github.com/getnikola/nikola)
 <!--END_SECTION:activity-->
 
