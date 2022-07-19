@@ -28,7 +28,7 @@
 
 ### Youtube: [LiKe, coMMeNt, SubsCrIbE](https://dramsch.net/youtube)
 <!-- YOUTUBE-LIST:START -->
-- [100 Machine Learning tips and TRICKs to celebrate 🎉](https://www.youtube.com/watch?v=omK1zgZuZ3U)
+- [100 Machine Learning tips and TRICKs 💥](https://www.youtube.com/watch?v=omK1zgZuZ3U)
 - [Get $90 research papers for FREE completely legal 🆓](https://www.youtube.com/watch?v=NCLtPGKRKIA)
 - [better models WITHOUT Data augmentation?! 🧠 | Kaggle Inside](https://www.youtube.com/watch?v=37SGbfylsqg)
 <!-- YOUTUBE-LIST:END -->
