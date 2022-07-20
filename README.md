@@ -49,7 +49,7 @@
 - [🏠 My ceiling isn’t the best, but it’s up there](https://buttondown.email/jesper/archive/my-ceiling-isnt-the-best-but-its-up-there/)
 <!-- NEWSLETTER-LIST:END -->
 
-I wrote a [book](https://dramsch.net/books) about ML validation and I give it away to my over [333+ newsletter subscribers](https://dramsch.net/newsletter). 👉
+I wrote a [book](https://dramsch.net/books) about ML validation and I give it away to my over [555+ newsletter subscribers](https://dramsch.net/newsletter). 👉
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
