@@ -44,9 +44,9 @@
 <a href="https://dramsch.net/newsletter"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/master/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
+- [👻 At a ghosts birthday party, it’s easy to be the life of the party](https://buttondown.email/jesper/archive/at-a-ghosts-birthday-party-its-easy-to-be-the/)
 - [🐇 Bunnies hate my puns. They prefer high-burrow comedy.](https://buttondown.email/jesper/archive/bunnies-hate-my-puns-they-prefer-high-burrow/)
 - [🍞 Bread is a duckadent meal](https://buttondown.email/jesper/archive/bread-is-a-duckadent-meal/)
-- [🏠 My ceiling isn’t the best, but it’s up there](https://buttondown.email/jesper/archive/my-ceiling-isnt-the-best-but-its-up-there/)
 <!-- NEWSLETTER-LIST:END -->
 
 I wrote a [book](https://dramsch.net/books) about ML validation and I give it away to my over [555+ newsletter subscribers](https://dramsch.net/newsletter). 👉
