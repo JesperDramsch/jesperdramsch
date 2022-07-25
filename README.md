@@ -53,11 +53,11 @@ I wrote a [book](https://dramsch.net/books) about ML validation and I give it aw
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3635](https://github.com/getnikola/nikola/issues/3635) in [getnikola/nikola](https://github.com/getnikola/nikola)
-2. 🗣 Commented on [#3635](https://github.com/getnikola/nikola/issues/3635) in [getnikola/nikola](https://github.com/getnikola/nikola)
-3. 🗣 Commented on [#3635](https://github.com/getnikola/nikola/issues/3635) in [getnikola/nikola](https://github.com/getnikola/nikola)
-4. 🗣 Commented on [#773](https://github.com/buttondown-email/roadmap/issues/773) in [buttondown-email/roadmap](https://github.com/buttondown-email/roadmap)
-5. 🗣 Commented on [#3615](https://github.com/getnikola/nikola/issues/3615) in [getnikola/nikola](https://github.com/getnikola/nikola)
+1. 🗣 Commented on [#1](https://github.com/JesperDramsch/python-deadlines/issues/1) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+2. 🗣 Commented on [#1](https://github.com/JesperDramsch/python-deadlines/issues/1) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+3. 🎉 Merged PR [#1](https://github.com/JesperDramsch/python-deadlines/pull/1) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+4. 🗣 Commented on [#3635](https://github.com/getnikola/nikola/issues/3635) in [getnikola/nikola](https://github.com/getnikola/nikola)
+5. 🗣 Commented on [#3635](https://github.com/getnikola/nikola/issues/3635) in [getnikola/nikola](https://github.com/getnikola/nikola)
 <!--END_SECTION:activity-->
 
 ### Data Education
