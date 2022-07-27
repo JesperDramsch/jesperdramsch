@@ -35,9 +35,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Go beyond academic machine learning courses with these 4 MLOps books](https://dramsch.net/posts/mlops-books/)
 - [100 Machine Learning Tips](https://dramsch.net/posts/100-machine-learning-tips/)
 - [Learn Data Science with these 3 Books](https://dramsch.net/posts/data-science-books/)
-- [Get started with these books in AI ethics](https://dramsch.net/posts/ai-ethics-books/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://dramsch.net/newsletter)
