@@ -35,9 +35,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Read these books to start Machine Learning Research](https://dramsch.net/posts/ml-research-books/)
 - [Go beyond academic machine learning courses with these 4 MLOps books](https://dramsch.net/posts/mlops-books/)
 - [100 Machine Learning Tips](https://dramsch.net/posts/100-machine-learning-tips/)
-- [Learn Data Science with these 3 Books](https://dramsch.net/posts/data-science-books/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://dramsch.net/newsletter)
