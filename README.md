@@ -35,9 +35,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [I changed careers from Oil &amp; Gas to predict the weather](https://dramsch.net/posts/career-change/)
 - [Learn how Siri and Google started to speak with these 3 NLP books](https://dramsch.net/posts/nlp-books/)
 - [Read these books to start Machine Learning Research](https://dramsch.net/posts/ml-research-books/)
-- [Go beyond academic machine learning courses with these 4 MLOps books](https://dramsch.net/posts/mlops-books/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://dramsch.net/newsletter)
