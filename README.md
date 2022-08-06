@@ -35,7 +35,7 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
-- [I changed careers from Oil &amp; Gas to predict the weather](https://dramsch.net/posts/career-change/)
+- [I changed careers from Oil &amp; Gas to have a positive impact on the world instead. Here&#39;s how!](https://dramsch.net/posts/career-change/)
 - [Learn how Siri and Google started to speak with these 3 NLP books](https://dramsch.net/posts/nlp-books/)
 - [Read these books to start Machine Learning Research](https://dramsch.net/posts/ml-research-books/)
 <!-- BLOG-POST-LIST:END -->
