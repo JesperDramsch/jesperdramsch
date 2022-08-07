@@ -53,11 +53,11 @@ I wrote a [book](https://dramsch.net/books) about ML validation and I give it aw
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#455](https://github.com/Bl4Cc4t/GoodTwitter2/issues/455) in [Bl4Cc4t/GoodTwitter2](https://github.com/Bl4Cc4t/GoodTwitter2)
-2. 🗣 Commented on [#1](https://github.com/JesperDramsch/python-deadlines/issues/1) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+1. 🗣 Commented on [#455](https://github.com/Bl4Cc4t/GoodTwitter2/issues/455) in [Bl4Cc4t/GoodTwitter2](https://github.com/Bl4Cc4t/GoodTwitter2)
+2. ❗️ Opened issue [#455](https://github.com/Bl4Cc4t/GoodTwitter2/issues/455) in [Bl4Cc4t/GoodTwitter2](https://github.com/Bl4Cc4t/GoodTwitter2)
 3. 🗣 Commented on [#1](https://github.com/JesperDramsch/python-deadlines/issues/1) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-4. 🎉 Merged PR [#1](https://github.com/JesperDramsch/python-deadlines/pull/1) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-5. 🗣 Commented on [#3635](https://github.com/getnikola/nikola/issues/3635) in [getnikola/nikola](https://github.com/getnikola/nikola)
+4. 🗣 Commented on [#1](https://github.com/JesperDramsch/python-deadlines/issues/1) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+5. 🎉 Merged PR [#1](https://github.com/JesperDramsch/python-deadlines/pull/1) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
 <!--END_SECTION:activity-->
 
 ### Data Education
