@@ -44,9 +44,9 @@
 <a href="https://dramsch.net/newsletter"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/master/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
+- [🦈 That shark vanished into fin air](https://buttondown.email/jesper/archive/that-shark-vanished-into-fin-air/)
 - [🌊 Water you doing, my friend?](https://buttondown.email/jesper/archive/water-you-doing-my-friend/)
 - [☕ Words cannot espresso how much coffee means to me](https://buttondown.email/jesper/archive/words-cannot-espresso-how-much-coffee-means-to-me-5764/)
-- [👻 At a ghosts birthday party, it’s easy to be the life of the party](https://buttondown.email/jesper/archive/at-a-ghosts-birthday-party-its-easy-to-be-the/)
 <!-- NEWSLETTER-LIST:END -->
 
 I wrote a [book](https://dramsch.net/books) about ML validation and I give it away to my over [555+ newsletter subscribers](https://dramsch.net/newsletter). 👉
