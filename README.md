@@ -35,9 +35,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Why I still write about Real-world Machine Learning online](https://dramsch.net/posts/why-i-still-write-about-real-world-machine-learning-online/)
 - [Learn how computers win games and robots walk with these 3 books](https://dramsch.net/posts/reinforcement-learning-books/)
 - [I changed careers from Oil &amp; Gas to have a positive impact on the world instead. Here&#39;s how!](https://dramsch.net/posts/career-change/)
-- [Learn how Siri and Google started to speak with these 3 NLP books](https://dramsch.net/posts/nlp-books/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://dramsch.net/newsletter)
