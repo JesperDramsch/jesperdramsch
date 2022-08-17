@@ -35,9 +35,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [The easiest Machine Learning method to get started on Kaggle](https://dramsch.net/posts/the-easiest-machine-learning-method-to-get-started-on-kaggle/)
+- [How I Got Interested In real-world Machine Learning](https://dramsch.net/posts/how-i-got-interested-in-real-world-machine-learning/)
 - [The Best Way To Get Started Learning Real-world Machine Learning](https://dramsch.net/posts/the-best-way-to-get-started-learning-real-world-machine-learning/)
-- [3 Machine Learning Topics I Am Exploring Right Now](https://dramsch.net/posts/3-machine-learning-topics-i-am-exploring-right-now/)
-- [Why I still write about Real-world Machine Learning online](https://dramsch.net/posts/why-i-still-write-about-real-world-machine-learning-online/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://dramsch.net/newsletter)
