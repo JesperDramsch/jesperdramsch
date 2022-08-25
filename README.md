@@ -35,9 +35,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
-- [Consider this £3,000 fellowship even if you&#39;re &quot;just&quot; a scientist who codes](https://dramsch.net/posts/consider-this-3000-fellowship-even-if-youre-just-a-scientist-who-codes/)
-- [The easiest Machine Learning method to get started on Kaggle](https://dramsch.net/posts/the-easiest-machine-learning-method-to-get-started-on-kaggle/)
-- [How I Got Interested In real-world Machine Learning](https://dramsch.net/posts/how-i-got-interested-in-real-world-machine-learning/)
+- [Consider this £3,000 fellowship even if you&#39;re &quot;just&quot; a scientist who codes](https://dramsch.net/articles/consider-this-3000-fellowship-even-if-youre-just-a-scientist-who-codes/)
+- [The easiest Machine Learning method to get started on Kaggle](https://dramsch.net/articles/the-easiest-machine-learning-method-to-get-started-on-kaggle/)
+- [How I Got Interested In real-world Machine Learning](https://dramsch.net/articles/how-i-got-interested-in-real-world-machine-learning/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://dramsch.net/newsletter)
