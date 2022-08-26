@@ -28,9 +28,9 @@
 
 ### Youtube: [LiKe, coMMeNt, SubsCrIbE](https://dramsch.net/youtube)
 <!-- YOUTUBE-LIST:START -->
+- [How to Guarantee No One Understands Your Machine Learning Project | @PyData Global Talk 2021](https://www.youtube.com/watch?v=ucgCGGb088E)
 - [100 Machine Learning tips and TRICKs to celebrate Youtube Partner💥](https://www.youtube.com/watch?v=omK1zgZuZ3U)
 - [Get $87 research papers for FREE completely legal 🆓](https://www.youtube.com/watch?v=NCLtPGKRKIA)
-- [better models WITHOUT Data augmentation?! 🧠 | Kaggle Inside](https://www.youtube.com/watch?v=37SGbfylsqg)
 <!-- YOUTUBE-LIST:END -->
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
