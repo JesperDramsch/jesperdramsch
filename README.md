@@ -44,9 +44,9 @@
 <a href="https://dramsch.net/newsletter"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/master/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
+- [🔮 These headlines are punpredictable](https://buttondown.email/jesper/archive/these-headlines-are-punpredictable/)
 - [🎉 I like this newsletter in party-cular](https://buttondown.email/jesper/archive/i-like-this-newsletter-in-party-cular/)
 - [🐋 Whale, whale, whale, what do we have here.](https://buttondown.email/jesper/archive/whale-whale-whale-what-do-we-have-here/)
-- [🦈 That shark vanished into fin air](https://buttondown.email/jesper/archive/that-shark-vanished-into-fin-air/)
 <!-- NEWSLETTER-LIST:END -->
 
 I wrote a [book](https://dramsch.net/books) about ML validation and I give it away to my over [555+ newsletter subscribers](https://dramsch.net/newsletter). 👉
