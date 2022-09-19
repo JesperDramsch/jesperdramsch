@@ -35,9 +35,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Increase citations, ease reviews and facilitate collaboration – Benchmarking](https://dramsch.net/articles/euroscipy-2022/euroscipy-tutorial-2-benchmarking/)
 - [Increase citations, ease reviews and facilitate collaboration – Model Evaluation](https://dramsch.net/articles/euroscipy-2022/euroscipy-tutorial-1-model-evaluation/)
 - [Increase citations, ease reviews and facilitate collaboration – Data Prep](https://dramsch.net/articles/euroscipy-2022/euroscipy-tutorial-0-basic-data-prep-and-model/)
-- [EuroScipy 2022 Tutorial: Increase citations, ease review &amp; collaboration](https://dramsch.net/articles/euroscipy-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://dramsch.net/newsletter)
