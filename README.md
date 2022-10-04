@@ -35,9 +35,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Increase citations, ease reviews and facilitate collaboration – Ablation Studies](https://dramsch.net/articles/euroscipy-2022/euroscipy-tutorial-6-ablation-study/)
 - [Increase citations, ease reviews and facilitate collaboration – Interpretability](https://dramsch.net/articles/euroscipy-2022/euroscipy-tutorial-5-interpretability/)
 - [Increase citations, ease reviews and facilitate collaboration – Testing in Machine Learning](https://dramsch.net/articles/euroscipy-2022/euroscipy-tutorial-4-testing/)
-- [Increase citations, ease reviews and facilitate collaboration – Model Sharing](https://dramsch.net/articles/euroscipy-2022/euroscipy-tutorial-3-model-sharing/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://dramsch.net/newsletter)
