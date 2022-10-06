@@ -53,11 +53,11 @@ I wrote a [book](https://dramsch.net/books) about ML validation and I give it aw
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/JesperDramsch/python-deadlines/pull/3) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-2. 🗣 Commented on [#15641](https://github.com/scikit-learn/scikit-learn/issues/15641) in [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
-3. 🎉 Merged PR [#2](https://github.com/JesperDramsch/python-deadlines/pull/2) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-4. 🗣 Commented on [#459](https://github.com/Bl4Cc4t/GoodTwitter2/issues/459) in [Bl4Cc4t/GoodTwitter2](https://github.com/Bl4Cc4t/GoodTwitter2)
-5. ❗️ Closed issue [#455](https://github.com/Bl4Cc4t/GoodTwitter2/issues/455) in [Bl4Cc4t/GoodTwitter2](https://github.com/Bl4Cc4t/GoodTwitter2)
+1. 🗣 Commented on [#325](https://github.com/huggingface/course/issues/325) in [huggingface/course](https://github.com/huggingface/course)
+2. 🎉 Merged PR [#3](https://github.com/JesperDramsch/python-deadlines/pull/3) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+3. 🗣 Commented on [#15641](https://github.com/scikit-learn/scikit-learn/issues/15641) in [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
+4. 🎉 Merged PR [#2](https://github.com/JesperDramsch/python-deadlines/pull/2) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+5. 🗣 Commented on [#459](https://github.com/Bl4Cc4t/GoodTwitter2/issues/459) in [Bl4Cc4t/GoodTwitter2](https://github.com/Bl4Cc4t/GoodTwitter2)
 <!--END_SECTION:activity-->
 
 ### Data Education
