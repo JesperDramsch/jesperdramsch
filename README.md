@@ -44,9 +44,9 @@
 <a href="https://dramsch.net/newsletter"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/master/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
+- [❄I tried looking up ice cream puns on the internet, but my browser froze](https://buttondown.email/jesper/archive/i-tried-looking-up-ice-cream-puns-on-the-internet/)
 - [🧐 Monopoly startups are doomed – There&#39;s no real money in it](https://buttondown.email/jesper/archive/monopoly-startups-are-doomed-theres-no-real-money/)
 - [🤿 Scuba diving is a descent hobby](https://buttondown.email/jesper/archive/scuba-diving-is-a-descent-hobby/)
-- [🌍 A-frican love wordplays!](https://buttondown.email/jesper/archive/a-frican-love-wordplays/)
 <!-- NEWSLETTER-LIST:END -->
 
 I wrote a [book](https://dramsch.net/books) about ML validation and I give it away to my over [555+ newsletter subscribers](https://dramsch.net/newsletter). 👉
