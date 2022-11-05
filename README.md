@@ -44,9 +44,9 @@
 <a href="https://dramsch.net/newsletter"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/master/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
+- [🌈 Meteorologists weighed rainbows and found out they&#39;re pretty light](https://buttondown.email/jesper/archive/meteorologists-weighed-rainbows-and-found-out-1665/)
 - [🚸 We may be kind but German children are Kinder](https://buttondown.email/jesper/archive/german-f/)
 - [🌞 Do meteorologists drink at the isobar?](https://buttondown.email/jesper/archive/do-meteorologists-drink-at-the-isobar/)
-- [🍵 The tea hardest to swallow is reali-tea](https://buttondown.email/jesper/archive/the-tea-hardest-to-swallow-is-reali-tea/)
 <!-- NEWSLETTER-LIST:END -->
 
 I wrote a [book](https://dramsch.net/books) about ML validation and I give it away to my over [555+ newsletter subscribers](https://dramsch.net/newsletter). 👉
