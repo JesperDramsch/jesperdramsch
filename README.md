@@ -53,10 +53,10 @@ I wrote a [book](https://dramsch.net/books) about ML validation and I give it aw
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/JesperDramsch/python-deadlines/pull/4) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-2. 🗣 Commented on [#4](https://github.com/JesperDramsch/python-deadlines/issues/4) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-3. 💪 Opened PR [#338](https://github.com/huggingface/course/pull/338) in [huggingface/course](https://github.com/huggingface/course)
-4. 🗣 Commented on [#336](https://github.com/huggingface/course/issues/336) in [huggingface/course](https://github.com/huggingface/course)
+1. 🗣 Commented on [#3105](https://github.com/getnikola/nikola/issues/3105) in [getnikola/nikola](https://github.com/getnikola/nikola)
+2. 🎉 Merged PR [#4](https://github.com/JesperDramsch/python-deadlines/pull/4) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+3. 🗣 Commented on [#4](https://github.com/JesperDramsch/python-deadlines/issues/4) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+4. 💪 Opened PR [#338](https://github.com/huggingface/course/pull/338) in [huggingface/course](https://github.com/huggingface/course)
 5. 🗣 Commented on [#336](https://github.com/huggingface/course/issues/336) in [huggingface/course](https://github.com/huggingface/course)
 <!--END_SECTION:activity-->
 
