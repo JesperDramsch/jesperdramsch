@@ -35,9 +35,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Mastodon User Timelines are RSS Feeds](https://dramsch.net/today-i-learned/social-media/mastodon-user-post-timeline/)
 - [I learned about TIL posts](https://dramsch.net/today-i-learned/content/today-i-learned/)
 - [Mastodon for Twitter Escapees](https://dramsch.net/articles/mastodon-for-twitter-escapees/)
-- [Increase citations, ease reviews and facilitate collaboration – Ablation Studies](https://dramsch.net/articles/euroscipy-2022/euroscipy-tutorial-6-ablation-study/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://dramsch.net/newsletter)
