@@ -53,11 +53,11 @@ I wrote a [book](https://dramsch.net/books) about ML validation and I give it aw
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#41](https://github.com/germanrepro/Mastodon-OpenScience/pull/41) in [germanrepro/Mastodon-OpenScience](https://github.com/germanrepro/Mastodon-OpenScience)
-2. 💪 Opened PR [#485](https://github.com/paperswithcode/ai-deadlines/pull/485) in [paperswithcode/ai-deadlines](https://github.com/paperswithcode/ai-deadlines)
-3. 🗣 Commented on [#3105](https://github.com/getnikola/nikola/issues/3105) in [getnikola/nikola](https://github.com/getnikola/nikola)
-4. 🎉 Merged PR [#4](https://github.com/JesperDramsch/python-deadlines/pull/4) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-5. 🗣 Commented on [#4](https://github.com/JesperDramsch/python-deadlines/issues/4) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+1. 🗣 Commented on [#1](https://github.com/JesperDramsch/ml-for-science-reproducibility-tutorial/issues/1) in [JesperDramsch/ml-for-science-reproducibility-tutorial](https://github.com/JesperDramsch/ml-for-science-reproducibility-tutorial)
+2. 🎉 Merged PR [#1](https://github.com/JesperDramsch/ml-for-science-reproducibility-tutorial/pull/1) in [JesperDramsch/ml-for-science-reproducibility-tutorial](https://github.com/JesperDramsch/ml-for-science-reproducibility-tutorial)
+3. 💪 Opened PR [#41](https://github.com/germanrepro/Mastodon-OpenScience/pull/41) in [germanrepro/Mastodon-OpenScience](https://github.com/germanrepro/Mastodon-OpenScience)
+4. 💪 Opened PR [#485](https://github.com/paperswithcode/ai-deadlines/pull/485) in [paperswithcode/ai-deadlines](https://github.com/paperswithcode/ai-deadlines)
+5. 🗣 Commented on [#3105](https://github.com/getnikola/nikola/issues/3105) in [getnikola/nikola](https://github.com/getnikola/nikola)
 <!--END_SECTION:activity-->
 
 ### Data Education
