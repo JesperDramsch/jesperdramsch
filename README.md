@@ -44,9 +44,9 @@
 <a href="https://dramsch.net/newsletter"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/master/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
+- [❄ And snow on and snow forth...](https://buttondown.email/jesper/archive/and-snow-on-and-snow-forth/)
 - [🧙‍♂️ The Mexican Magician&#39;s trick went &quot;Uno, Dos, ...&quot; then disappeared without a Trace](https://buttondown.email/jesper/archive/the-mexican-magicians-trick-went-uno-dos-then/)
 - [🎨 We put the Art in Artificial Intelligence!](https://buttondown.email/jesper/archive/we-put-the-art-in-artificial-intelligence/)
-- [🍾 Spirits and literature? Tequila mockingbird.](https://dramsch.net/newsletter/spirits-and-literature-tequila-mockingbird)
 <!-- NEWSLETTER-LIST:END -->
 
 I wrote a [book](https://dramsch.net/books) about ML validation and I give it away to my over [555+ newsletter subscribers](https://dramsch.net/newsletter). 👉
