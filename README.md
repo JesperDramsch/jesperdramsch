@@ -35,9 +35,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Use conftest.py to do something after pytest passes](https://dramsch.net/today-i-learned/pytest/use-conftestpy-to-do-something-after-pytest-passes/)
 - [Mastodon User Timelines are RSS Feeds](https://dramsch.net/today-i-learned/social-media/mastodon-user-post-timeline/)
 - [I learned about TIL posts](https://dramsch.net/today-i-learned/content/today-i-learned/)
-- [Mastodon for Twitter Escapees](https://dramsch.net/articles/mastodon-for-twitter-escapees/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://dramsch.net/newsletter)
