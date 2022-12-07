@@ -53,11 +53,11 @@ I wrote a [book](https://dramsch.net/books) about ML validation and I give it aw
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/JesperDramsch/ml-for-science-reproducibility-tutorial/pull/2) in [JesperDramsch/ml-for-science-reproducibility-tutorial](https://github.com/JesperDramsch/ml-for-science-reproducibility-tutorial)
-2. 🗣 Commented on [#1](https://github.com/JesperDramsch/ml-for-science-reproducibility-tutorial/issues/1) in [JesperDramsch/ml-for-science-reproducibility-tutorial](https://github.com/JesperDramsch/ml-for-science-reproducibility-tutorial)
-3. 🎉 Merged PR [#1](https://github.com/JesperDramsch/ml-for-science-reproducibility-tutorial/pull/1) in [JesperDramsch/ml-for-science-reproducibility-tutorial](https://github.com/JesperDramsch/ml-for-science-reproducibility-tutorial)
-4. 💪 Opened PR [#41](https://github.com/germanrepro/Mastodon-OpenScience/pull/41) in [germanrepro/Mastodon-OpenScience](https://github.com/germanrepro/Mastodon-OpenScience)
-5. 💪 Opened PR [#485](https://github.com/paperswithcode/ai-deadlines/pull/485) in [paperswithcode/ai-deadlines](https://github.com/paperswithcode/ai-deadlines)
+1. 🗣 Commented on [#9](https://github.com/JesperDramsch/keras-complex/issues/9) in [JesperDramsch/keras-complex](https://github.com/JesperDramsch/keras-complex)
+2. 🗣 Commented on [#20](https://github.com/JesperDramsch/keras-complex/issues/20) in [JesperDramsch/keras-complex](https://github.com/JesperDramsch/keras-complex)
+3. ❗️ Closed issue [#18](https://github.com/JesperDramsch/keras-complex/issues/18) in [JesperDramsch/keras-complex](https://github.com/JesperDramsch/keras-complex)
+4. ❗️ Closed issue [#14](https://github.com/JesperDramsch/keras-complex/issues/14) in [JesperDramsch/keras-complex](https://github.com/JesperDramsch/keras-complex)
+5. ❗️ Closed issue [#13](https://github.com/JesperDramsch/keras-complex/issues/13) in [JesperDramsch/keras-complex](https://github.com/JesperDramsch/keras-complex)
 <!--END_SECTION:activity-->
 
 ### Data Education
