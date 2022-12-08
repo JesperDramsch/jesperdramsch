@@ -35,9 +35,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [No Space Left On Device - Solving Advent of Code Day 06 2022](https://dramsch.net/articles/no-space-left-on-device/)
 - [Tuning Trouble - Solving Advent of Code Day 06 2022](https://dramsch.net/articles/tuning-trouble/)
 - [Supply Stack - Solving Advent of Code Day 05 2022](https://dramsch.net/articles/supply-stack-solving-advent-of-code-day-05-2022/)
-- [Camp Cleanup - Solving Advent of Code Day 04 2022](https://dramsch.net/articles/camp-cleanup-solving-advent-of-code-day-04-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://dramsch.net/newsletter)
