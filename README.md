@@ -35,9 +35,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Today I learned about dynamic dates in Notion templates](https://dramsch.net/today-i-learned/notion/today-i-learned-about-dynamic-dates-in-notion-templates/)
+- [Treetop Tree House - Solving Advent of Code Day 08 2022](https://dramsch.net/articles/treetop-tree-house/)
 - [No Space Left On Device - Solving Advent of Code Day 06 2022](https://dramsch.net/articles/no-space-left-on-device/)
-- [Tuning Trouble - Solving Advent of Code Day 06 2022](https://dramsch.net/articles/tuning-trouble/)
-- [Supply Stack - Solving Advent of Code Day 05 2022](https://dramsch.net/articles/supply-stack-solving-advent-of-code-day-05-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://dramsch.net/newsletter)
