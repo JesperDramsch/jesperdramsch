@@ -41,7 +41,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://dramsch.net/newsletter)
-<a href="https://dramsch.net/newsletter"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/master/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
+<a href="https://dramsch.net/newsletter"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/main/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
 - [❄ And snow on and snow forth...](https://buttondown.email/jesper/archive/and-snow-on-and-snow-forth/)
