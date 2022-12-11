@@ -35,9 +35,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Today I learned about deterministic Gzip compression](https://dramsch.net/today-i-learned/gzip/today-i-learned-about-deterministic-gzip-compression/)
+- [Cathode-Ray Tube - Solving Day 10 of Advent of Code 2022](https://dramsch.net/articles/cathode-ray-tube/)
 - [Rope Bridge - Solving Advent of Code Day 09 2022](https://dramsch.net/articles/rope-bridge-solving-advent-of-code/)
-- [Today I learned about dynamic dates in Notion templates](https://dramsch.net/today-i-learned/notion/today-i-learned-about-dynamic-dates-in-notion-templates/)
-- [Treetop Tree House - Solving Advent of Code Day 08 2022](https://dramsch.net/articles/treetop-tree-house/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://dramsch.net/newsletter)
