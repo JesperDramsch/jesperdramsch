@@ -35,9 +35,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Distress Signal - Solving Day 13 of Advent of Code 2022](https://dramsch.net/articles/distress-signal-aoc/)
 - [Hill Climbing Algorithm - Solving Day 12 of Advent of Code 2022](https://dramsch.net/articles/hill-climbing-algorithm-aoc/)
 - [Monkey in the Middle - Solving Day 11 of Advent of Code 2022](https://dramsch.net/articles/monkey-in-the-middle/)
-- [Today I learned about deterministic Gzip compression](https://dramsch.net/today-i-learned/gzip/today-i-learned-about-deterministic-gzip-compression/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://dramsch.net/newsletter)
