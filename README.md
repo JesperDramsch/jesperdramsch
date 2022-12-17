@@ -35,9 +35,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Beacon Exclusion Zone - Solving Day 15 of Advent of Code 2022](https://dramsch.net/articles/beacon-exclusion-zone/)
 - [Regolith Reservoir - Solving Day 14 of Advent of Code 2022](https://dramsch.net/articles/regolith-reservoir/)
 - [Distress Signal - Solving Day 13 of Advent of Code 2022](https://dramsch.net/articles/distress-signal-aoc/)
-- [Hill Climbing Algorithm - Solving Day 12 of Advent of Code 2022](https://dramsch.net/articles/hill-climbing-algorithm-aoc/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://dramsch.net/newsletter)
