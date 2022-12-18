@@ -53,11 +53,11 @@ I wrote a [book](https://dramsch.net/books) about real-world ML and I give it aw
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3651](https://github.com/getnikola/nikola/issues/3651) in [getnikola/nikola](https://github.com/getnikola/nikola)
-2. 💪 Opened PR [#3651](https://github.com/getnikola/nikola/pull/3651) in [getnikola/nikola](https://github.com/getnikola/nikola)
-3. 🗣 Commented on [#3650](https://github.com/getnikola/nikola/issues/3650) in [getnikola/nikola](https://github.com/getnikola/nikola)
-4. ❗️ Opened issue [#3650](https://github.com/getnikola/nikola/issues/3650) in [getnikola/nikola](https://github.com/getnikola/nikola)
-5. ❗️ Opened issue [#3649](https://github.com/getnikola/nikola/issues/3649) in [getnikola/nikola](https://github.com/getnikola/nikola)
+1. 💪 Opened PR [#18](https://github.com/normconf/awesome-normconf/pull/18) in [normconf/awesome-normconf](https://github.com/normconf/awesome-normconf)
+2. 🗣 Commented on [#3651](https://github.com/getnikola/nikola/issues/3651) in [getnikola/nikola](https://github.com/getnikola/nikola)
+3. 💪 Opened PR [#3651](https://github.com/getnikola/nikola/pull/3651) in [getnikola/nikola](https://github.com/getnikola/nikola)
+4. 🗣 Commented on [#3650](https://github.com/getnikola/nikola/issues/3650) in [getnikola/nikola](https://github.com/getnikola/nikola)
+5. ❗️ Opened issue [#3650](https://github.com/getnikola/nikola/issues/3650) in [getnikola/nikola](https://github.com/getnikola/nikola)
 <!--END_SECTION:activity-->
 
 ### Data Education
