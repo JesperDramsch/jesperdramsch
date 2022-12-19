@@ -28,9 +28,9 @@
 
 ### Youtube: [LiKe, coMMeNt, SubsCrIbE](https://dramsch.net/youtube)
 <!-- YOUTUBE-LIST:START -->
+- [Stop using random Splits  - NormConf &quot;Hallway Track&quot;](https://www.youtube.com/watch?v=Wyazme2GOlA)
 - [Put Art into Artificial Intelligence with Stable Diffusion 🎨 now on @Skillshare](https://www.youtube.com/watch?v=PPpLmiKDRFg)
 - [How to Guarantee No One Understands Your Machine Learning Project | @PyData Global Talk 2021](https://www.youtube.com/watch?v=ucgCGGb088E)
-- [100 Machine Learning tips and TRICKs to celebrate Youtube Partner💥](https://www.youtube.com/watch?v=omK1zgZuZ3U)
 <!-- YOUTUBE-LIST:END -->
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
