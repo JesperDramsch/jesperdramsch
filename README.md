@@ -28,9 +28,9 @@
 
 ### Youtube: [LiKe, coMMeNt, SubsCrIbE](https://dramsch.net/youtube)
 <!-- YOUTUBE-LIST:START -->
-- [Stop using random Splits  - NormConf &quot;Hallway Track&quot;](https://www.youtube.com/watch?v=Wyazme2GOlA)
 - [Discussion at Real-world Perspectives in Machine Learning for Science](https://www.youtube.com/watch?v=K6sfwns7RTc)
 - [Integrating ML in experimental pipelines - Gemma Turon](https://www.youtube.com/watch?v=pwgdHVDDmnA)
+- [How to Test your Machine Learning models - Goku Mohandas](https://www.youtube.com/watch?v=hhMUE0_vAs4)
 <!-- YOUTUBE-LIST:END -->
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
