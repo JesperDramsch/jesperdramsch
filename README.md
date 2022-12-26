@@ -36,8 +36,8 @@
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
 - [Frozensets compare very well](https://dramsch.net/today-i-learned/data-structures-and-algorithms/frozensets-compare-very-well/)
-- [Proboscidea Volcanium - Solving Day 16 of Advent of Code 2022](https://dramsch.net/articles/proboscidea-volcanium-aoc/)
-- [Sorting your values can speed up your code](https://dramsch.net/today-i-learned/data-structures-and-algorithms/sorting-your-values-can-speed-up-your-code/)
+- [Boiling Boulders - Solving Day 18 of Advent of Code 2022](https://dramsch.net/articles/boiling-boulders-aoc/)
+- [Pyroclastic Flow - Solving Day 17 of Advent of Code 2022](https://dramsch.net/articles/pyroclastic-flow-aoc/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://dramsch.net/newsletter)
