@@ -44,9 +44,9 @@
 <a href="https://dramsch.net/newsletter"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/main/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
+- [🎉 New Year’s parties are great but the biggest con is fetti](https://buttondown.email/jesper/archive/new-years-parties-are-great-but-the-biggest-con-is-fetti/)
 - [🎁 The Ghost of Christmas Presents is my favorite Christmas ghost](https://buttondown.email/jesper/archive/the-ghost-of-christmas-presents-is-my-favorite/)
 - [❄ And snow on and snow forth...](https://buttondown.email/jesper/archive/and-snow-on-and-snow-forth/)
-- [🧙‍♂️ The Mexican Magician&#39;s trick went &quot;Uno, Dos, ...&quot; then disappeared without a Trace](https://buttondown.email/jesper/archive/the-mexican-magicians-trick-went-uno-dos-then/)
 <!-- NEWSLETTER-LIST:END -->
 
 I wrote a [book](https://dramsch.net/books) about real-world ML and I give it away to my over [950+ newsletter subscribers](https://dramsch.net/newsletter). 👉
