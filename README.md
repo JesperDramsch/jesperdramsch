@@ -35,9 +35,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [The Top 20 Real-world Machine Learning, Python, and AI links from 2022](https://dramsch.net/articles/top-10-real-world-machine-learning-python-ai-links-2022/)
 - [Frozensets compare very well](https://dramsch.net/today-i-learned/data-structures-and-algorithms/frozensets-compare-very-well/)
 - [Boiling Boulders - Solving Day 18 of Advent of Code 2022](https://dramsch.net/articles/boiling-boulders-aoc/)
-- [Pyroclastic Flow - Solving Day 17 of Advent of Code 2022](https://dramsch.net/articles/pyroclastic-flow-aoc/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://dramsch.net/newsletter)
