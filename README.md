@@ -44,9 +44,9 @@
 <a href="https://dramsch.net/newsletter"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/main/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
+- [👓 Wearing glasses doing math improves division](https://buttondown.email/jesper/archive/wearing-glasses-doing-math-improves-division/)
 - [⛰ Waiting for winter holidays is often a cry for Alp](https://buttondown.email/jesper/archive/waiting-for-winter-holidays-is-often-a-cry-for-alp/)
 - [🕰 In the Quick of Time](https://buttondown.email/jesper/archive/in-the-quick-of-time/)
-- [🍾 The champagne got a degree in fizz-ics](https://buttondown.email/jesper/archive/the-champagne-got-a-degree-in-fizz-ics/)
 <!-- NEWSLETTER-LIST:END -->
 
 I wrote a [book](https://dramsch.net/books) about real-world ML and I give it away to my over [950+ newsletter subscribers](https://dramsch.net/newsletter). 👉
