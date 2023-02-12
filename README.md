@@ -35,9 +35,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [9 Ways I try to overcome Imposter Syndrome](https://dramsch.net/articles/imposter-syndrome/)
 - [Today I learned Firefox is good actually?](https://dramsch.net/today-i-learned/apps/today-i-learned-firefox-is-good-actually/)
 - [The Top 20 Real-world Machine Learning, Python, and AI links from 2022](https://dramsch.net/articles/top-10-real-world-machine-learning-python-ai-links-2022/)
-- [Frozensets compare very well](https://dramsch.net/today-i-learned/data-structures-and-algorithms/frozensets-compare-very-well/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://dramsch.net/newsletter)
