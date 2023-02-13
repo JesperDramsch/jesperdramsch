@@ -53,11 +53,11 @@ I wrote a [book](https://dramsch.net/books) about real-world ML and I give it aw
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/getnikola/nikola-action/pull/11) in [getnikola/nikola-action](https://github.com/getnikola/nikola-action)
-2. 🗣 Commented on [#1](https://github.com/EthicalML/awesome-annual-reviews-and-trends/issues/1) in [EthicalML/awesome-annual-reviews-and-trends](https://github.com/EthicalML/awesome-annual-reviews-and-trends)
-3. 💪 Opened PR [#1](https://github.com/EthicalML/awesome-annual-reviews-and-trends/pull/1) in [EthicalML/awesome-annual-reviews-and-trends](https://github.com/EthicalML/awesome-annual-reviews-and-trends)
-4. 💪 Opened PR [#18](https://github.com/normconf/awesome-normconf/pull/18) in [normconf/awesome-normconf](https://github.com/normconf/awesome-normconf)
-5. 🗣 Commented on [#3651](https://github.com/getnikola/nikola/issues/3651) in [getnikola/nikola](https://github.com/getnikola/nikola)
+1. 🎉 Merged PR [#3](https://github.com/JesperDramsch/ml-for-science-reproducibility-tutorial/pull/3) in [JesperDramsch/ml-for-science-reproducibility-tutorial](https://github.com/JesperDramsch/ml-for-science-reproducibility-tutorial)
+2. 💪 Opened PR [#3](https://github.com/JesperDramsch/ml-for-science-reproducibility-tutorial/pull/3) in [JesperDramsch/ml-for-science-reproducibility-tutorial](https://github.com/JesperDramsch/ml-for-science-reproducibility-tutorial)
+3. 💪 Opened PR [#11](https://github.com/getnikola/nikola-action/pull/11) in [getnikola/nikola-action](https://github.com/getnikola/nikola-action)
+4. 🗣 Commented on [#1](https://github.com/EthicalML/awesome-annual-reviews-and-trends/issues/1) in [EthicalML/awesome-annual-reviews-and-trends](https://github.com/EthicalML/awesome-annual-reviews-and-trends)
+5. 💪 Opened PR [#1](https://github.com/EthicalML/awesome-annual-reviews-and-trends/pull/1) in [EthicalML/awesome-annual-reviews-and-trends](https://github.com/EthicalML/awesome-annual-reviews-and-trends)
 <!--END_SECTION:activity-->
 
 ### Data Education
