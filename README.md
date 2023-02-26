@@ -44,9 +44,9 @@
 <a href="https://dramsch.net/newsletter"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/main/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
+- [🦉 Birds of night are a hoot. They give it owl they&#39;ve got!](https://buttondown.email/jesper/archive/birds-of-night-are-a-hoot-they-give-it-owl-theyve/)
 - [🦙 Let&#39;s go to the petting zoo! Alpaca picnic bag.](https://buttondown.email/jesper/archive/lets-go-to-the-petting-zoo-alpaca-picnic-bag/)
 - [🐮 Is a milk dud just an udder failure?](https://buttondown.email/jesper/archive/is-a-milk-dud-just-an-udder-failure/)
-- [🚗 Don&#39;t let seismologists drive. They&#39;re often at fault](https://buttondown.email/jesper/archive/dont-let-seismologists-drive-theyre-often-at-fault/)
 <!-- NEWSLETTER-LIST:END -->
 
 I wrote a [book](https://dramsch.net/books) about real-world ML and I give it away to my over [950+ newsletter subscribers](https://dramsch.net/newsletter). 👉
