@@ -53,11 +53,11 @@ I wrote a [book](https://dramsch.net/books) about real-world ML and I give it aw
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/ecmwf-projects/mooc-machine-learning-weather-climate/pull/7) in [ecmwf-projects/mooc-machine-learning-weather-climate](https://github.com/ecmwf-projects/mooc-machine-learning-weather-climate)
-2. 🎉 Merged PR [#3](https://github.com/JesperDramsch/ml-for-science-reproducibility-tutorial/pull/3) in [JesperDramsch/ml-for-science-reproducibility-tutorial](https://github.com/JesperDramsch/ml-for-science-reproducibility-tutorial)
-3. 💪 Opened PR [#3](https://github.com/JesperDramsch/ml-for-science-reproducibility-tutorial/pull/3) in [JesperDramsch/ml-for-science-reproducibility-tutorial](https://github.com/JesperDramsch/ml-for-science-reproducibility-tutorial)
-4. 💪 Opened PR [#11](https://github.com/getnikola/nikola-action/pull/11) in [getnikola/nikola-action](https://github.com/getnikola/nikola-action)
-5. 🗣 Commented on [#1](https://github.com/EthicalML/awesome-annual-reviews-and-trends/issues/1) in [EthicalML/awesome-annual-reviews-and-trends](https://github.com/EthicalML/awesome-annual-reviews-and-trends)
+1. 💪 Opened PR [#11](https://github.com/ecmwf-projects/mooc-machine-learning-weather-climate/pull/11) in [ecmwf-projects/mooc-machine-learning-weather-climate](https://github.com/ecmwf-projects/mooc-machine-learning-weather-climate)
+2. 💪 Opened PR [#7](https://github.com/ecmwf-projects/mooc-machine-learning-weather-climate/pull/7) in [ecmwf-projects/mooc-machine-learning-weather-climate](https://github.com/ecmwf-projects/mooc-machine-learning-weather-climate)
+3. 🎉 Merged PR [#3](https://github.com/JesperDramsch/ml-for-science-reproducibility-tutorial/pull/3) in [JesperDramsch/ml-for-science-reproducibility-tutorial](https://github.com/JesperDramsch/ml-for-science-reproducibility-tutorial)
+4. 💪 Opened PR [#3](https://github.com/JesperDramsch/ml-for-science-reproducibility-tutorial/pull/3) in [JesperDramsch/ml-for-science-reproducibility-tutorial](https://github.com/JesperDramsch/ml-for-science-reproducibility-tutorial)
+5. 💪 Opened PR [#11](https://github.com/getnikola/nikola-action/pull/11) in [getnikola/nikola-action](https://github.com/getnikola/nikola-action)
 <!--END_SECTION:activity-->
 
 ### Data Education
