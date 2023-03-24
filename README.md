@@ -28,9 +28,9 @@
 
 ### Youtube: [LiKe, coMMeNt, SubsCrIbE](https://dramsch.net/youtube)
 <!-- YOUTUBE-LIST:START -->
+- [How the Tiktok algorithm recommends new videos](https://www.youtube.com/watch?v=-Q-9hmOVzo8)
 - [this is how AI reads your EMOTIONS ❣](https://www.youtube.com/watch?v=sxnc-WAticU)
 - [Discover the secrets of your data with Clustering](https://www.youtube.com/watch?v=2phDkTCZLH8)
-- [What is deep learning?](https://www.youtube.com/watch?v=cP15n0pis6M)
 <!-- YOUTUBE-LIST:END -->
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
