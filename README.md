@@ -30,7 +30,7 @@
 <!-- YOUTUBE-LIST:START -->
 - [the Secret to create more training DATA for machine learning and AI 💾](https://www.youtube.com/watch?v=AHuiRifqP1E)
 - [How the Tiktok algorithm recommends new videos](https://www.youtube.com/watch?v=-Q-9hmOVzo8)
-- [this is how AI reads your EMOTIONS ❣](https://www.youtube.com/watch?v=sxnc-WAticU)
+- [how AI knows your angry Tweets 🤬](https://www.youtube.com/watch?v=sxnc-WAticU)
 <!-- YOUTUBE-LIST:END -->
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
