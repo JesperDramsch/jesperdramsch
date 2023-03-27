@@ -28,9 +28,9 @@
 
 ### Youtube: [LiKe, coMMeNt, SubsCrIbE](https://dramsch.net/youtube)
 <!-- YOUTUBE-LIST:START -->
+- [easiest way for ML on your Excel data 🔢](https://www.youtube.com/watch?v=SZu1r8TCWwk)
+- [get your EXPERT knowledge into Machine Learning QUICK 👀](https://www.youtube.com/watch?v=xK9fUv2L0kA)
 - [the Secret to create more training DATA for machine learning and AI 💾](https://www.youtube.com/watch?v=AHuiRifqP1E)
-- [How the Tiktok algorithm recommends new videos](https://www.youtube.com/watch?v=-Q-9hmOVzo8)
-- [how AI knows your angry Tweets 🤬](https://www.youtube.com/watch?v=sxnc-WAticU)
 <!-- YOUTUBE-LIST:END -->
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
