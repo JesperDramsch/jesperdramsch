@@ -28,9 +28,9 @@
 
 ### Youtube: [LiKe, coMMeNt, SubsCrIbE](https://dramsch.net/youtube)
 <!-- YOUTUBE-LIST:START -->
+- [classification vs regression in 56 seconds 🔥](https://www.youtube.com/watch?v=VLbdu1YWszc)
 - [easiest way for ML on your Excel data 🔢](https://www.youtube.com/watch?v=SZu1r8TCWwk)
 - [get your EXPERT knowledge into Machine Learning QUICK 👀](https://www.youtube.com/watch?v=xK9fUv2L0kA)
-- [the Secret to create more training DATA for machine learning and AI 💾](https://www.youtube.com/watch?v=AHuiRifqP1E)
 <!-- YOUTUBE-LIST:END -->
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
