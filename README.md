@@ -29,7 +29,7 @@
 ### Youtube: [LiKe, coMMeNt, SubsCrIbE](https://dramsch.net/youtube)
 <!-- YOUTUBE-LIST:START -->
 - [AI doesn&#39;t work, does it?](https://www.youtube.com/watch?v=Vc-uD63kHbA)
-- [classification vs regression in 56 seconds 🔥](https://www.youtube.com/watch?v=VLbdu1YWszc)
+- [FINALLY understand the Classification vs Regression in just 56 seconds 🔥](https://www.youtube.com/watch?v=VLbdu1YWszc)
 - [easiest way for ML on your Excel data 🔢](https://www.youtube.com/watch?v=SZu1r8TCWwk)
 <!-- YOUTUBE-LIST:END -->
 
