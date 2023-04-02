@@ -44,9 +44,9 @@
 <a href="https://dramsch.net/newsletter"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/main/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
+- [💦 Towels have a dry sense of humor](https://buttondown.email/jesper/archive/towels-have-a-dry-sense-of-humor/)
 - [🐱‍👤 I took things literally, until I got arrested for theft](https://buttondown.email/jesper/archive/i-took-things-literally-until-i-got-arrested-for/)
 - [🍧 Newspaper reporter looking for scoop at ice cream shop](https://buttondown.email/jesper/archive/newspaper-reporter-looking-for-scoop-at-ice-cream/)
-- [🐝 An indecisive bee should be a “Maybe”](https://buttondown.email/jesper/archive/an-indecisive-bee-should-be-a-maybe/)
 <!-- NEWSLETTER-LIST:END -->
 
 I wrote a [book](https://dramsch.net/books) about real-world ML and I give it away to my over [950+ newsletter subscribers](https://dramsch.net/newsletter). 👉
