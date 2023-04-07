@@ -53,7 +53,7 @@ I wrote a [book](https://dramsch.net/books) about real-world ML and I give it aw
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/ecmwf-projects/mooc-machine-learning-weather-climate/pull/11) in [ecmwf-projects/mooc-machine-learning-weather-climate](https://github.com/ecmwf-projects/mooc-machine-learning-weather-climate)
+1. 🗣 Commented on [#5](https://github.com/ECMWFCode4Earth/challenges_2023/issues/5) in [ECMWFCode4Earth/challenges_2023](https://github.com/ECMWFCode4Earth/challenges_2023)
 2. 💪 Opened PR [#7](https://github.com/ecmwf-projects/mooc-machine-learning-weather-climate/pull/7) in [ecmwf-projects/mooc-machine-learning-weather-climate](https://github.com/ecmwf-projects/mooc-machine-learning-weather-climate)
 3. 🎉 Merged PR [#3](https://github.com/JesperDramsch/ml-for-science-reproducibility-tutorial/pull/3) in [JesperDramsch/ml-for-science-reproducibility-tutorial](https://github.com/JesperDramsch/ml-for-science-reproducibility-tutorial)
 4. 💪 Opened PR [#3](https://github.com/JesperDramsch/ml-for-science-reproducibility-tutorial/pull/3) in [JesperDramsch/ml-for-science-reproducibility-tutorial](https://github.com/JesperDramsch/ml-for-science-reproducibility-tutorial)
