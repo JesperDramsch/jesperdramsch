@@ -44,9 +44,9 @@
 <a href="https://dramsch.net/newsletter"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/main/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
+- [🍝 The poor Italian chef was unfortunately Penne-less](https://buttondown.email/jesper/archive/the-poor-italian-chef-was-unfortuantely-penne-less/)
 - [🐰 I’m so egg-cited, and I just can’t hide it](https://buttondown.email/jesper/archive/im-so-egg-cited-and-i-just-cant-hide-it/)
 - [💦 Towels have a dry sense of humor](https://buttondown.email/jesper/archive/towels-have-a-dry-sense-of-humor/)
-- [🐱‍👤 I took things literally, until I got arrested for theft](https://buttondown.email/jesper/archive/i-took-things-literally-until-i-got-arrested-for/)
 <!-- NEWSLETTER-LIST:END -->
 
 I wrote a [book](https://dramsch.net/books) about real-world ML and I give it away to my over [950+ newsletter subscribers](https://dramsch.net/newsletter). 👉
