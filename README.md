@@ -28,9 +28,9 @@
 
 ### Youtube: [LiKe, coMMeNt, SubsCrIbE](https://dramsch.net/youtube)
 <!-- YOUTUBE-LIST:START -->
+- [who WINS the deep learning Face-Off: PyTorch or Keras?](https://www.youtube.com/watch?v=S7o9ipxcAJU)
 - [AI doesn&#39;t work, does it?](https://www.youtube.com/watch?v=Vc-uD63kHbA)
 - [FINALLY understand the Classification vs Regression in just 56 seconds 🔥](https://www.youtube.com/watch?v=VLbdu1YWszc)
-- [easiest way for ML on your Excel data 🔢](https://www.youtube.com/watch?v=SZu1r8TCWwk)
 <!-- YOUTUBE-LIST:END -->
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
