@@ -28,9 +28,9 @@
 
 ### Youtube: [LiKe, coMMeNt, SubsCrIbE](https://dramsch.net/youtube)
 <!-- YOUTUBE-LIST:START -->
+- [ChatGPT planned my Bahamas vacation 🏝](https://www.youtube.com/watch?v=imDyzgRH-GA)
 - [who WINS the deep learning Face-Off: PyTorch or Keras?](https://www.youtube.com/watch?v=S7o9ipxcAJU)
 - [AI doesn&#39;t work, does it?](https://www.youtube.com/watch?v=Vc-uD63kHbA)
-- [FINALLY understand the Classification vs Regression in just 56 seconds 🔥](https://www.youtube.com/watch?v=VLbdu1YWszc)
 <!-- YOUTUBE-LIST:END -->
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
