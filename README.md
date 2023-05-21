@@ -44,9 +44,9 @@
 <a href="https://dramsch.net/newsletter"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/main/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
+- [🥵 Tropic like it&#39;s hot!](https://buttondown.email/jesper/archive/tropic-like-its-hot/)
 - [🥤 Your dream of a soda pool is just a Fanta sea](https://buttondown.email/jesper/archive/your-dream-of-a-soda-pool-is-just-a-fanta-sea/)
 - [🐇 One of the cutest animals is the Punny Rabbit](https://buttondown.email/jesper/archive/the-cutest-animal-is-still-the-punny-rabbit/)
-- [🍝 The poor Italian chef was unfortunately Penne-less](https://buttondown.email/jesper/archive/the-poor-italian-chef-was-unfortuantely-penne-less/)
 <!-- NEWSLETTER-LIST:END -->
 
 I wrote a [book](https://dramsch.net/books) about real-world ML and I give it away to my over [950+ newsletter subscribers](https://dramsch.net/newsletter). 👉
