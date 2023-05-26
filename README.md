@@ -53,11 +53,11 @@ I wrote a [book](https://dramsch.net/books) about real-world ML and I give it aw
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#89](https://github.com/python-organizers/conferences/issues/89) in [python-organizers/conferences](https://github.com/python-organizers/conferences)
+1. 🎉 Merged PR [#5](https://github.com/JesperDramsch/python-deadlines/pull/5) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
 2. 🗣 Commented on [#89](https://github.com/python-organizers/conferences/issues/89) in [python-organizers/conferences](https://github.com/python-organizers/conferences)
-3. 🎉 Merged PR [#2](https://github.com/research-cards/research-card/pull/2) in [research-cards/research-card](https://github.com/research-cards/research-card)
-4. 🎉 Merged PR [#1](https://github.com/research-cards/research-card/pull/1) in [research-cards/research-card](https://github.com/research-cards/research-card)
-5. ❗️ Opened issue [#340](https://github.com/dginev/ar5iv/issues/340) in [dginev/ar5iv](https://github.com/dginev/ar5iv)
+3. 🗣 Commented on [#89](https://github.com/python-organizers/conferences/issues/89) in [python-organizers/conferences](https://github.com/python-organizers/conferences)
+4. 🎉 Merged PR [#2](https://github.com/research-cards/research-card/pull/2) in [research-cards/research-card](https://github.com/research-cards/research-card)
+5. 🎉 Merged PR [#1](https://github.com/research-cards/research-card/pull/1) in [research-cards/research-card](https://github.com/research-cards/research-card)
 <!--END_SECTION:activity-->
 
 ### Data Education
