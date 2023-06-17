@@ -35,9 +35,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [5 intermediate tipps to train better Pytorch models](https://dramsch.net/articles/5-intermediate-tipps-to-train-better-pytorch-models/)
 - [Today I learned about git flow](https://dramsch.net/today-i-learned/git/today-i-learned-about-git-flow/)
 - [How I got my Machine Learning Job at the ECMWF](https://dramsch.net/articles/how-i-got-my-machine-learning-job-at-the-ecmwf/)
-- [TIL you can route audio like Spotify in Windows natively](https://dramsch.net/today-i-learned/windows/til-you-can-route-audio-in-windows-natively/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://dramsch.net/newsletter)
