@@ -28,9 +28,9 @@
 
 ### Youtube: [LiKe, coMMeNt, SubsCrIbE](https://dramsch.net/youtube)
 <!-- YOUTUBE-LIST:START -->
+- [Uncovering the Surprising Demand for Data Science Careers What You Need to Know!](https://www.youtube.com/watch?v=3Xh5DitivVk)
 - [can AI plan my vacation? 🏝](https://www.youtube.com/watch?v=imDyzgRH-GA)
 - [who WINS the deep learning Face-Off: PyTorch or Keras?](https://www.youtube.com/watch?v=S7o9ipxcAJU)
-- [AI doesn&#39;t work, does it?](https://www.youtube.com/watch?v=Vc-uD63kHbA)
 <!-- YOUTUBE-LIST:END -->
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
