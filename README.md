@@ -44,7 +44,7 @@
 <a href="https://dramsch.net/newsletter"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/main/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
-- [Gossipping in June, is spilling the LGBTea](https://buttondown.email/jesper/archive/spilling-the-lgbtea/)
+- [🌈 Gossipping in June, is spilling the LGBTea](https://buttondown.email/jesper/archive/spilling-the-lgbtea/)
 - [🤗 How inclusive is generative AI on chatLGBT?](https://buttondown.email/jesper/archive/chatlgbt/)
 - [🦁 The Pride parade changed when the zoo joined](https://buttondown.email/jesper/archive/the-pride-parade-changed-when-the-zoo-joined/)
 <!-- NEWSLETTER-LIST:END -->
