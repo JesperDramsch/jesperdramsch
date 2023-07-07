@@ -28,9 +28,9 @@
 
 ### Youtube: [LiKe, coMMeNt, SubsCrIbE](https://dramsch.net/youtube)
 <!-- YOUTUBE-LIST:START -->
+- [Uncover the Hidden Secrets of Missing Data in Machine Learning](https://www.youtube.com/watch?v=F_iN_dEeWkc)
 - [Do you ACTUALLY need a GPU for machine learning?](https://www.youtube.com/watch?v=c0ySgqymARY)
 - [Uncovering the Surprising Demand for Data Science Careers What You Need to Know!](https://www.youtube.com/watch?v=3Xh5DitivVk)
-- [can AI plan my vacation? 🏝](https://www.youtube.com/watch?v=imDyzgRH-GA)
 <!-- YOUTUBE-LIST:END -->
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
