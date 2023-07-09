@@ -44,9 +44,9 @@
 <a href="https://dramsch.net/newsletter"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/main/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
+- [🧵 Don’t let the Thread-bugs bite](https://buttondown.email/jesper/archive/dont-let-the-thread-bugs-bite/)
 - [🦙 Pride is a great time to be an Ally-paca](https://buttondown.email/jesper/archive/pride-is-a-great-time-to-be-an-ally-paca/)
 - [🌈 Gossipping in June, is spilling the LGBTea](https://buttondown.email/jesper/archive/spilling-the-lgbtea/)
-- [🤗 How inclusive is generative AI on chatLGBT?](https://buttondown.email/jesper/archive/chatlgbt/)
 <!-- NEWSLETTER-LIST:END -->
 
 I wrote a [book](https://dramsch.net/books) about real-world ML and I give it away to my over [950+ newsletter subscribers](https://dramsch.net/newsletter). 👉
