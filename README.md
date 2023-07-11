@@ -53,11 +53,11 @@ I wrote a [book](https://dramsch.net/books) about real-world ML and I give it aw
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#188](https://github.com/python-organizers/conferences/issues/188) in [python-organizers/conferences](https://github.com/python-organizers/conferences)
-2. 🗣 Commented on [#188](https://github.com/python-organizers/conferences/issues/188) in [python-organizers/conferences](https://github.com/python-organizers/conferences)
-3. 🗣 Commented on [#880](https://github.com/executablebooks/jupyter-book/issues/880) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-4. 💪 Opened PR [#187](https://github.com/python-organizers/conferences/pull/187) in [python-organizers/conferences](https://github.com/python-organizers/conferences)
-5. ❗ Opened issue [#3695](https://github.com/getnikola/nikola/issues/3695) in [getnikola/nikola](https://github.com/getnikola/nikola)
+1. 💪 Opened PR [#8](https://github.com/aletheap/ai_on_threads/pull/8) in [aletheap/ai_on_threads](https://github.com/aletheap/ai_on_threads)
+2. 💪 Opened PR [#5](https://github.com/aletheap/ai_on_threads/pull/5) in [aletheap/ai_on_threads](https://github.com/aletheap/ai_on_threads)
+3. 🗣 Commented on [#188](https://github.com/python-organizers/conferences/issues/188) in [python-organizers/conferences](https://github.com/python-organizers/conferences)
+4. 🗣 Commented on [#188](https://github.com/python-organizers/conferences/issues/188) in [python-organizers/conferences](https://github.com/python-organizers/conferences)
+5. 🗣 Commented on [#880](https://github.com/executablebooks/jupyter-book/issues/880) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
 <!--END_SECTION:activity-->
 
 ### Data Education
