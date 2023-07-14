@@ -35,9 +35,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing the RTF Format for Effective ChatGPT Prompts](https://dramsch.net/articles/optimizing-the-rtf-format-for-effective-chatgpt-prompts/)
 - [5 intermediate tipps to train better Pytorch models](https://dramsch.net/articles/5-intermediate-tipps-to-train-better-pytorch-models/)
 - [Today I learned about git flow](https://dramsch.net/today-i-learned/git/today-i-learned-about-git-flow/)
-- [How I got my Machine Learning Job at the ECMWF](https://dramsch.net/articles/how-i-got-my-machine-learning-job-at-the-ecmwf/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://dramsch.net/newsletter)
