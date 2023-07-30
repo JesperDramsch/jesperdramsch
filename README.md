@@ -44,9 +44,9 @@
 <a href="https://dramsch.net/newsletter"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/main/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
+- [🛸 Does Kirk order coffee asking: Bean me up, Scotty?](https://buttondown.email/jesper/archive/does-kirk-order-coffee-asking-bean-me-up-scotty/)
 - [🎉 You make my life so fun-fetti](https://buttondown.email/jesper/archive/you-make-my-life-so-fun-fetti/)
 - [🥔 Potatoes sprout a smile on my face](https://buttondown.email/jesper/archive/potatoes-sprout-a-smile-on-my-face/)
-- [🧵 Don’t let the Thread-bugs bite](https://buttondown.email/jesper/archive/dont-let-the-thread-bugs-bite/)
 <!-- NEWSLETTER-LIST:END -->
 
 I wrote a [book](https://dramsch.net/books) about real-world ML and I give it away to my over [950+ newsletter subscribers](https://dramsch.net/newsletter). 👉
