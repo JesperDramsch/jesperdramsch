@@ -53,11 +53,11 @@ I wrote a [book](https://dramsch.net/books) about real-world ML and I give it aw
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/aletheap/ai_on_threads/pull/8) in [aletheap/ai_on_threads](https://github.com/aletheap/ai_on_threads)
-2. 💪 Opened PR [#5](https://github.com/aletheap/ai_on_threads/pull/5) in [aletheap/ai_on_threads](https://github.com/aletheap/ai_on_threads)
-3. 🗣 Commented on [#188](https://github.com/python-organizers/conferences/pull/188#issuecomment-1606179349) in [python-organizers/conferences](https://github.com/python-organizers/conferences)
-4. 🗣 Commented on [#188](https://github.com/python-organizers/conferences/pull/188#issuecomment-1606171585) in [python-organizers/conferences](https://github.com/python-organizers/conferences)
-5. 🗣 Commented on [#880](https://github.com/executablebooks/jupyter-book/issues/880#issuecomment-1600560392) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+1. 💪 Opened PR [#191](https://github.com/python-organizers/conferences/pull/191) in [python-organizers/conferences](https://github.com/python-organizers/conferences)
+2. 💪 Opened PR [#8](https://github.com/aletheap/ai_on_threads/pull/8) in [aletheap/ai_on_threads](https://github.com/aletheap/ai_on_threads)
+3. 💪 Opened PR [#5](https://github.com/aletheap/ai_on_threads/pull/5) in [aletheap/ai_on_threads](https://github.com/aletheap/ai_on_threads)
+4. 🗣 Commented on [#188](https://github.com/python-organizers/conferences/pull/188#issuecomment-1606179349) in [python-organizers/conferences](https://github.com/python-organizers/conferences)
+5. 🗣 Commented on [#188](https://github.com/python-organizers/conferences/pull/188#issuecomment-1606171585) in [python-organizers/conferences](https://github.com/python-organizers/conferences)
 <!--END_SECTION:activity-->
 
 ### Data Education
