@@ -49,7 +49,7 @@
 - [🎉 You make my life so fun-fetti](https://buttondown.email/jesper/archive/you-make-my-life-so-fun-fetti/)
 <!-- NEWSLETTER-LIST:END -->
 
-I wrote a [book](https://dramsch.net/books) about real-world ML and I give it away to my over [950+ newsletter subscribers](https://dramsch.net/newsletter). 👉
+I wrote a [book](https://dramsch.net/books) about real-world ML and I give it away to my over [1111+ newsletter subscribers](https://dramsch.net/newsletter). 👉
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
