@@ -8,9 +8,9 @@
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=30&duration=3000&color=00999F&vCenter=true&width=600&height=75&lines=I+am+the+Jack+of+All+Trades;I+am+a+Machine+Learning+Researcher;I+am+an+Engaging+Keynote+Speaker;I+am+a+Digital+Signal+Whisperer;I+am+an+Open+Sourcerer;I+am+an+Educator;I+am+a+Pythonista;I+am+an+Allrounder)](https://git.io/typing-svg)
-- 🐍 I'm mostly a [Parselmouth](https://xkcd.com/353/).
+- 🐍 I'm mostly a speak [snek](https://xkcd.com/353/).
 
-- 🌱 I’m currently learning **geometric deep learning**.
+- 🌱 I’m currently learning **graph neural networks**.
 
 - 💻 All of my projects are available at [dramsch.net/projects](https://dramsch.net/projects).
 
@@ -66,8 +66,9 @@ I wrote a [book](https://dramsch.net/books) about real-world ML and I give it aw
 
 - I made a course about [data science and business analytics in Python](https://dramsch.net/course1) on [Skillshare](https://dramsch.net/r/skillshare). 
 - If you're just interested in the [higher level understanding of data science](https://dramsch.net/course2), that's also okay and I made a course about it. 
-- More into applied stuff? I made a course trying out [different ML models on financial data like stocks and crypto](https://dramsch.net/course3). 
 - And since we do eventually all want to get a job, I made a small course about [crafting a top-tier CV or Resumé for data science jobs](https://dramsch.net/course4).
+- I wanted to teach artists about [generative AI and its ethical implications](https://dramsch.net/course5).
+- Then chatGPT happened and I wanted to give [content creators a deeper understanding of chatGPT and how to use it](https://dramsch.net/course6).
 
 ## Collaboration
 
