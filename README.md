@@ -28,9 +28,9 @@
 
 ### Youtube: [LiKe, coMMeNt, SubsCrIbE](https://dramsch.net/youtube)
 <!-- YOUTUBE-LIST:START -->
+- [will I ever learn?](https://www.youtube.com/watch?v=k-RcIJlzXHw)
 - [the KEY in choosing the right DATA Science Bootcamp 🗝](https://www.youtube.com/watch?v=SlewH4KYz9g)
 - [this Trick to Remote development you NEED to know](https://www.youtube.com/watch?v=5miokASjl2w)
-- [Uncover the Hidden Secrets of Missing Data in Machine Learning](https://www.youtube.com/watch?v=F_iN_dEeWkc)
 <!-- YOUTUBE-LIST:END -->
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
