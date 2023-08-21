@@ -44,9 +44,9 @@
 <a href="https://dramsch.net/newsletter"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/main/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
+- [🔼 I’m not getting older, I’m just leveling up.](https://buttondown.email/jesper/archive/im-not-getting-older-im-just-leveling-up/)
 - [🚗 Why are Volkswagen EVs not called Volts-wagen?](https://buttondown.email/jesper/archive/why-are-volkswagen-evs-not-called-volts-wagen/)
 - [🤘 I don&#39;t always listen to metal, but when I do my neighbours do too!](https://buttondown.email/jesper/archive/i-dont-always-listen-to-metal-but-when-i-do-my/)
-- [🛸 Does Kirk order coffee asking: Bean me up, Scotty?](https://buttondown.email/jesper/archive/does-kirk-order-coffee-asking-bean-me-up-scotty/)
 <!-- NEWSLETTER-LIST:END -->
 
 I wrote a [book](https://dramsch.net/books) about real-world ML and I give it away to my over [1111+ newsletter subscribers](https://dramsch.net/newsletter). 👉
