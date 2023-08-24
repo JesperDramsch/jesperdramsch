@@ -53,11 +53,11 @@ I wrote a [book](https://dramsch.net/books) about real-world ML and I give it aw
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3695](https://github.com/getnikola/nikola/issues/3695) in [getnikola/nikola](https://github.com/getnikola/nikola)
-2. 🗣 Commented on [#14](https://github.com/JesperDramsch/python-deadlines/issues/14#issuecomment-1672054929) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-3. 🗣 Commented on [#14](https://github.com/JesperDramsch/python-deadlines/issues/14#issuecomment-1672037100) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-4. 🔒 Closed issue [#14](https://github.com/JesperDramsch/python-deadlines/issues/14) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-5. 💪 Opened PR [#193](https://github.com/python-organizers/conferences/pull/193) in [python-organizers/conferences](https://github.com/python-organizers/conferences)
+1. 🗣 Commented on [#195](https://github.com/python-organizers/conferences/pull/195#issuecomment-1690460087) in [python-organizers/conferences](https://github.com/python-organizers/conferences)
+2. 💪 Opened PR [#195](https://github.com/python-organizers/conferences/pull/195) in [python-organizers/conferences](https://github.com/python-organizers/conferences)
+3. 🔒 Closed issue [#3695](https://github.com/getnikola/nikola/issues/3695) in [getnikola/nikola](https://github.com/getnikola/nikola)
+4. 🗣 Commented on [#14](https://github.com/JesperDramsch/python-deadlines/issues/14#issuecomment-1672054929) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+5. 🗣 Commented on [#14](https://github.com/JesperDramsch/python-deadlines/issues/14#issuecomment-1672037100) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
 <!--END_SECTION:activity-->
 
 ### Data Education
