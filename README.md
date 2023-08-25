@@ -35,9 +35,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring better chatGPT texts through the prompt engineering community](https://dramsch.net/articles/exploring-better-chatgpt-texts-through-the-prompt-engineering-community/)
 - [From Confusion to Clarity: My Silly 7-Year Journey with Auto-Regressive Models](https://dramsch.net/articles/finally-understanding-auto-regressive-models/)
 - [Optimizing the RTF Format for Effective ChatGPT Prompts](https://dramsch.net/articles/optimizing-the-rtf-format-for-effective-chatgpt-prompts/)
-- [5 intermediate tipps to train better Pytorch models](https://dramsch.net/articles/5-intermediate-tipps-to-train-better-pytorch-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://dramsch.net/newsletter)
