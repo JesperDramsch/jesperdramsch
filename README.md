@@ -44,9 +44,9 @@
 <a href="https://dramsch.net/newsletter"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/main/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
+- [🌳 Trees hate when the calendar turns a leaf to Sep-timber](https://buttondown.email/jesper/archive/trees-hate-when-the-calendar-turns-a-leaf-to-sep/)
 - [🔝 It&#39;s weird Python was invented in the Netherlands, since it&#39;s above C-level](https://buttondown.email/jesper/archive/its-weird-python-was-invented-in-the-netherlands/)
 - [🔼 I’m not getting older, I’m just leveling up.](https://buttondown.email/jesper/archive/im-not-getting-older-im-just-leveling-up/)
-- [🚗 Why are Volkswagen EVs not called Volts-wagen?](https://buttondown.email/jesper/archive/why-are-volkswagen-evs-not-called-volts-wagen/)
 <!-- NEWSLETTER-LIST:END -->
 
 I wrote a [book](https://dramsch.net/books) about real-world ML and I give it away to my over [1111+ newsletter subscribers](https://dramsch.net/newsletter). 👉
