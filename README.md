@@ -35,9 +35,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Making machine learning in science reproducible easily to avoid catastrophe](https://dramsch.net/articles/making-machine-learning-in-science-reproducible-easily-to-avoid-catastrophe/)
 - [Did you know machine learning changed optimisation in computational physics?](https://dramsch.net/articles/did-you-know-machine-learning-changed-optimisation-in-computational-physics/)
 - [How Hydra configs have sped up my machine learning development workflow](https://dramsch.net/articles/config-driven-machine-learning-development-with-hydra/)
-- [Today I learnt about @cached_property in python](https://dramsch.net/today-i-learned/data-structures-and-algorithms/today-i-learnt-about-cached_property-in-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://dramsch.net/newsletter)
