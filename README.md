@@ -44,9 +44,9 @@
 <a href="https://dramsch.net/newsletter"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/main/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
+- [⚡ Always pay for batteries or they&#39;re free of charge](https://buttondown.email/jesper/archive/always-pay-for-batteries-or-theyre-free-of-charge/)
 - [🐌 When you write a slow Rust program, it&#39;s EsCargo](https://buttondown.email/jesper/archive/when-you-write-a-slow-rust-program-its-escargo/)
 - [🌦 Coming up with weather puns is a breeze](https://buttondown.email/jesper/archive/coming-up-with-weather-puns-is-a-breeze-7981/)
-- [🌳 Trees hate when the calendar turns a leaf to Sep-timber](https://buttondown.email/jesper/archive/trees-hate-when-the-calendar-turns-a-leaf-to-sep/)
 <!-- NEWSLETTER-LIST:END -->
 
 I wrote a [book](https://dramsch.net/books) about real-world ML and I give it away to my over [1111+ newsletter subscribers](https://dramsch.net/newsletter). 👉
