@@ -35,9 +35,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Challenges I learned about in two years of machine learning in weather forecasting](https://dramsch.net/articles/challenges-in-two-years-machine-learning-weather-forecasting/)
 - [The struggle of training deep learning models and being deeply impatient](https://dramsch.net/articles/the-struggle-of-training-deep-learning-models-and-being-deeply-impatient/)
 - [Making machine learning in science reproducible easily to avoid catastrophe](https://dramsch.net/articles/making-machine-learning-in-science-reproducible-easily-to-avoid-catastrophe/)
-- [Did you know machine learning changed optimisation in computational physics?](https://dramsch.net/articles/did-you-know-machine-learning-changed-optimisation-in-computational-physics/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://dramsch.net/newsletter)
