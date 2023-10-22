@@ -44,9 +44,9 @@
 <a href="https://dramsch.net/newsletter"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/main/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
+- [🎃 Carved pumpkins often catch me off gourd](https://buttondown.email/jesper/archive/carved-pumpkins-often-catch-me-off-gourd/)
 - [⭐ In navigation GMaps gets an A and a star](https://buttondown.email/jesper/archive/in-navigation-gmaps-gets-an-a-and-a-star/)
 - [⚡ Always pay for batteries or they&#39;re free of charge](https://buttondown.email/jesper/archive/always-pay-for-batteries-or-theyre-free-of-charge/)
-- [🐌 When you write a slow Rust program, it&#39;s EsCargo](https://buttondown.email/jesper/archive/when-you-write-a-slow-rust-program-its-escargo/)
 <!-- NEWSLETTER-LIST:END -->
 
 I wrote a [book](https://dramsch.net/books) about real-world ML and I give it away to my over [1111+ newsletter subscribers](https://dramsch.net/newsletter). 👉
