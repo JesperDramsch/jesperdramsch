@@ -44,9 +44,9 @@
 <a href="https://dramsch.net/newsletter"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/main/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
+- [🚆 When your journey is cancelled, do your plans go down the train?](https://buttondown.email/jesper/archive/when-your-journey-is-cancelled-do-your-plans-go/)
 - [🦖 My costume this year was pure dino-mite](https://buttondown.email/jesper/archive/my-costume-this-year-was-pure-dino-mite/)
 - [👻 I do my hair with scare spray on Halloween](https://buttondown.email/jesper/archive/i-do-my-hair-with-scare-spray-on-halloween/)
-- [🎃 Carved pumpkins often catch me off gourd](https://buttondown.email/jesper/archive/carved-pumpkins-often-catch-me-off-gourd/)
 <!-- NEWSLETTER-LIST:END -->
 
 I wrote a [book](https://dramsch.net/books) about real-world ML and I give it away to my over [1111+ newsletter subscribers](https://dramsch.net/newsletter). 👉
