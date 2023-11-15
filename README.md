@@ -53,11 +53,11 @@ I wrote a [book](https://dramsch.net/books) about real-world ML and I give it aw
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.0.3 Conform with PyPI](https://github.com/ecmwf-lab/ai-models-graphcast/releases/tag/0.0.3) in [ecmwf-lab/ai-models-graphcast](https://github.com/ecmwf-lab/ai-models-graphcast)
-2. 🚀 Published release [Make PyPI happy](https://github.com/ecmwf-lab/ai-models-graphcast/releases/tag/0.0.3) in [ecmwf-lab/ai-models-graphcast](https://github.com/ecmwf-lab/ai-models-graphcast)
-3. 🚀 Published release [0.0.2 Graphcast plugin for ai-models on Pypi](https://github.com/ecmwf-lab/ai-models-graphcast/releases/tag/0.0.2) in [ecmwf-lab/ai-models-graphcast](https://github.com/ecmwf-lab/ai-models-graphcast)
-4. 🗣 Commented on [#195](https://github.com/python-organizers/conferences/pull/195#issuecomment-1690460087) in [python-organizers/conferences](https://github.com/python-organizers/conferences)
-5. 💪 Opened PR [#195](https://github.com/python-organizers/conferences/pull/195) in [python-organizers/conferences](https://github.com/python-organizers/conferences)
+1. 🎉 Merged PR [#17](https://github.com/JesperDramsch/python-deadlines/pull/17) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+2. 🗣 Commented on [#17](https://github.com/JesperDramsch/python-deadlines/pull/17#issuecomment-1809777510) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+3. 🚀 Published release [0.0.3 Conform with PyPI](https://github.com/ecmwf-lab/ai-models-graphcast/releases/tag/0.0.3) in [ecmwf-lab/ai-models-graphcast](https://github.com/ecmwf-lab/ai-models-graphcast)
+4. 🚀 Published release [Make PyPI happy](https://github.com/ecmwf-lab/ai-models-graphcast/releases/tag/0.0.3) in [ecmwf-lab/ai-models-graphcast](https://github.com/ecmwf-lab/ai-models-graphcast)
+5. 🚀 Published release [0.0.2 Graphcast plugin for ai-models on Pypi](https://github.com/ecmwf-lab/ai-models-graphcast/releases/tag/0.0.2) in [ecmwf-lab/ai-models-graphcast](https://github.com/ecmwf-lab/ai-models-graphcast)
 <!--END_SECTION:activity-->
 
 ### Data Education
