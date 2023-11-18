@@ -53,11 +53,11 @@ I wrote a [book](https://dramsch.net/books) about real-world ML and I give it aw
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/JesperDramsch/python-deadlines/pull/17) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-2. 🗣 Commented on [#17](https://github.com/JesperDramsch/python-deadlines/pull/17#issuecomment-1809777510) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-3. 🚀 Published release [0.0.3 Conform with PyPI](https://github.com/ecmwf-lab/ai-models-graphcast/releases/tag/0.0.3) in [ecmwf-lab/ai-models-graphcast](https://github.com/ecmwf-lab/ai-models-graphcast)
-4. 🚀 Published release [Make PyPI happy](https://github.com/ecmwf-lab/ai-models-graphcast/releases/tag/0.0.3) in [ecmwf-lab/ai-models-graphcast](https://github.com/ecmwf-lab/ai-models-graphcast)
-5. 🚀 Published release [0.0.2 Graphcast plugin for ai-models on Pypi](https://github.com/ecmwf-lab/ai-models-graphcast/releases/tag/0.0.2) in [ecmwf-lab/ai-models-graphcast](https://github.com/ecmwf-lab/ai-models-graphcast)
+1. 🚀 Published release [Fix CDS input](https://github.com/ecmwf-lab/ai-models-graphcast/releases/tag/0.0.4) in [ecmwf-lab/ai-models-graphcast](https://github.com/ecmwf-lab/ai-models-graphcast)
+2. 🎉 Merged PR [#17](https://github.com/JesperDramsch/python-deadlines/pull/17) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+3. 🗣 Commented on [#17](https://github.com/JesperDramsch/python-deadlines/pull/17#issuecomment-1809777510) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+4. 🚀 Published release [0.0.3 Conform with PyPI](https://github.com/ecmwf-lab/ai-models-graphcast/releases/tag/0.0.3) in [ecmwf-lab/ai-models-graphcast](https://github.com/ecmwf-lab/ai-models-graphcast)
+5. 🚀 Published release [Make PyPI happy](https://github.com/ecmwf-lab/ai-models-graphcast/releases/tag/0.0.3) in [ecmwf-lab/ai-models-graphcast](https://github.com/ecmwf-lab/ai-models-graphcast)
 <!--END_SECTION:activity-->
 
 ### Data Education
