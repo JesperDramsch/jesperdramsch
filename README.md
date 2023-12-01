@@ -35,9 +35,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Playing with Custom GPTs](https://dramsch.net/articles/playing-with-custom-gpts/)
 - [How we successfully worked on class imbalance for machine learning in satellite imaging](https://dramsch.net/articles/we-successfully-worked-class-imbalance-machine-learning-in-satellite-imaging/)
 - [Cracking the Code of Missing Data: A Data Scientist&#39;s Odyssey](https://dramsch.net/articles/cracking-the-code-missing-data-in-ml/)
-- [Challenges I learned about in two years of machine learning in weather forecasting](https://dramsch.net/articles/challenges-in-two-years-machine-learning-weather-forecasting/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://dramsch.net/newsletter)
