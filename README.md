@@ -53,11 +53,11 @@ I wrote a [book](https://dramsch.net/books) about real-world ML and I give it aw
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#195](https://github.com/python-organizers/conferences/pull/195#issuecomment-1832970517) in [python-organizers/conferences](https://github.com/python-organizers/conferences)
-2. 🚀 Published release [Fix CDS input](https://github.com/ecmwf-lab/ai-models-graphcast/releases/tag/0.0.4) in [ecmwf-lab/ai-models-graphcast](https://github.com/ecmwf-lab/ai-models-graphcast)
-3. 🎉 Merged PR [#17](https://github.com/JesperDramsch/python-deadlines/pull/17) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-4. 🗣 Commented on [#17](https://github.com/JesperDramsch/python-deadlines/pull/17#issuecomment-1809777510) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-5. 🚀 Published release [0.0.3 Conform with PyPI](https://github.com/ecmwf-lab/ai-models-graphcast/releases/tag/0.0.3) in [ecmwf-lab/ai-models-graphcast](https://github.com/ecmwf-lab/ai-models-graphcast)
+1. 🚀 Published release [2023 Updates and Citation](https://github.com/JesperDramsch/ml-for-science-reproducibility-tutorial/releases/tag/Citation-2023) in [JesperDramsch/ml-for-science-reproducibility-tutorial](https://github.com/JesperDramsch/ml-for-science-reproducibility-tutorial)
+2. 🗣 Commented on [#195](https://github.com/python-organizers/conferences/pull/195#issuecomment-1832970517) in [python-organizers/conferences](https://github.com/python-organizers/conferences)
+3. 🚀 Published release [Fix CDS input](https://github.com/ecmwf-lab/ai-models-graphcast/releases/tag/0.0.4) in [ecmwf-lab/ai-models-graphcast](https://github.com/ecmwf-lab/ai-models-graphcast)
+4. 🎉 Merged PR [#17](https://github.com/JesperDramsch/python-deadlines/pull/17) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+5. 🗣 Commented on [#17](https://github.com/JesperDramsch/python-deadlines/pull/17#issuecomment-1809777510) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
 <!--END_SECTION:activity-->
 
 ### Data Education
