@@ -35,9 +35,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [My 2023 in Review: The year of AI](https://dramsch.net/articles/my-2023-in-review-the-year-of-ai/)
 - [Preparing customGPTs for the GPT store](https://dramsch.net/articles/preparing-customgpt-for-gpt-store/)
 - [Playing with Custom GPTs](https://dramsch.net/articles/playing-with-custom-gpts/)
-- [How we successfully worked on class imbalance for machine learning in satellite imaging](https://dramsch.net/articles/we-successfully-worked-class-imbalance-machine-learning-in-satellite-imaging/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://dramsch.net/newsletter)
