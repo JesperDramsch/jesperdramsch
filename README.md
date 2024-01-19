@@ -35,9 +35,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [How to get Involved in Offensive LLM Security](https://dramsch.net/articles/get-involved-in-offensive-llm-security/)
 - [How does generative AI change in 2024?](https://dramsch.net/articles/how-does-generative-ai-change-in-2024/)
 - [My 2023 in Review: The year of AI](https://dramsch.net/articles/my-2023-in-review-the-year-of-ai/)
-- [Preparing customGPTs for the GPT store](https://dramsch.net/articles/preparing-customgpt-for-gpt-store/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://dramsch.net/newsletter)
