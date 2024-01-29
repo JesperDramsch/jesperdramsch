@@ -44,9 +44,9 @@
 <a href="https://dramsch.net/newsletter"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/main/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
+- [❄️ Does snow flake it until it makes it?](https://archive.late.email/archive/does-snow-flake-it-until-it-makes-it/)
 - [🪱 Saw two silk worms racing, but it ended in a tie](https://archive.late.email/archive/saw-two-silk-worms-racing-but-it-ended-in-a-tie/)
 - [⛄ The workout regime transformed him into the abdominal snowman](https://archive.late.email/archive/workout-regime-transformed-him-into-the-abdominal-snowman/)
-- [🗓 I&#39;m not buying a 2024 calendar until I see the trailer](https://archive.late.email/archive/im-not-buying-a-2024-calendar-until-i-see-the/)
 <!-- NEWSLETTER-LIST:END -->
 
 I wrote a [book](https://dramsch.net/books) about real-world ML and I give it away to my over [1111+ newsletter subscribers](https://dramsch.net/newsletter). 👉
