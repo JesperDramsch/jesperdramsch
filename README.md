@@ -14,7 +14,7 @@
 
 - 💻 All of my projects are available at [dramsch.net/projects](https://dramsch.net/projects).
 
-- 📝 I regulary write articles for my [website](https://dramsch.net/blog) and my [newsletter](https://buttondown.email/jesper).
+- 📝 I regulary write articles for my [website](https://dramsch.net/blog) and my [newsletter](https://late.email).
 
 - 🏳‍🌈 My pronouns are (they / them)
 
@@ -40,8 +40,8 @@
 - [My 2023 in Review: The year of AI](https://dramsch.net/articles/my-2023-in-review-the-year-of-ai/)
 <!-- BLOG-POST-LIST:END -->
 
-### Newsletter: [Late To The Party](https://dramsch.net/newsletter)
-<a href="https://dramsch.net/newsletter"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/main/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
+### Newsletter: [Late To The Party](https://late.email)
+<a href="https://late.email"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/main/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
 - [❄️ Does snow flake it until it makes it?](https://archive.late.email/archive/does-snow-flake-it-until-it-makes-it/)
@@ -49,7 +49,7 @@
 - [⛄ The workout regime transformed him into the abdominal snowman](https://archive.late.email/archive/workout-regime-transformed-him-into-the-abdominal-snowman/)
 <!-- NEWSLETTER-LIST:END -->
 
-I wrote a [book](https://dramsch.net/books) about real-world ML and I give it away to my over [1111+ newsletter subscribers](https://dramsch.net/newsletter). 👉
+I wrote a [book](https://dramsch.net/books) about real-world ML and I give it away to my over [1111+ newsletter subscribers](https://late.email). 👉
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
