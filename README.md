@@ -44,9 +44,9 @@
 <a href="https://late.email"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/main/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
+- [🐸 Are frogs happier because they eat what bugs them?](https://archive.late.email/archive/are-frogs-happier-because-they-eat-what-bugs-them/)
 - [💞 Did you call isinstance&lpar;&rpar;, because you&#39;re just my type](https://archive.late.email/archive/did-you-call-isinstance-because-youre-just-my-type/)
 - [🦘 A lazy kangaroo is just a pouch potato](https://archive.late.email/archive/a-lazy-kangaroo-is-just-a-pouch-potato/)
-- [❄️ Does snow flake it until it makes it?](https://archive.late.email/archive/does-snow-flake-it-until-it-makes-it/)
 <!-- NEWSLETTER-LIST:END -->
 
 I wrote a [book](https://dramsch.net/books) about real-world ML and I give it away to my over [1111+ newsletter subscribers](https://late.email). 👉
