@@ -53,11 +53,11 @@ I wrote a [book](https://dramsch.net/books) about real-world ML and I give it aw
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#199](https://github.com/python-organizers/conferences/pull/199) in [python-organizers/conferences](https://github.com/python-organizers/conferences)
-2. 🗣 Commented on [#2](https://github.com/ecmwf-lab/ecml-tools/issues/2#issuecomment-1911793750) in [ecmwf-lab/ecml-tools](https://github.com/ecmwf-lab/ecml-tools)
-3. 🚀 Published release [2023 Updates and Citation](https://github.com/JesperDramsch/ml-for-science-reproducibility-tutorial/releases/tag/Citation-2023) in [JesperDramsch/ml-for-science-reproducibility-tutorial](https://github.com/JesperDramsch/ml-for-science-reproducibility-tutorial)
-4. 🗣 Commented on [#195](https://github.com/python-organizers/conferences/pull/195#issuecomment-1832970517) in [python-organizers/conferences](https://github.com/python-organizers/conferences)
-5. 🎉 Merged PR [#17](https://github.com/JesperDramsch/python-deadlines/pull/17) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+1. 🎉 Merged PR [#20](https://github.com/JesperDramsch/python-deadlines/pull/20) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+2. 🗣 Commented on [#20](https://github.com/JesperDramsch/python-deadlines/pull/20#issuecomment-1974130495) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+3. 🎉 Merged PR [#19](https://github.com/JesperDramsch/python-deadlines/pull/19) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+4. 🗣 Commented on [#19](https://github.com/JesperDramsch/python-deadlines/pull/19#issuecomment-1974127061) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+5. 💪 Opened PR [#199](https://github.com/python-organizers/conferences/pull/199) in [python-organizers/conferences](https://github.com/python-organizers/conferences)
 <!--END_SECTION:activity-->
 
 ### Data Education
