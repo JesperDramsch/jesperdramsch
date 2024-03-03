@@ -53,11 +53,11 @@ I wrote a [book](https://dramsch.net/books) about real-world ML and I give it aw
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/JesperDramsch/python-deadlines/pull/20) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-2. 🗣 Commented on [#20](https://github.com/JesperDramsch/python-deadlines/pull/20#issuecomment-1974130495) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-3. 🎉 Merged PR [#19](https://github.com/JesperDramsch/python-deadlines/pull/19) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-4. 🗣 Commented on [#19](https://github.com/JesperDramsch/python-deadlines/pull/19#issuecomment-1974127061) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-5. 💪 Opened PR [#199](https://github.com/python-organizers/conferences/pull/199) in [python-organizers/conferences](https://github.com/python-organizers/conferences)
+1. 🎉 Merged PR [#18](https://github.com/JesperDramsch/python-deadlines/pull/18) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+2. 🗣 Commented on [#18](https://github.com/JesperDramsch/python-deadlines/pull/18#issuecomment-1974166699) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+3. 🎉 Merged PR [#20](https://github.com/JesperDramsch/python-deadlines/pull/20) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+4. 🗣 Commented on [#20](https://github.com/JesperDramsch/python-deadlines/pull/20#issuecomment-1974130495) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+5. 🎉 Merged PR [#19](https://github.com/JesperDramsch/python-deadlines/pull/19) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
 <!--END_SECTION:activity-->
 
 ### Data Education
