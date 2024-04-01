@@ -44,9 +44,9 @@
 <a href="https://late.email"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/main/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
+- [🥤 Dr. Pepper was a Fizz-ician](https://archive.late.email/archive/dr-pepper-was-a-fizz-ician/)
 - [🥯 Bread so lazy, it&#39;s always loafin&#39; around](https://archive.late.email/archive/bread-so-lazy-its-always-loafin-around/)
 - [🌬 A dissipated storm is a mist opportunity](https://archive.late.email/archive/a-dissipated-storm-is-a-mist-opportunity/)
-- [🐸 Are frogs happier because they eat what bugs them?](https://archive.late.email/archive/are-frogs-happier-because-they-eat-what-bugs-them/)
 <!-- NEWSLETTER-LIST:END -->
 
 I wrote a [book](https://dramsch.net/books) about real-world ML and I give it away to my over [1111+ newsletter subscribers](https://late.email). 👉
