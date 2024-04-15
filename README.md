@@ -44,9 +44,9 @@
 <a href="https://late.email"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/main/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
+- [🍝 Do Noodles ever get Impasta-syndrome?](https://archive.late.email/archive/do-noodles-ever-get-impasta-syndrome/)
 - [🧰 The shovel was a ground-breaking invention](https://archive.late.email/archive/the-shovel-was-a-ground-breaking-invention/)
 - [🥤 Dr. Pepper was a Fizz-ician](https://archive.late.email/archive/dr-pepper-was-a-fizz-ician/)
-- [🥯 Bread so lazy, it&#39;s always loafin&#39; around](https://archive.late.email/archive/bread-so-lazy-its-always-loafin-around/)
 <!-- NEWSLETTER-LIST:END -->
 
 I wrote a [book](https://dramsch.net/books) about real-world ML and I give it away to my over [1111+ newsletter subscribers](https://late.email). 👉
