@@ -66,8 +66,8 @@ I love [coding](https://dramsch.net/projects/), [writing](https://dramsch.net/bo
 
 - 💬 Ask me about **python, machine learning, and data science.**
 - 👯 I’m looking to collaborate on [cool](https://arxiv.org/abs/2006.13311) [useful](https://github.com/scikit-learn/scikit-learn/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+author%3AJesperDramsch) [projects](https://dramsch.net/projects).
-- 🙊 Need a speaker? Maybe we're a [match](https://dramsch.net/talks).
-- 📫 How to reach me: [jesper@dramsch.net](jesper@dramsch.net)
+- 🙊 Need a speaker? Maybe we're a [match](https://dramsch.net/speaker).
+- 📫 How to reach me: [Here](https://dramsch.net/#contact)
 - ⚡ Fun fact: The singer of Bad Religion has a PhD in [evolutionary biology](https://en.wikipedia.org/wiki/Greg_Graffin).
 
 <a href="https://dramsch.net/speaker"><img src="https://dramsch.net/images/banner/banner-me-speaking.jpg" width="50%"></a>
