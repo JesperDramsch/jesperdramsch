@@ -8,9 +8,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=30&duration=3000&color=00999F&vCenter=true&width=600&height=75&lines=I+am+the+Jack+of+All+Trades;I+am+a+Machine+Learning+Researcher;I+am+an+Engaging+Keynote+Speaker;I+am+a+Digital+Signal+Whisperer;I+am+an+Open+Sourcerer;I+am+an+Educator;I+am+a+Pythonista;I+am+an+Allrounder)](https://git.io/typing-svg)
 
-🧪 I like to build things for researchers using machine learning and Python. I have built [ML.Recipes](https://ml.recipes) for AI4Science, [Data-Science-Gui.de](https://data-science-gui.de) for DS learners, and [PythonDeadlin.es](https://pythondeadlin.es) for Python conference submissions. I semi-regularly write articles for my [website](https://dramsch.net/blog) and my [weekly-ish non-hype AI newsletter](https://late.email). Sometimes I make videos on [Youtube](https://dramsch.net/youtube) and [Tiktok](https://dramsch.net/tiktok). 
+🧪 I like to build things for researchers using machine learning and Python. I have built [ML.Recipes](https://ml.recipes) for AI4Science, [Data-Science-Gui.de](https://data-science-gui.de) for DS learners, and [PythonDeadlin.es](https://pythondeadlin.es) for Python conference submissions. I semi-regularly write articles for my [website](https://dramsch.net/blog) and my weekly-ish [non-hype AI newsletter](https://late.email). Sometimes, I make videos on [YouTube](https://dramsch.net/youtube) and [Tiktok](https://dramsch.net/tiktok), but they're fairly irregular.
 
-🌦 Formally, I'm a scientist for machine learning, improving global weather forecasts with AI at the [ECMWF](https://ecmwf.int)/[@ECMWF](https://github.com/ecmwf), a 2022 fellow of the Software Sustainability Institute for AI4Science, and a Co-chair of the Working Group Modelling for the ITU Global Initiative on [Resilience to Natural Hazards through AI Solutions](https://www.itu.int/en/ITU-T/focusgroups/ai4ndm/Pages/default.aspx).
+🌦 Formally, I'm a scientist for machine learning, improving global weather forecasts with AI at the [ECMWF](https://ecmwf.int)/[@ECMWF](https://github.com/ecmwf), a 2022 fellow of the Software Sustainability Institute for AI4Science, and a Co-chair of the Working Group Modelling for the [ITU Global](](https://www.itu.int/en/ITU-T/focusgroups/ai4ndm/Pages/default.aspx) Initiative on Resilience to Natural Hazards through AI Solutions.
 
 💻 I list all of my projects at [dramsch.net/projects](https://dramsch.net/projects).
 
@@ -83,6 +83,8 @@ I love [coding](https://dramsch.net/projects/), [writing](https://dramsch.net/bo
 
 I try to contribute to useful open-source projects, but for some reason, the day only has 24 hours.
 
+<p>&nbsp;<a href="https://github.com/JesperDramsch?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jesperdramsch&show_icons=true&theme=vue&hide_border=true&title_color=000000&cache_seconds=86400&card_width=500" /></a></p>
+
 ### Recent Public Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#22](https://github.com/JesperDramsch/python-deadlines/pull/22#issuecomment-2018509677) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
@@ -91,7 +93,5 @@ I try to contribute to useful open-source projects, but for some reason, the day
 4. 🗣 Commented on [#21](https://github.com/JesperDramsch/python-deadlines/pull/21#issuecomment-2009207404) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
 5. 🎉 Merged PR [#21](https://github.com/JesperDramsch/python-deadlines/pull/21) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
 <!--END_SECTION:activity-->
-<p>&nbsp;<a href="https://github.com/JesperDramsch?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jesperdramsch&show_icons=true&hide_border=true&title_color=000000&cache_seconds=86400" /></a></p>
 
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jesperdramsch&theme=vue&mode=weekly&card_width=500)](https://git.io/streak-stats)
