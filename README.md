@@ -94,4 +94,5 @@ I try to contribute to useful open-source projects, but for some reason, the day
 5. 🎉 Merged PR [#21](https://github.com/JesperDramsch/python-deadlines/pull/21) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
 <!--END_SECTION:activity-->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jesperdramsch&theme=vue&mode=weekly&card_width=500)](https://git.io/streak-stats)
+### Github Trophys
+[![trophy](https://github-profile-trophy.vercel.app/?username=jesperdramsch&theme=discord&column=5&margin-w=7&margin-h=3)](https://github.com/ryo-ma/github-profile-trophy)
