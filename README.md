@@ -87,11 +87,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/JesperDramsch/python-deadlines/pull/24) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-2. 🗣 Commented on [#24](https://github.com/JesperDramsch/python-deadlines/pull/24#issuecomment-2084440410) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-3. 🔒 Closed issue [#23](https://github.com/JesperDramsch/python-deadlines/issues/23) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-4. 🗣 Commented on [#23](https://github.com/JesperDramsch/python-deadlines/issues/23#issuecomment-2072857227) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-5. 🗣 Commented on [#23](https://github.com/JesperDramsch/python-deadlines/issues/23#issuecomment-2072425139) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+1. 🗣 Commented on [#1313](https://github.com/prefix-dev/pixi/pull/1313#issuecomment-2089077386) in [prefix-dev/pixi](https://github.com/prefix-dev/pixi)
+2. 💪 Opened PR [#1313](https://github.com/prefix-dev/pixi/pull/1313) in [prefix-dev/pixi](https://github.com/prefix-dev/pixi)
+3. ❗ Opened issue [#1312](https://github.com/prefix-dev/pixi/issues/1312) in [prefix-dev/pixi](https://github.com/prefix-dev/pixi)
+4. 🎉 Merged PR [#24](https://github.com/JesperDramsch/python-deadlines/pull/24) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+5. 🗣 Commented on [#24](https://github.com/JesperDramsch/python-deadlines/pull/24#issuecomment-2084440410) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
