@@ -87,11 +87,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1313](https://github.com/prefix-dev/pixi/pull/1313#issuecomment-2090654711) in [prefix-dev/pixi](https://github.com/prefix-dev/pixi)
-2. 🗣 Commented on [#1313](https://github.com/prefix-dev/pixi/pull/1313#issuecomment-2089077386) in [prefix-dev/pixi](https://github.com/prefix-dev/pixi)
-3. 💪 Opened PR [#1313](https://github.com/prefix-dev/pixi/pull/1313) in [prefix-dev/pixi](https://github.com/prefix-dev/pixi)
-4. ❗ Opened issue [#1312](https://github.com/prefix-dev/pixi/issues/1312) in [prefix-dev/pixi](https://github.com/prefix-dev/pixi)
-5. 🎉 Merged PR [#24](https://github.com/JesperDramsch/python-deadlines/pull/24) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+1. 🗣 Commented on [#2949](https://github.com/tteck/Proxmox/issues/2949#issuecomment-2103455928) in [tteck/Proxmox](https://github.com/tteck/Proxmox)
+2. 🗣 Commented on [#2925](https://github.com/tteck/Proxmox/issues/2925#issuecomment-2103452874) in [tteck/Proxmox](https://github.com/tteck/Proxmox)
+3. ❗ Opened issue [#2949](https://github.com/tteck/Proxmox/issues/2949) in [tteck/Proxmox](https://github.com/tteck/Proxmox)
+4. 🗣 Commented on [#6651](https://github.com/paperless-ngx/paperless-ngx/issues/6651#issuecomment-2103396365) in [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+5. 🗣 Commented on [#1313](https://github.com/prefix-dev/pixi/pull/1313#issuecomment-2090654711) in [prefix-dev/pixi](https://github.com/prefix-dev/pixi)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
