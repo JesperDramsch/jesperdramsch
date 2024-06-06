@@ -87,11 +87,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2949](https://github.com/tteck/Proxmox/issues/2949#issuecomment-2103455928) in [tteck/Proxmox](https://github.com/tteck/Proxmox)
-2. 🗣 Commented on [#2925](https://github.com/tteck/Proxmox/issues/2925#issuecomment-2103452874) in [tteck/Proxmox](https://github.com/tteck/Proxmox)
-3. ❗ Opened issue [#2949](https://github.com/tteck/Proxmox/issues/2949) in [tteck/Proxmox](https://github.com/tteck/Proxmox)
-4. 🗣 Commented on [#6651](https://github.com/paperless-ngx/paperless-ngx/issues/6651#issuecomment-2103396365) in [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
-5. 🗣 Commented on [#1313](https://github.com/prefix-dev/pixi/pull/1313#issuecomment-2090654711) in [prefix-dev/pixi](https://github.com/prefix-dev/pixi)
+1. 🎉 Merged PR [#3](https://github.com/ecmwf/anemoi-models/pull/3) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
+2. 💪 Opened PR [#3](https://github.com/ecmwf/anemoi-models/pull/3) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
+3. 🗣 Commented on [#2949](https://github.com/tteck/Proxmox/issues/2949#issuecomment-2103455928) in [tteck/Proxmox](https://github.com/tteck/Proxmox)
+4. 🗣 Commented on [#2925](https://github.com/tteck/Proxmox/issues/2925#issuecomment-2103452874) in [tteck/Proxmox](https://github.com/tteck/Proxmox)
+5. ❗ Opened issue [#2949](https://github.com/tteck/Proxmox/issues/2949) in [tteck/Proxmox](https://github.com/tteck/Proxmox)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
