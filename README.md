@@ -42,9 +42,9 @@
 <a href="https://late.email"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/main/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
+- [🌋 Volcanoes lava good time](https://archive.late.email/archive/volcanoes-lava-good-time/)
 - [🫒 Olive these puns are here to make you smile](https://archive.late.email/archive/olive-these-puns-are-here-to-make-you-smile/)
 - [🌌 May the Fourth be with you!](https://archive.late.email/archive/may-the-fourth-be-with-you/)
-- [🪐 Do planets listen to fire Nep-tunes?](https://archive.late.email/archive/do-planets-listen-to-fire-nep-tunes/)
 <!-- NEWSLETTER-LIST:END -->
 
 I wrote a [book](https://dramsch.net/books) about real-world ML and I give it away to my over [1111+ newsletter subscribers](https://late.email). 👉
