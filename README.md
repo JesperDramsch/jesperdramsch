@@ -87,11 +87,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/JesperDramsch/keras-complex/pull/21#issuecomment-2158237645) in [JesperDramsch/keras-complex](https://github.com/JesperDramsch/keras-complex)
-2. 🎉 Merged PR [#21](https://github.com/JesperDramsch/keras-complex/pull/21) in [JesperDramsch/keras-complex](https://github.com/JesperDramsch/keras-complex)
-3. ❌ Reopened PR [#21](https://github.com/JesperDramsch/keras-complex/pull/21) in [JesperDramsch/keras-complex](https://github.com/JesperDramsch/keras-complex)
-4. 🎉 Merged PR [#3](https://github.com/ecmwf/anemoi-models/pull/3) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
-5. 💪 Opened PR [#3](https://github.com/ecmwf/anemoi-models/pull/3) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
+1. 💪 Opened PR [#223](https://github.com/python-organizers/conferences/pull/223) in [python-organizers/conferences](https://github.com/python-organizers/conferences)
+2. 🗣 Commented on [#21](https://github.com/JesperDramsch/keras-complex/pull/21#issuecomment-2158237645) in [JesperDramsch/keras-complex](https://github.com/JesperDramsch/keras-complex)
+3. 🎉 Merged PR [#21](https://github.com/JesperDramsch/keras-complex/pull/21) in [JesperDramsch/keras-complex](https://github.com/JesperDramsch/keras-complex)
+4. ❌ Reopened PR [#21](https://github.com/JesperDramsch/keras-complex/pull/21) in [JesperDramsch/keras-complex](https://github.com/JesperDramsch/keras-complex)
+5. 🎉 Merged PR [#3](https://github.com/ecmwf/anemoi-models/pull/3) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
