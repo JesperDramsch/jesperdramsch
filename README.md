@@ -42,9 +42,9 @@
 <a href="https://late.email"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/main/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
+- [🌞 Summer is the time for sun-sational puns](https://archive.late.email/archive/summer-is-the-time-for-sun-sational-puns/)
 - [🐲 The knight with the best boundaries is Sir Veyor](https://archive.late.email/archive/the-knight-with-the-best-boundaries-is-sir-veyor/)
 - [🌋 Volcanoes lava good time](https://archive.late.email/archive/volcanoes-lava-good-time/)
-- [🫒 Olive these puns are here to make you smile](https://archive.late.email/archive/olive-these-puns-are-here-to-make-you-smile/)
 <!-- NEWSLETTER-LIST:END -->
 
 I wrote a [book](https://dramsch.net/books) about real-world ML and I give it away to my over [1111+ newsletter subscribers](https://late.email). 👉
