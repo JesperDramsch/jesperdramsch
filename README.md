@@ -87,11 +87,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/ecmwf/anemoi-models/pull/5) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
-2. 💪 Opened PR [#225](https://github.com/python-organizers/conferences/pull/225) in [python-organizers/conferences](https://github.com/python-organizers/conferences)
-3. 🗣 Commented on [#223](https://github.com/python-organizers/conferences/pull/223#issuecomment-2163548423) in [python-organizers/conferences](https://github.com/python-organizers/conferences)
-4. 🗣 Commented on [#224](https://github.com/python-organizers/conferences/issues/224#issuecomment-2163535047) in [python-organizers/conferences](https://github.com/python-organizers/conferences)
-5. 🗣 Commented on [#223](https://github.com/python-organizers/conferences/pull/223#issuecomment-2163172830) in [python-organizers/conferences](https://github.com/python-organizers/conferences)
+1. 🎉 Merged PR [#25](https://github.com/JesperDramsch/python-deadlines/pull/25) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+2. 🎉 Merged PR [#5](https://github.com/ecmwf/anemoi-models/pull/5) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
+3. 💪 Opened PR [#225](https://github.com/python-organizers/conferences/pull/225) in [python-organizers/conferences](https://github.com/python-organizers/conferences)
+4. 🗣 Commented on [#223](https://github.com/python-organizers/conferences/pull/223#issuecomment-2163548423) in [python-organizers/conferences](https://github.com/python-organizers/conferences)
+5. 🗣 Commented on [#224](https://github.com/python-organizers/conferences/issues/224#issuecomment-2163535047) in [python-organizers/conferences](https://github.com/python-organizers/conferences)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
