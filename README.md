@@ -8,7 +8,7 @@
 
 🧪 I like to build things for researchers using machine learning and Python. I have built [ML.Recipes](https://ml.recipes) for AI4Science, [Data-Science-Gui.de](https://data-science-gui.de) for DS learners, and [PythonDeadlin.es](https://pythondeadlin.es) for Python conference submissions. I semi-regularly write articles for my [website](https://dramsch.net/blog) and my weekly-ish [non-hype AI newsletter](https://late.email). Sometimes, I make videos on [YouTube](https://dramsch.net/youtube) and [Tiktok](https://dramsch.net/tiktok), but they're fairly irregular.
 
-🌦 Formally, I'm a scientist for machine learning, improving global weather forecasts with AI at the [ECMWF](https://ecmwf.int)/[@ECMWF](https://github.com/ecmwf), a 2022 fellow of the Software Sustainability Institute for AI4Science, and a Co-chair of the Working Group Modelling for the [ITU Global](https://www.itu.int/en/ITU-T/focusgroups/ai4ndm/Pages/default.aspx) Initiative on Resilience to Natural Hazards through AI Solutions.
+🌦 Formally, I'm a scientist for machine learning, improving global weather forecasts with AI at the [ECMWF](https://ecmwf.int)/[@ECMWF](https://github.com/ecmwf), a 2022 fellow of the Software Sustainability Institute for AI4Science, and a Co-chair of the Working Group Modelling for the [ITU Focus Group](https://www.itu.int/en/ITU-T/focusgroups/ai4ndm/Pages/default.aspx) on AI for natural disaster management.
 
 💻 I list all of my projects at [dramsch.net/projects](https://dramsch.net/projects).
 
