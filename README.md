@@ -6,8 +6,6 @@
 <a href="https://dramsch.net/youtube" target="_blank"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCn_c_QdG1qQ2nCBo2MLdktQ?style=social&label=Youtube%20views"></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=30&duration=3000&color=00999F&vCenter=true&width=600&height=75&lines=I+am+the+Jack+of+All+Trades;I+am+a+Machine+Learning+Researcher;I+am+an+Engaging+Keynote+Speaker;I+am+a+Digital+Signal+Whisperer;I+am+an+Open+Sourcerer;I+am+an+Educator;I+am+a+Pythonista;I+am+an+Allrounder)](https://git.io/typing-svg)
-
 🧪 I like to build things for researchers using machine learning and Python. I have built [ML.Recipes](https://ml.recipes) for AI4Science, [Data-Science-Gui.de](https://data-science-gui.de) for DS learners, and [PythonDeadlin.es](https://pythondeadlin.es) for Python conference submissions. I semi-regularly write articles for my [website](https://dramsch.net/blog) and my weekly-ish [non-hype AI newsletter](https://late.email). Sometimes, I make videos on [YouTube](https://dramsch.net/youtube) and [Tiktok](https://dramsch.net/tiktok), but they're fairly irregular.
 
 🌦 Formally, I'm a scientist for machine learning, improving global weather forecasts with AI at the [ECMWF](https://ecmwf.int)/[@ECMWF](https://github.com/ecmwf), a 2022 fellow of the Software Sustainability Institute for AI4Science, and a Co-chair of the Working Group Modelling for the [ITU Global](https://www.itu.int/en/ITU-T/focusgroups/ai4ndm/Pages/default.aspx) Initiative on Resilience to Natural Hazards through AI Solutions.
@@ -73,7 +71,7 @@ I love [coding](https://dramsch.net/projects/), [writing](https://dramsch.net/bo
 <a href="https://dramsch.net/speaker"><img src="https://dramsch.net/images/banner/banner-me-speaking.jpg" width="50%"></a>
 
 [![Website](https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAMAAAC7IEhfAAAA5FBMVEX////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////aw3uPAAAAS3RSTlMAAQIFBwgKDBATFRgcHR8hIyY0NjxBQ0RLTlJaXmBoaXt+iYqLjZGeoqSttrm7vsLExcbLzM7P3d7f4ePk6ert7u/z9Pb3+Pn7/f7PP9EFAAAA8klEQVR42mKgIzA15iFOIaB9esCRIIqiMHzbxrBt27Zx9r+esV6lHobR/OFJvu7y9uxTg4OJR8kZSDXArwZ3Z9/fwH8YyqRzYSm8SOOxmQQah2c8lRLDPIB0iAySc3Q2cSgqXIwDGKtctWWNS4MK7CH2cXoPJ6+uC+6DzNsfPZ10vxkb5sSUxdKpB5MbzedUxMiuBxtVYquib9VxfpCmJcqkU7RBbNfbY0IPVgrsNtQxIL3Gt+x2LZDRhSfNrmFGuoGdceyu9OGRdadzmvTrfXw72kCE+yrSS4FUDauUibj5Wmc8Nu2WbkiUwWR+zGSk73YPS78m9JiOGi8AAAAASUVORK5CYII=&logoColor=white)](https://dramsch.net/)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-000?style=for-the-badge&logo=kaggle)](https://dramschg.net/kaggle)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-000?style=for-the-badge&logo=kaggle)](https://dramsch.net/kaggle)
 [![Mastodon](https://img.shields.io/badge/-Mastodon-000?style=for-the-badge&logo=mastodon)](https://dramsch.net/mastodon)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-000?style=for-the-badge&logo=linkedin)](https://dramsch.net/linkedin)
 [![Skillshare](https://img.shields.io/badge/-Skillshare-000?style=for-the-badge&logo=skillshare)](https://dramsch.net/r/skillshare)
