@@ -31,9 +31,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [The Potential Role of AI in Sustainable Energy](https://dramsch.net/articles/potential-role-of-ai-in-sustainable-energy/)
 - [How to get Involved in Offensive LLM Security](https://dramsch.net/articles/get-involved-in-offensive-llm-security/)
 - [How does generative AI change in 2024?](https://dramsch.net/articles/how-does-generative-ai-change-in-2024/)
-- [My 2023 in Review: The year of AI](https://dramsch.net/articles/my-2023-in-review-the-year-of-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://late.email)
