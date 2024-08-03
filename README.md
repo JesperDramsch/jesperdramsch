@@ -85,11 +85,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#129](https://github.com/ecmwf-actions/reusable-workflows/pull/129) in [ecmwf-actions/reusable-workflows](https://github.com/ecmwf-actions/reusable-workflows)
-2. ❗ Opened issue [#10](https://github.com/ecmwf/anemoi-models/issues/10) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
-3. 🚀 Published release [0.1.0 - First Release](https://github.com/ecmwf/anemoi-models/releases/tag/0.1.0) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
-4. 🎉 Merged PR [#9](https://github.com/ecmwf/anemoi-models/pull/9) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
-5. 💪 Opened PR [#9](https://github.com/ecmwf/anemoi-models/pull/9) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
+1. 🎉 Merged PR [#26](https://github.com/JesperDramsch/python-deadlines/pull/26) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+2. 💪 Opened PR [#129](https://github.com/ecmwf-actions/reusable-workflows/pull/129) in [ecmwf-actions/reusable-workflows](https://github.com/ecmwf-actions/reusable-workflows)
+3. ❗ Opened issue [#10](https://github.com/ecmwf/anemoi-models/issues/10) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
+4. 🚀 Published release [0.1.0 - First Release](https://github.com/ecmwf/anemoi-models/releases/tag/0.1.0) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
+5. 🎉 Merged PR [#9](https://github.com/ecmwf/anemoi-models/pull/9) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
