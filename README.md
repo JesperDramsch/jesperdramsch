@@ -24,9 +24,9 @@
 
 ### Youtube: [LiKe, coMMeNt, SubsCrIbE](https://dramsch.net/youtube)
 <!-- YOUTUBE-LIST:START -->
+- [Wait?! You CAN train AI on a laptop?](https://www.youtube.com/watch?v=wDelHr6CXqw)
 - [Unlock your Creative Potential with AI: ChatGPT for Content Creators @Skillshare-com](https://www.youtube.com/watch?v=DF5ZsPglmG4)
 - [will I ever learn?](https://www.youtube.com/watch?v=k-RcIJlzXHw)
-- [the KEY in choosing the right DATA Science Bootcamp 🗝](https://www.youtube.com/watch?v=SlewH4KYz9g)
 <!-- YOUTUBE-LIST:END -->
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
