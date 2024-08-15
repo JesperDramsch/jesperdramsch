@@ -85,11 +85,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#20](https://github.com/ecmwf/anemoi-training/pull/20) in [ecmwf/anemoi-training](https://github.com/ecmwf/anemoi-training)
-2. 💪 Opened PR [#20](https://github.com/ecmwf/anemoi-training/pull/20) in [ecmwf/anemoi-training](https://github.com/ecmwf/anemoi-training)
-3. ❌ Closed PR [#5](https://github.com/ecmwf/anemoi-training/pull/5) in [ecmwf/anemoi-training](https://github.com/ecmwf/anemoi-training)
-4. 🎉 Merged PR [#27](https://github.com/ecmwf/anemoi-graphs/pull/27) in [ecmwf/anemoi-graphs](https://github.com/ecmwf/anemoi-graphs)
-5. 🎉 Merged PR [#2](https://github.com/ecmwf/anemoi-registry/pull/2) in [ecmwf/anemoi-registry](https://github.com/ecmwf/anemoi-registry)
+1. 💪 Opened PR [#34](https://github.com/ecmwf/anemoi-graphs/pull/34) in [ecmwf/anemoi-graphs](https://github.com/ecmwf/anemoi-graphs)
+2. 💪 Opened PR [#133](https://github.com/ecmwf-actions/reusable-workflows/pull/133) in [ecmwf-actions/reusable-workflows](https://github.com/ecmwf-actions/reusable-workflows)
+3. 💪 Opened PR [#132](https://github.com/ecmwf-actions/reusable-workflows/pull/132) in [ecmwf-actions/reusable-workflows](https://github.com/ecmwf-actions/reusable-workflows)
+4. ❌ Closed PR [#20](https://github.com/ecmwf/anemoi-training/pull/20) in [ecmwf/anemoi-training](https://github.com/ecmwf/anemoi-training)
+5. 💪 Opened PR [#20](https://github.com/ecmwf/anemoi-training/pull/20) in [ecmwf/anemoi-training](https://github.com/ecmwf/anemoi-training)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
