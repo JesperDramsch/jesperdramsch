@@ -25,7 +25,7 @@
 ### Youtube: [LiKe, coMMeNt, SubsCrIbE](https://dramsch.net/youtube)
 <!-- YOUTUBE-LIST:START -->
 - [Wait?! You CAN train AI on a laptop?](https://www.youtube.com/watch?v=wDelHr6CXqw)
-- [Unlock your Creative Potential with AI: ChatGPT for Content Creators @Skillshare-com](https://www.youtube.com/watch?v=DF5ZsPglmG4)
+- [Unlock your Creative Potential with AI: ChatGPT for Content Creators @user-pn7vw8zw5b](https://www.youtube.com/watch?v=DF5ZsPglmG4)
 - [will I ever learn?](https://www.youtube.com/watch?v=k-RcIJlzXHw)
 <!-- YOUTUBE-LIST:END -->
 
