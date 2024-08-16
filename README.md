@@ -85,11 +85,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#34](https://github.com/ecmwf/anemoi-graphs/pull/34) in [ecmwf/anemoi-graphs](https://github.com/ecmwf/anemoi-graphs)
-2. 💪 Opened PR [#133](https://github.com/ecmwf-actions/reusable-workflows/pull/133) in [ecmwf-actions/reusable-workflows](https://github.com/ecmwf-actions/reusable-workflows)
-3. 💪 Opened PR [#132](https://github.com/ecmwf-actions/reusable-workflows/pull/132) in [ecmwf-actions/reusable-workflows](https://github.com/ecmwf-actions/reusable-workflows)
-4. ❌ Closed PR [#20](https://github.com/ecmwf/anemoi-training/pull/20) in [ecmwf/anemoi-training](https://github.com/ecmwf/anemoi-training)
-5. 💪 Opened PR [#20](https://github.com/ecmwf/anemoi-training/pull/20) in [ecmwf/anemoi-training](https://github.com/ecmwf/anemoi-training)
+1. 💪 Opened PR [#32](https://github.com/ecmwf/anemoi-training/pull/32) in [ecmwf/anemoi-training](https://github.com/ecmwf/anemoi-training)
+2. 🚀 Published release [0.3.0 - Anemoi Graphs Release, added HealPixNodes, bugfixes](https://github.com/ecmwf/anemoi-graphs/releases/tag/0.3.0) in [ecmwf/anemoi-graphs](https://github.com/ecmwf/anemoi-graphs)
+3. 🚀 Published release [0.3.0 - Anemoi Graphs Release, added HealPixNodes, bugfixes](https://github.com/ecmwf/anemoi-graphs/releases/tag/0.3.0) in [ecmwf/anemoi-graphs](https://github.com/ecmwf/anemoi-graphs)
+4. 🎉 Merged PR [#36](https://github.com/ecmwf/anemoi-graphs/pull/36) in [ecmwf/anemoi-graphs](https://github.com/ecmwf/anemoi-graphs)
+5. 💪 Opened PR [#36](https://github.com/ecmwf/anemoi-graphs/pull/36) in [ecmwf/anemoi-graphs](https://github.com/ecmwf/anemoi-graphs)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
