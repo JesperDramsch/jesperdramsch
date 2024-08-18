@@ -40,9 +40,9 @@
 <a href="https://late.email"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/main/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
+- [🐴 Called my AI to understand horses Gemi-neigh](https://archive.late.email/archive/called-my-ai-to-understand-horses-gemi-neigh/)
 - [✈ Home is Germany, but even abroad there are Gerfew](https://archive.late.email/archive/home-is-germany-but-even-abroad-there-are-gerfew/)
 - [🤩 I put the Awe in Awe-tism](https://archive.late.email/archive/i-put-the-awe-in-awe-tism/)
-- [🌞 Summer is the time for sun-sational puns](https://archive.late.email/archive/summer-is-the-time-for-sun-sational-puns/)
 <!-- NEWSLETTER-LIST:END -->
 
 I wrote a [book](https://dramsch.net/books) about real-world ML and I give it away to my over [1111+ newsletter subscribers](https://late.email). 👉
