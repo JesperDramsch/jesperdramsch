@@ -85,11 +85,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/ecmwf/anemoi-training/pull/52) in [ecmwf/anemoi-training](https://github.com/ecmwf/anemoi-training)
-2. 🔒 Closed issue [#53](https://github.com/ecmwf/anemoi-training/issues/53) in [ecmwf/anemoi-training](https://github.com/ecmwf/anemoi-training)
-3. 🎉 Merged PR [#34](https://github.com/ecmwf/anemoi-models/pull/34) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
-4. 🔒 Closed issue [#15](https://github.com/ecmwf/anemoi-models/issues/15) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
-5. 🎉 Merged PR [#21](https://github.com/ecmwf/anemoi-models/pull/21) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
+1. 🎉 Merged PR [#40](https://github.com/ecmwf/anemoi-models/pull/40) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
+2. 💪 Opened PR [#40](https://github.com/ecmwf/anemoi-models/pull/40) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
+3. 🎉 Merged PR [#39](https://github.com/ecmwf/anemoi-models/pull/39) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
+4. 🚀 Published release [0.3.0 - Remapping of (meteorological) Variables](https://github.com/ecmwf/anemoi-models/releases/tag/0.3.0) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
+5. 🎉 Merged PR [#38](https://github.com/ecmwf/anemoi-models/pull/38) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
