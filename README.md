@@ -85,11 +85,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#45](https://github.com/ecmwf/anemoi-models/pull/45) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
-2. 💪 Opened PR [#136](https://github.com/ecmwf-actions/reusable-workflows/pull/136) in [ecmwf-actions/reusable-workflows](https://github.com/ecmwf-actions/reusable-workflows)
-3. 🗣 Commented on [#23](https://github.com/ecmwf/anemoi-models/pull/23#issuecomment-2352336126) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
-4. 🎉 Merged PR [#3](https://github.com/ecmwf/anemoi-utils/pull/3) in [ecmwf/anemoi-utils](https://github.com/ecmwf/anemoi-utils)
-5. 🎉 Merged PR [#40](https://github.com/ecmwf/anemoi-models/pull/40) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
+1. 🎉 Merged PR [#43](https://github.com/ecmwf/anemoi-datasets/pull/43) in [ecmwf/anemoi-datasets](https://github.com/ecmwf/anemoi-datasets)
+2. 💪 Opened PR [#45](https://github.com/ecmwf/anemoi-models/pull/45) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
+3. 💪 Opened PR [#136](https://github.com/ecmwf-actions/reusable-workflows/pull/136) in [ecmwf-actions/reusable-workflows](https://github.com/ecmwf-actions/reusable-workflows)
+4. 🗣 Commented on [#23](https://github.com/ecmwf/anemoi-models/pull/23#issuecomment-2352336126) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
+5. 🎉 Merged PR [#3](https://github.com/ecmwf/anemoi-utils/pull/3) in [ecmwf/anemoi-utils](https://github.com/ecmwf/anemoi-utils)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
