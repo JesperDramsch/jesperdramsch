@@ -31,9 +31,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Today I learned about interactive PDB debugging of Pytest tests](https://dramsch.net/today-i-learned/pytest/interactive-pdb-debugging-of-pytest-tests/)
 - [Why is Predicting Hurricanes with AI so difficult?](https://dramsch.net/articles/why-is-predicting-hurricanes-with-ai-so-difficult/)
 - [The Potential Role of AI in Sustainable Energy](https://dramsch.net/articles/potential-role-of-ai-in-sustainable-energy/)
-- [How to get Involved in Offensive LLM Security](https://dramsch.net/articles/get-involved-in-offensive-llm-security/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://late.email)
