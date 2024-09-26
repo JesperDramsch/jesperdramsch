@@ -85,11 +85,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#48](https://github.com/ecmwf/anemoi-models/pull/48) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
-2. 💪 Opened PR [#48](https://github.com/ecmwf/anemoi-models/pull/48) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
-3. 🎉 Merged PR [#7](https://github.com/ecmwf/anemoi-utils/pull/7) in [ecmwf/anemoi-utils](https://github.com/ecmwf/anemoi-utils)
-4. 💪 Opened PR [#7](https://github.com/ecmwf/anemoi-utils/pull/7) in [ecmwf/anemoi-utils](https://github.com/ecmwf/anemoi-utils)
-5. 🎉 Merged PR [#3](https://github.com/ecmwf/anemoi-registry/pull/3) in [ecmwf/anemoi-registry](https://github.com/ecmwf/anemoi-registry)
+1. 🚀 Published release [0.5.0 - Incremental builds and Rescaling](https://github.com/ecmwf/anemoi-datasets/releases/tag/0.5.0) in [ecmwf/anemoi-datasets](https://github.com/ecmwf/anemoi-datasets)
+2. ❌ Closed PR [#56](https://github.com/ecmwf/anemoi-datasets/pull/56) in [ecmwf/anemoi-datasets](https://github.com/ecmwf/anemoi-datasets)
+3. 🚀 Published release [Incremental builds and Rescaling](https://github.com/ecmwf/anemoi-datasets/releases/tag/0.5.0) in [ecmwf/anemoi-datasets](https://github.com/ecmwf/anemoi-datasets)
+4. 🎉 Merged PR [#55](https://github.com/ecmwf/anemoi-datasets/pull/55) in [ecmwf/anemoi-datasets](https://github.com/ecmwf/anemoi-datasets)
+5. 💪 Opened PR [#55](https://github.com/ecmwf/anemoi-datasets/pull/55) in [ecmwf/anemoi-datasets](https://github.com/ecmwf/anemoi-datasets)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
