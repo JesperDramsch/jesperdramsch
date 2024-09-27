@@ -85,11 +85,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.5.0 - Incremental builds and Rescaling](https://github.com/ecmwf/anemoi-datasets/releases/tag/0.5.0) in [ecmwf/anemoi-datasets](https://github.com/ecmwf/anemoi-datasets)
-2. ❌ Closed PR [#56](https://github.com/ecmwf/anemoi-datasets/pull/56) in [ecmwf/anemoi-datasets](https://github.com/ecmwf/anemoi-datasets)
-3. 🚀 Published release [Incremental builds and Rescaling](https://github.com/ecmwf/anemoi-datasets/releases/tag/0.5.0) in [ecmwf/anemoi-datasets](https://github.com/ecmwf/anemoi-datasets)
-4. 🎉 Merged PR [#55](https://github.com/ecmwf/anemoi-datasets/pull/55) in [ecmwf/anemoi-datasets](https://github.com/ecmwf/anemoi-datasets)
-5. 💪 Opened PR [#55](https://github.com/ecmwf/anemoi-datasets/pull/55) in [ecmwf/anemoi-datasets](https://github.com/ecmwf/anemoi-datasets)
+1. 💪 Opened PR [#63](https://github.com/ecmwf/anemoi-training/pull/63) in [ecmwf/anemoi-training](https://github.com/ecmwf/anemoi-training)
+2. 🔒 Closed issue [#39](https://github.com/ecmwf/anemoi-training/issues/39) in [ecmwf/anemoi-training](https://github.com/ecmwf/anemoi-training)
+3. 🎉 Merged PR [#61](https://github.com/ecmwf/anemoi-training/pull/61) in [ecmwf/anemoi-training](https://github.com/ecmwf/anemoi-training)
+4. 🗣 Commented on [#61](https://github.com/ecmwf/anemoi-training/pull/61#issuecomment-2376389311) in [ecmwf/anemoi-training](https://github.com/ecmwf/anemoi-training)
+5. 🚀 Published release [0.5.0 - Incremental builds and Rescaling](https://github.com/ecmwf/anemoi-datasets/releases/tag/0.5.0) in [ecmwf/anemoi-datasets](https://github.com/ecmwf/anemoi-datasets)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
