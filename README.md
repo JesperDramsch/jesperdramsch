@@ -24,9 +24,9 @@
 
 ### Youtube: [LiKe, coMMeNt, SubsCrIbE](https://dramsch.net/youtube)
 <!-- YOUTUBE-LIST:START -->
+- [What do zombies and AI have in common?](https://www.youtube.com/watch?v=aZE4yk33ySs)
 - [Wait?! You CAN train AI on a laptop?](https://www.youtube.com/watch?v=wDelHr6CXqw)
 - [Unlock your Creative Potential with AI: ChatGPT for Content Creators @user-pn7vw8zw5b](https://www.youtube.com/watch?v=DF5ZsPglmG4)
-- [will I ever learn?](https://www.youtube.com/watch?v=k-RcIJlzXHw)
 <!-- YOUTUBE-LIST:END -->
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
