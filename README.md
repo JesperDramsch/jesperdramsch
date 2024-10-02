@@ -85,11 +85,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/ecmwf/anemoi-models/pull/55) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
-2. 💪 Opened PR [#55](https://github.com/ecmwf/anemoi-models/pull/55) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
-3. 🎉 Merged PR [#54](https://github.com/ecmwf/anemoi-models/pull/54) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
-4. 💪 Opened PR [#54](https://github.com/ecmwf/anemoi-models/pull/54) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
-5. 🎉 Merged PR [#49](https://github.com/ecmwf/anemoi-models/pull/49) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
+1. 🗣 Commented on [#63](https://github.com/ecmwf/anemoi-training/pull/63#issuecomment-2386105933) in [ecmwf/anemoi-training](https://github.com/ecmwf/anemoi-training)
+2. 🎉 Merged PR [#14](https://github.com/ecmwf/anemoi-utils/pull/14) in [ecmwf/anemoi-utils](https://github.com/ecmwf/anemoi-utils)
+3. 🎉 Merged PR [#66](https://github.com/ecmwf/anemoi-training/pull/66) in [ecmwf/anemoi-training](https://github.com/ecmwf/anemoi-training)
+4. 🎉 Merged PR [#55](https://github.com/ecmwf/anemoi-models/pull/55) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
+5. 💪 Opened PR [#55](https://github.com/ecmwf/anemoi-models/pull/55) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
