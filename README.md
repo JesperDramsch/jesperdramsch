@@ -24,7 +24,7 @@
 
 ### Youtube: [LiKe, coMMeNt, SubsCrIbE](https://dramsch.net/youtube)
 <!-- YOUTUBE-LIST:START -->
-- [Do you want to live forever?](https://www.youtube.com/watch?v=xSlqkAyR5nQ)
+- [Do you ✨really✨ want to live forever through AI?](https://www.youtube.com/watch?v=PoLA0JTUNZs)
 - [What do zombies and AI have in common?](https://www.youtube.com/watch?v=aZE4yk33ySs)
 - [Wait?! You CAN train AI on a laptop?](https://www.youtube.com/watch?v=wDelHr6CXqw)
 <!-- YOUTUBE-LIST:END -->
