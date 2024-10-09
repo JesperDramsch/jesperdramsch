@@ -40,9 +40,9 @@
 <a href="https://late.email"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/main/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
+- [💧 The puddle was in de-nile about not being a spooky lake](https://archive.late.email/archive/puddle-in-de-nile-about-not-being-spooky-lake/)
 - [🎃 Grabbing a pumpkin spice latte, I have nothing but gourd intentions](https://archive.late.email/archive/grabbing-a-pumpkin-spice-latte-i-have-nothing-but/)
 - [🏎 With these salaries, Meta AI could drive a Llamaborghini](https://archive.late.email/archive/with-these-salaries-meta-ai-could-drive-a/)
-- [🐴 Called my AI to understand horses Gemi-neigh](https://archive.late.email/archive/called-my-ai-to-understand-horses-gemi-neigh/)
 <!-- NEWSLETTER-LIST:END -->
 
 I wrote a [book](https://dramsch.net/books) about real-world ML and I give it away to my over [1111+ newsletter subscribers](https://late.email). 👉
