@@ -85,11 +85,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2748](https://github.com/dgtlmoon/changedetection.io/issues/2748) in [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
-2. 🎉 Merged PR [#31](https://github.com/JesperDramsch/python-deadlines/pull/31) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-3. 🎉 Merged PR [#30](https://github.com/JesperDramsch/python-deadlines/pull/30) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-4. 🎉 Merged PR [#66](https://github.com/ecmwf/anemoi-training/pull/66) in [ecmwf/anemoi-training](https://github.com/ecmwf/anemoi-training)
-5. 🎉 Merged PR [#55](https://github.com/ecmwf/anemoi-models/pull/55) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
+1. 🗣 Commented on [#2748](https://github.com/dgtlmoon/changedetection.io/issues/2748#issuecomment-2445531370) in [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+2. 🎉 Merged PR [#63](https://github.com/ecmwf/anemoi-training/pull/63) in [ecmwf/anemoi-training](https://github.com/ecmwf/anemoi-training)
+3. ❗ Opened issue [#2748](https://github.com/dgtlmoon/changedetection.io/issues/2748) in [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+4. 🎉 Merged PR [#31](https://github.com/JesperDramsch/python-deadlines/pull/31) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+5. 🎉 Merged PR [#30](https://github.com/JesperDramsch/python-deadlines/pull/30) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
