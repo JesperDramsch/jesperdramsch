@@ -85,11 +85,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#74](https://github.com/ecmwf/anemoi-models/issues/74) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
-2. ❗ Opened issue [#73](https://github.com/ecmwf/anemoi-models/issues/73) in [ecmwf/anemoi-models](https://github.com/ecmwf/anemoi-models)
-3. ❗ Opened issue [#124](https://github.com/ecmwf/anemoi-training/issues/124) in [ecmwf/anemoi-training](https://github.com/ecmwf/anemoi-training)
-4. ❗ Opened issue [#123](https://github.com/ecmwf/anemoi-training/issues/123) in [ecmwf/anemoi-training](https://github.com/ecmwf/anemoi-training)
-5. 🎉 Merged PR [#118](https://github.com/ecmwf/anemoi-training/pull/118) in [ecmwf/anemoi-training](https://github.com/ecmwf/anemoi-training)
+1. 💪 Opened PR [#48](https://github.com/ecmwf/anemoi-utils/pull/48) in [ecmwf/anemoi-utils](https://github.com/ecmwf/anemoi-utils)
+2. 💪 Opened PR [#11](https://github.com/ecmwf/anemoi-transform/pull/11) in [ecmwf/anemoi-transform](https://github.com/ecmwf/anemoi-transform)
+3. 💪 Opened PR [#131](https://github.com/ecmwf/anemoi-training/pull/131) in [ecmwf/anemoi-training](https://github.com/ecmwf/anemoi-training)
+4. 💪 Opened PR [#26](https://github.com/ecmwf/anemoi-registry/pull/26) in [ecmwf/anemoi-registry](https://github.com/ecmwf/anemoi-registry)
+5. 💪 Opened PR [#45](https://github.com/ecmwf/anemoi-inference/pull/45) in [ecmwf/anemoi-inference](https://github.com/ecmwf/anemoi-inference)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
