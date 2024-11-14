@@ -85,11 +85,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/JesperDramsch/python-deadlines/issues/32#issuecomment-2471586372) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-2. 💪 Opened PR [#48](https://github.com/ecmwf/anemoi-utils/pull/48) in [ecmwf/anemoi-utils](https://github.com/ecmwf/anemoi-utils)
-3. 💪 Opened PR [#11](https://github.com/ecmwf/anemoi-transform/pull/11) in [ecmwf/anemoi-transform](https://github.com/ecmwf/anemoi-transform)
-4. 💪 Opened PR [#131](https://github.com/ecmwf/anemoi-training/pull/131) in [ecmwf/anemoi-training](https://github.com/ecmwf/anemoi-training)
-5. 💪 Opened PR [#26](https://github.com/ecmwf/anemoi-registry/pull/26) in [ecmwf/anemoi-registry](https://github.com/ecmwf/anemoi-registry)
+1. 🗣 Commented on [#32](https://github.com/JesperDramsch/python-deadlines/issues/32#issuecomment-2472153313) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+2. 🗣 Commented on [#32](https://github.com/JesperDramsch/python-deadlines/issues/32#issuecomment-2471586372) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+3. 💪 Opened PR [#48](https://github.com/ecmwf/anemoi-utils/pull/48) in [ecmwf/anemoi-utils](https://github.com/ecmwf/anemoi-utils)
+4. 💪 Opened PR [#11](https://github.com/ecmwf/anemoi-transform/pull/11) in [ecmwf/anemoi-transform](https://github.com/ecmwf/anemoi-transform)
+5. 💪 Opened PR [#131](https://github.com/ecmwf/anemoi-training/pull/131) in [ecmwf/anemoi-training](https://github.com/ecmwf/anemoi-training)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
