@@ -85,11 +85,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/JesperDramsch/python-deadlines/pull/33#issuecomment-2508690785) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-2. 🗣 Commented on [#33](https://github.com/JesperDramsch/python-deadlines/pull/33#issuecomment-2508687106) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-3. 🗣 Commented on [#32](https://github.com/JesperDramsch/python-deadlines/issues/32#issuecomment-2472153313) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-4. 🗣 Commented on [#32](https://github.com/JesperDramsch/python-deadlines/issues/32#issuecomment-2471586372) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-5. 💪 Opened PR [#48](https://github.com/ecmwf/anemoi-utils/pull/48) in [ecmwf/anemoi-utils](https://github.com/ecmwf/anemoi-utils)
+1. 🎉 Merged PR [#120](https://github.com/ecmwf/anemoi-training/pull/120) in [ecmwf/anemoi-training](https://github.com/ecmwf/anemoi-training)
+2. 🗣 Commented on [#33](https://github.com/JesperDramsch/python-deadlines/pull/33#issuecomment-2508690785) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+3. 🗣 Commented on [#33](https://github.com/JesperDramsch/python-deadlines/pull/33#issuecomment-2508687106) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+4. 🗣 Commented on [#32](https://github.com/JesperDramsch/python-deadlines/issues/32#issuecomment-2472153313) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+5. 🗣 Commented on [#32](https://github.com/JesperDramsch/python-deadlines/issues/32#issuecomment-2471586372) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
