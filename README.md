@@ -85,11 +85,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#141](https://github.com/ecmwf-actions/reusable-workflows/pull/141) in [ecmwf-actions/reusable-workflows](https://github.com/ecmwf-actions/reusable-workflows)
-2. 🎉 Merged PR [#7](https://github.com/JesperDramsch/ml.recipes/pull/7) in [JesperDramsch/ml.recipes](https://github.com/JesperDramsch/ml.recipes)
-3. 🎉 Merged PR [#6](https://github.com/JesperDramsch/ml.recipes/pull/6) in [JesperDramsch/ml.recipes](https://github.com/JesperDramsch/ml.recipes)
-4. 🎉 Merged PR [#5](https://github.com/JesperDramsch/ml.recipes/pull/5) in [JesperDramsch/ml.recipes](https://github.com/JesperDramsch/ml.recipes)
-5. 🎉 Merged PR [#34](https://github.com/JesperDramsch/python-deadlines/pull/34) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+1. 🗣 Commented on [#161](https://github.com/ecmwf/anemoi-training/issues/161#issuecomment-2535264678) in [ecmwf/anemoi-training](https://github.com/ecmwf/anemoi-training)
+2. 🗣 Commented on [#161](https://github.com/ecmwf/anemoi-training/issues/161#issuecomment-2535259407) in [ecmwf/anemoi-training](https://github.com/ecmwf/anemoi-training)
+3. 🗣 Commented on [#161](https://github.com/ecmwf/anemoi-training/issues/161#issuecomment-2535256910) in [ecmwf/anemoi-training](https://github.com/ecmwf/anemoi-training)
+4. 💪 Opened PR [#141](https://github.com/ecmwf-actions/reusable-workflows/pull/141) in [ecmwf-actions/reusable-workflows](https://github.com/ecmwf-actions/reusable-workflows)
+5. 🎉 Merged PR [#7](https://github.com/JesperDramsch/ml.recipes/pull/7) in [JesperDramsch/ml.recipes](https://github.com/JesperDramsch/ml.recipes)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
