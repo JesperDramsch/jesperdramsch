@@ -85,11 +85,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64](https://github.com/ecmwf/anemoi-utils/issues/64#issuecomment-2548927712) in [ecmwf/anemoi-utils](https://github.com/ecmwf/anemoi-utils)
-2. 🔒 Closed issue [#64](https://github.com/ecmwf/anemoi-utils/issues/64) in [ecmwf/anemoi-utils](https://github.com/ecmwf/anemoi-utils)
-3. 🎉 Merged PR [#67](https://github.com/ecmwf/anemoi-utils/pull/67) in [ecmwf/anemoi-utils](https://github.com/ecmwf/anemoi-utils)
-4. ❗ Opened issue [#1](https://github.com/ecmwf/anemoi-core/issues/1) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
-5. 💪 Opened PR [#143](https://github.com/ecmwf-actions/reusable-workflows/pull/143) in [ecmwf-actions/reusable-workflows](https://github.com/ecmwf-actions/reusable-workflows)
+1. 🎉 Merged PR [#210](https://github.com/ecmwf/anemoi-training/pull/210) in [ecmwf/anemoi-training](https://github.com/ecmwf/anemoi-training)
+2. 🎉 Merged PR [#101](https://github.com/ecmwf/anemoi-graphs/pull/101) in [ecmwf/anemoi-graphs](https://github.com/ecmwf/anemoi-graphs)
+3. 💪 Opened PR [#101](https://github.com/ecmwf/anemoi-graphs/pull/101) in [ecmwf/anemoi-graphs](https://github.com/ecmwf/anemoi-graphs)
+4. 🚀 Published release [0.3.2 - Multiple Fixes, Checkpoint updates, Stretched-grid/LAM updates](https://github.com/ecmwf/anemoi-training/releases/tag/0.3.2) in [ecmwf/anemoi-training](https://github.com/ecmwf/anemoi-training)
+5. 🎉 Merged PR [#100](https://github.com/ecmwf/anemoi-graphs/pull/100) in [ecmwf/anemoi-graphs](https://github.com/ecmwf/anemoi-graphs)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
