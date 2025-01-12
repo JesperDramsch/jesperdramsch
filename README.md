@@ -85,11 +85,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#75](https://github.com/ecmwf/anemoi-core/pull/75) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
-2. 💪 Opened PR [#144](https://github.com/ecmwf-actions/reusable-workflows/pull/144) in [ecmwf-actions/reusable-workflows](https://github.com/ecmwf-actions/reusable-workflows)
-3. 🗣 Commented on [#1370](https://github.com/community-scripts/ProxmoxVE/pull/1370#issuecomment-2581315786) in [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
-4. 💪 Opened PR [#1370](https://github.com/community-scripts/ProxmoxVE/pull/1370) in [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
-5. 🎉 Merged PR [#37](https://github.com/JesperDramsch/python-deadlines/pull/37) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+1. 🗣 Commented on [#45](https://github.com/JesperDramsch/python-deadlines/pull/45#issuecomment-2585257444) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+2. 🎉 Merged PR [#49](https://github.com/JesperDramsch/python-deadlines/pull/49) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+3. 🗣 Commented on [#32](https://github.com/JesperDramsch/python-deadlines/issues/32#issuecomment-2585220281) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+4. 🎉 Merged PR [#48](https://github.com/JesperDramsch/python-deadlines/pull/48) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+5. 🗣 Commented on [#23](https://github.com/JesperDramsch/python-deadlines/issues/23#issuecomment-2585219945) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
