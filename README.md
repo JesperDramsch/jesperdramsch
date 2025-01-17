@@ -85,11 +85,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#75](https://github.com/ecmwf/anemoi-core/pull/75#issuecomment-2592121765) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
-2. 🗣 Commented on [#71](https://github.com/ecmwf/anemoi-utils/pull/71#issuecomment-2592106346) in [ecmwf/anemoi-utils](https://github.com/ecmwf/anemoi-utils)
-3. 🎉 Merged PR [#73](https://github.com/ecmwf/anemoi-utils/pull/73) in [ecmwf/anemoi-utils](https://github.com/ecmwf/anemoi-utils)
-4. 🗣 Commented on [#1468](https://github.com/community-scripts/ProxmoxVE/issues/1468#issuecomment-2589674509) in [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
-5. ❗ Opened issue [#1468](https://github.com/community-scripts/ProxmoxVE/issues/1468) in [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
+1. 🗣 Commented on [#75](https://github.com/ecmwf/anemoi-core/pull/75#issuecomment-2593579853) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
+2. 🗣 Commented on [#75](https://github.com/ecmwf/anemoi-core/pull/75#issuecomment-2592121765) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
+3. 🗣 Commented on [#71](https://github.com/ecmwf/anemoi-utils/pull/71#issuecomment-2592106346) in [ecmwf/anemoi-utils](https://github.com/ecmwf/anemoi-utils)
+4. 🎉 Merged PR [#73](https://github.com/ecmwf/anemoi-utils/pull/73) in [ecmwf/anemoi-utils](https://github.com/ecmwf/anemoi-utils)
+5. 🗣 Commented on [#1468](https://github.com/community-scripts/ProxmoxVE/issues/1468#issuecomment-2589674509) in [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
