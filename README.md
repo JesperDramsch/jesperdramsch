@@ -40,9 +40,9 @@
 <a href="https://late.email"><img src="https://github.com/JesperDramsch/jesperdramsch/raw/main/understanding-ml-validation-e-book.png" alt="drawing" align="right" width="80"/></a>
 
 <!-- NEWSLETTER-LIST:START -->
+- [🐍 Python 3.14 releases this year, making it π-thon](https://archive.late.email/archive/python-314-releases-this-year-making-it-pi-thon/)
 - [🤶 This holiday season just be your-elf](https://archive.late.email/archive/this-holiday-season-just-be-your-elf/)
 - [🦌 Oh, deer. Where&#39;s the time?!](https://archive.late.email/archive/oh-deer-wheres-the-time/)
-- [🎃 Hope your Halloween is hex-tra special](https://archive.late.email/archive/hope-your-halloween-is-hex-tra-special/)
 <!-- NEWSLETTER-LIST:END -->
 
 I wrote a [book](https://dramsch.net/books) about real-world ML and I give it away to my over [1111+ newsletter subscribers](https://late.email). 👉
