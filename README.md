@@ -85,11 +85,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#141](https://github.com/ecmwf-actions/reusable-workflows/pull/141#issuecomment-2609582257) in [ecmwf-actions/reusable-workflows](https://github.com/ecmwf-actions/reusable-workflows)
-2. 🗣 Commented on [#141](https://github.com/ecmwf-actions/reusable-workflows/pull/141#issuecomment-2609269062) in [ecmwf-actions/reusable-workflows](https://github.com/ecmwf-actions/reusable-workflows)
-3. 🗣 Commented on [#1468](https://github.com/community-scripts/ProxmoxVE/issues/1468#issuecomment-2598744794) in [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
-4. 🗣 Commented on [#1468](https://github.com/community-scripts/ProxmoxVE/issues/1468#issuecomment-2598673003) in [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
-5. 🔒 Closed issue [#1468](https://github.com/community-scripts/ProxmoxVE/issues/1468) in [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
+1. 💪 Opened PR [#148](https://github.com/ecmwf-actions/reusable-workflows/pull/148) in [ecmwf-actions/reusable-workflows](https://github.com/ecmwf-actions/reusable-workflows)
+2. 💪 Opened PR [#147](https://github.com/ecmwf-actions/reusable-workflows/pull/147) in [ecmwf-actions/reusable-workflows](https://github.com/ecmwf-actions/reusable-workflows)
+3. 🎉 Merged PR [#75](https://github.com/ecmwf/anemoi-core/pull/75) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
+4. 💪 Opened PR [#146](https://github.com/ecmwf-actions/reusable-workflows/pull/146) in [ecmwf-actions/reusable-workflows](https://github.com/ecmwf-actions/reusable-workflows)
+5. 🗣 Commented on [#75](https://github.com/ecmwf/anemoi-core/pull/75#issuecomment-2609663348) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
