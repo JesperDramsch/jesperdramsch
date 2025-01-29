@@ -85,11 +85,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#149](https://github.com/ecmwf-actions/reusable-workflows/pull/149) in [ecmwf-actions/reusable-workflows](https://github.com/ecmwf-actions/reusable-workflows)
-2. 💪 Opened PR [#148](https://github.com/ecmwf-actions/reusable-workflows/pull/148) in [ecmwf-actions/reusable-workflows](https://github.com/ecmwf-actions/reusable-workflows)
-3. 💪 Opened PR [#147](https://github.com/ecmwf-actions/reusable-workflows/pull/147) in [ecmwf-actions/reusable-workflows](https://github.com/ecmwf-actions/reusable-workflows)
-4. 🎉 Merged PR [#75](https://github.com/ecmwf/anemoi-core/pull/75) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
-5. 💪 Opened PR [#146](https://github.com/ecmwf-actions/reusable-workflows/pull/146) in [ecmwf-actions/reusable-workflows](https://github.com/ecmwf-actions/reusable-workflows)
+1. 🗣 Commented on [#98](https://github.com/ecmwf/anemoi-core/pull/98#issuecomment-2618953803) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
+2. 🎉 Merged PR [#97](https://github.com/ecmwf/anemoi-core/pull/97) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
+3. 💪 Opened PR [#97](https://github.com/ecmwf/anemoi-core/pull/97) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
+4. 💪 Opened PR [#149](https://github.com/ecmwf-actions/reusable-workflows/pull/149) in [ecmwf-actions/reusable-workflows](https://github.com/ecmwf-actions/reusable-workflows)
+5. 💪 Opened PR [#148](https://github.com/ecmwf-actions/reusable-workflows/pull/148) in [ecmwf-actions/reusable-workflows](https://github.com/ecmwf-actions/reusable-workflows)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
