@@ -85,11 +85,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#117](https://github.com/ecmwf/anemoi-inference/pull/117) in [ecmwf/anemoi-inference](https://github.com/ecmwf/anemoi-inference)
-2. 💪 Opened PR [#150](https://github.com/ecmwf-actions/reusable-workflows/pull/150) in [ecmwf-actions/reusable-workflows](https://github.com/ecmwf-actions/reusable-workflows)
-3. 🗣 Commented on [#98](https://github.com/ecmwf/anemoi-core/pull/98#issuecomment-2618953803) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
-4. 🎉 Merged PR [#97](https://github.com/ecmwf/anemoi-core/pull/97) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
-5. 💪 Opened PR [#97](https://github.com/ecmwf/anemoi-core/pull/97) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
+1. 💪 Opened PR [#453](https://github.com/getnikola/plugins/pull/453) in [getnikola/plugins](https://github.com/getnikola/plugins)
+2. 🎉 Merged PR [#117](https://github.com/ecmwf/anemoi-inference/pull/117) in [ecmwf/anemoi-inference](https://github.com/ecmwf/anemoi-inference)
+3. 💪 Opened PR [#150](https://github.com/ecmwf-actions/reusable-workflows/pull/150) in [ecmwf-actions/reusable-workflows](https://github.com/ecmwf-actions/reusable-workflows)
+4. 🗣 Commented on [#98](https://github.com/ecmwf/anemoi-core/pull/98#issuecomment-2618953803) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
+5. 🎉 Merged PR [#97](https://github.com/ecmwf/anemoi-core/pull/97) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
