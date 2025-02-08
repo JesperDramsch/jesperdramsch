@@ -32,8 +32,8 @@
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
 - [Explainable AI: A Game-Changer for Climate Science and Natural Disaster Management](https://dramsch.net/articles/explainable-ai-a-game-changer-for-climate-science-and-natural-disaster-management/)
-- [The Uncanny Valley: Where AI Meets Zombie Psychology](https://dramsch.net/articles/what-do-zombies-and-ai-have-in-common/)
-- [Do you ✨really✨ want to live forever through AI](https://dramsch.net/articles/do-you-really-want-to-live-forever-through-ai/)
+- [Today I learned about interactive PDB debugging of Pytest tests](https://dramsch.net/today-i-learned/pytest/interactive-pdb-debugging-of-pytest-tests/)
+- [Why is Predicting Hurricanes with AI so difficult?](https://dramsch.net/articles/why-is-predicting-hurricanes-with-ai-so-difficult/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://late.email)
