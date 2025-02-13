@@ -7,9 +7,9 @@
 <a href="https://dramsch.net/youtube" target="_blank"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCn_c_QdG1qQ2nCBo2MLdktQ?style=social&label=Youtube%20views"></a>
 </p>
 
-🧪 I like to build things for researchers using machine learning and Python. I have built [ML.Recipes](https://ml.recipes) for AI4Science, [Data-Science-Gui.de](https://data-science-gui.de) for DS learners, and [PythonDeadlin.es](https://pythondeadlin.es) for Python conference submissions. I semi-regularly write articles for my [website](https://dramsch.net/blog) and my weekly-ish [non-hype AI newsletter](https://late.email). Sometimes, I make videos on [YouTube](https://dramsch.net/youtube) and [Tiktok](https://dramsch.net/tiktok), but they're fairly irregular.
+🧪 I like to build things for researchers using machine learning and Python. I have built [ML.Recipes](https://ml.recipes) for AI4Science, [Data-Science-Gui.de](https://data-science-gui.de) for DS learners, and [PythonDeadlin.es](https://pythondeadlin.es) for Python conference submissions. I semi-regularly write articles for my [website](https://dramsch.net/articles) and my weekly-ish [non-hype AI newsletter](https://late.email). Sometimes, I make videos on [YouTube](https://dramsch.net/youtube) and [Tiktok](https://dramsch.net/tiktok), but they're fairly irregular.
 
-🌦 Formally, I'm a scientist for machine learning, improving global weather forecasts with AI at the [ECMWF](https://ecmwf.int)/[@ECMWF](https://github.com/ecmwf), a 2022 fellow of the Software Sustainability Institute for AI4Science, and a Co-chair of the Working Group Modelling for the [ITU Global Initiative](https://www.itu.int/en/ITU-T/extcoop/ai4resilience/Pages/default.aspx) Global Initiative on Resilience to Natural Hazards through AI Solutions.
+🌦 Formally, I'm a scientist for machine learning, improving global weather forecasts with AI at the [ECMWF](https://dramsch.net/ecmwf)/[@ECMWF](https://github.com/ecmwf), a 2022 fellow of the [Software Sustainability Institute](https://dramsch.net/ssi) for AI4Science, and a Co-chair of the Working Group Modelling for the [ITU Global Initiative](https://www.itu.int/en/ITU-T/extcoop/ai4resilience/Pages/default.aspx) Global Initiative on Resilience to Natural Hazards through AI Solutions.
 
 💻 I list all of my projects at [dramsch.net/projects](https://dramsch.net/projects).
 
@@ -50,7 +50,7 @@ I wrote a [book](https://dramsch.net/books) about real-world ML and I give it aw
 
 ## Data Education
 
-I have been teaching all my life and I try to extend my vast knowledge of AI to others that could find it useful.
+I have been teaching all my life, and I try to extend my vast knowledge of AI to others that could find it useful.
 <!-- <img src="https://raw.githubusercontent.com/JesperDramsch/skillshare-data-science/master/img/thumbnail.png" alt="drawing" align="left" width="150"/> -->
 
 - I made a course about [data science and business analytics in Python](https://dramsch.net/course1) on [Skillshare](https://dramsch.net/r/skillshare). 
