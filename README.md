@@ -32,9 +32,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [AI and Human Creativity: Finding Balance in the Age of Generative AI](https://dramsch.net/articles/finding-balance-ai-human-creativity/)
 - [Explainable AI: A Game-Changer for Climate Science and Natural Disaster Management](https://dramsch.net/articles/explainable-ai-a-game-changer-for-climate-science-and-natural-disaster-management/)
 - [Today I learned about interactive PDB debugging of Pytest tests](https://dramsch.net/today-i-learned/pytest/interactive-pdb-debugging-of-pytest-tests/)
-- [Why is Predicting Hurricanes with AI so difficult?](https://dramsch.net/articles/why-is-predicting-hurricanes-with-ai-so-difficult/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://late.email)
