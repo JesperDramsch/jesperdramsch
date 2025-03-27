@@ -86,11 +86,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#243](https://github.com/python-organizers/conferences/pull/243#issuecomment-2748769471) in [python-organizers/conferences](https://github.com/python-organizers/conferences)
-2. 🎉 Merged PR [#57](https://github.com/JesperDramsch/python-deadlines/pull/57) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-3. 🎉 Merged PR [#60](https://github.com/JesperDramsch/python-deadlines/pull/60) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-4. 🎉 Merged PR [#59](https://github.com/JesperDramsch/python-deadlines/pull/59) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-5. 🗣 Commented on [#59](https://github.com/JesperDramsch/python-deadlines/pull/59#issuecomment-2718584241) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+1. 🗣 Commented on [#163](https://github.com/ecmwf/anemoi-core/pull/163#issuecomment-2754220178) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
+2. 🗣 Commented on [#243](https://github.com/python-organizers/conferences/pull/243#issuecomment-2748769471) in [python-organizers/conferences](https://github.com/python-organizers/conferences)
+3. 🎉 Merged PR [#57](https://github.com/JesperDramsch/python-deadlines/pull/57) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+4. 🎉 Merged PR [#60](https://github.com/JesperDramsch/python-deadlines/pull/60) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+5. 🎉 Merged PR [#59](https://github.com/JesperDramsch/python-deadlines/pull/59) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
