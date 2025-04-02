@@ -32,9 +32,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Pythondeadlin.es Embraces AI: Now With 100% More Hallucinated Deadlines](https://dramsch.net/articles/pythondeadlines-embraces-ai/)
 - [Unlocking Data Insights: A Comprehensive Guide to Clustering Analysis in Python](https://dramsch.net/articles/clustering-analysis-in-python/)
 - [Do you ✨really✨ want to live forever through AI](https://dramsch.net/articles/do-you-really-want-to-live-forever-through-ai/)
-- [AI and Human Creativity: Finding Balance in the Age of Generative AI](https://dramsch.net/articles/finding-balance-ai-human-creativity/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://late.email)
