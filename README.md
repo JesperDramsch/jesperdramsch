@@ -86,11 +86,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7824](https://github.com/openjournals/joss-reviews/issues/7824#issuecomment-2793236519) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
-2. ❗ Opened issue [#250](https://github.com/ecmwf/anemoi-core/issues/250) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
-3. ❗ Opened issue [#248](https://github.com/ecmwf/anemoi-core/issues/248) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
-4. 🗣 Commented on [#244](https://github.com/ecmwf/anemoi-core/issues/244#issuecomment-2791936097) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
-5. 🎉 Merged PR [#69](https://github.com/JesperDramsch/python-deadlines/pull/69) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+1. 🎉 Merged PR [#73](https://github.com/JesperDramsch/python-deadlines/pull/73) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+2. 🗣 Commented on [#73](https://github.com/JesperDramsch/python-deadlines/pull/73#issuecomment-2801098186) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+3. 🗣 Commented on [#7824](https://github.com/openjournals/joss-reviews/issues/7824#issuecomment-2793236519) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
+4. ❗ Opened issue [#250](https://github.com/ecmwf/anemoi-core/issues/250) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
+5. ❗ Opened issue [#248](https://github.com/ecmwf/anemoi-core/issues/248) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
