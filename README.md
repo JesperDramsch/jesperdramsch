@@ -32,9 +32,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Do You Really Need a GPU for Machine Learning? A Practical Guide](https://dramsch.net/articles/do-you-actually-need-a-gpu-for-machine-learning/)
 - [Feature Engineering: The Secret Weapon for Better Machine Learning Models](https://dramsch.net/articles/feature-engineering-expert-knowledge-machine-learning/)
 - [Pythondeadlin.es Embraces AI: Now With 100% More Hallucinated Deadlines](https://dramsch.net/articles/pythondeadlines-embraces-ai/)
-- [Unlocking Data Insights: A Comprehensive Guide to Clustering Analysis in Python](https://dramsch.net/articles/clustering-analysis-in-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://late.email)
