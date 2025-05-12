@@ -86,7 +86,7 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#79](https://github.com/JesperDramsch/python-deadlines/pull/79) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+1. 💪 Opened PR [#80](https://github.com/JesperDramsch/python-deadlines/pull/80) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
 2. 🎉 Merged PR [#78](https://github.com/JesperDramsch/python-deadlines/pull/78) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
 3. 🗣 Commented on [#76](https://github.com/JesperDramsch/python-deadlines/pull/76#issuecomment-2816724148) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
 4. 🎉 Merged PR [#77](https://github.com/JesperDramsch/python-deadlines/pull/77) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
