@@ -86,11 +86,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#249](https://github.com/ecmwf/anemoi-core/issues/249#issuecomment-2875622044) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
-2. 🗣 Commented on [#249](https://github.com/ecmwf/anemoi-core/issues/249#issuecomment-2875556896) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
-3. 🗣 Commented on [#309](https://github.com/ecmwf/anemoi-core/issues/309#issuecomment-2875542569) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
-4. 💪 Opened PR [#80](https://github.com/JesperDramsch/python-deadlines/pull/80) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-5. 🎉 Merged PR [#76](https://github.com/JesperDramsch/python-deadlines/pull/76) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+1. 🎉 Merged PR [#81](https://github.com/JesperDramsch/python-deadlines/pull/81) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+2. 🗣 Commented on [#249](https://github.com/ecmwf/anemoi-core/issues/249#issuecomment-2875622044) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
+3. 🗣 Commented on [#249](https://github.com/ecmwf/anemoi-core/issues/249#issuecomment-2875556896) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
+4. 🗣 Commented on [#309](https://github.com/ecmwf/anemoi-core/issues/309#issuecomment-2875542569) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
+5. 💪 Opened PR [#80](https://github.com/JesperDramsch/python-deadlines/pull/80) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
