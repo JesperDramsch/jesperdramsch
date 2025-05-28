@@ -32,9 +32,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [Real-World Machine Learning Applications: Insights from PyData Global 2022](https://dramsch.net/articles/discussion-at-real-world-perspectives-in-machine-learning-for-science/)
 - [How AI Revolutionized My Bahamas Vacation Planning: A Step-by-Step Guide](https://dramsch.net/articles/i-let-ai-plan-my-vacation/)
 - [Do You Really Need a GPU for Machine Learning? A Practical Guide](https://dramsch.net/articles/do-you-actually-need-a-gpu-for-machine-learning/)
-- [Feature Engineering: The Secret Weapon for Better Machine Learning Models](https://dramsch.net/articles/feature-engineering-expert-knowledge-machine-learning/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://late.email)
