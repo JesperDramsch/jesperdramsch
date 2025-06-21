@@ -26,8 +26,8 @@
 ### Youtube: [LiKe, coMMeNt, SubsCrIbE](https://dramsch.net/youtube)
 <!-- YOUTUBE-LIST:START -->
 - [Beyond the Hype: Content with ChatGPT and Midjourney](https://www.youtube.com/watch?v=Vd8gryo-YiI)
-- [What do zombies and AI have in common?](https://www.youtube.com/watch?v=RPoJAzqLd9g)
-- [Do you ✨really✨ want to live forever through AI](https://www.youtube.com/watch?v=Cef9fGopgwQ)
+- [What do zombies and AI have in common?](https://www.youtube.com/shorts/RPoJAzqLd9g)
+- [Do you ✨really✨ want to live forever through AI](https://www.youtube.com/shorts/Cef9fGopgwQ)
 <!-- YOUTUBE-LIST:END -->
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
