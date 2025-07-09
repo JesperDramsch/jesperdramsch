@@ -32,9 +32,9 @@
 
 ### Blog posts: [The Geophysicist](https://the-geophysicist.com/) | [Dramsch.net](https://dramsch.net/blog) 
 <!-- BLOG-POST-LIST:START -->
+- [The Uncanny Valley: Where AI Meets Zombie Psychology](https://dramsch.net/articles/what-do-zombies-and-ai-have-in-common/)
 - [Can You Train Machine Learning Models on a Laptop?](https://dramsch.net/articles/wait-you-can-train-ai-on-a-laptop/)
 - [ChatGPT for Content Creators: A Comprehensive Guide to AI-Powered Content Creation](https://dramsch.net/articles/unlock-your-creative-potential-with-ai-chatgpt-for-content-creators/)
-- [Real-World Machine Learning Applications: Insights from PyData Global 2022](https://dramsch.net/articles/discussion-at-real-world-perspectives-in-machine-learning-for-science/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Newsletter: [Late To The Party](https://late.email)
