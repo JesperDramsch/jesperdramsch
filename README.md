@@ -86,9 +86,9 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#121](https://github.com/JesperDramsch/python-deadlines/pull/121#issuecomment-3344247211) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-2. 🎉 Merged PR [#122](https://github.com/JesperDramsch/python-deadlines/pull/122) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-3. 🎉 Merged PR [#119](https://github.com/JesperDramsch/python-deadlines/pull/119) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+1. 🗣 Commented on [#501](https://github.com/ecmwf/anemoi-core/pull/501#issuecomment-3415939213) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
+2. 🗣 Commented on [#493](https://github.com/ecmwf/anemoi-core/issues/493#issuecomment-3415939070) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
+3. 🗣 Commented on [#121](https://github.com/JesperDramsch/python-deadlines/pull/121#issuecomment-3344247211) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
 4. 🎉 Merged PR [#117](https://github.com/JesperDramsch/python-deadlines/pull/117) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
 5. 🎉 Merged PR [#121](https://github.com/JesperDramsch/python-deadlines/pull/121) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
 <!--END_SECTION:activity-->
