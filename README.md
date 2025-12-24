@@ -86,9 +86,9 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#146](undefined) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-2. 🗣 Commented on [#140](https://github.com/JesperDramsch/python-deadlines/pull/140#issuecomment-3618881353) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-3. ❌ Merged PR [#656](undefined) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
+1. 🗣 Commented on [#154](https://github.com/JesperDramsch/python-deadlines/pull/154#issuecomment-3688146665) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+2. ❌ Closed PR [#146](undefined) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+3. 🗣 Commented on [#140](https://github.com/JesperDramsch/python-deadlines/pull/140#issuecomment-3618881353) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
 4. 🗣 Commented on [#501](https://github.com/ecmwf/anemoi-core/pull/501#issuecomment-3553609955) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
 5. 🗣 Commented on [#570](https://github.com/ecmwf/anemoi-core/issues/570#issuecomment-3503174348) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
 <!--END_SECTION:activity-->
