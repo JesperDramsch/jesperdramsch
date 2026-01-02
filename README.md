@@ -87,9 +87,9 @@ I try to contribute to useful open-source projects, but for some reason, the day
 ### Recent Public Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/huntsman95/hass-medication_tracker/pull/1#issuecomment-3690152844) in [huntsman95/hass-medication_tracker](https://github.com/huntsman95/hass-medication_tracker)
-2. 💪 Opened PR [#1](undefined) in [huntsman95/hass-medication_tracker](https://github.com/huntsman95/hass-medication_tracker)
+2. 💪 Opened PR [#1](https://github.com/huntsman95/hass-medication_tracker/pull/1) in [huntsman95/hass-medication_tracker](https://github.com/huntsman95/hass-medication_tracker)
 3. 🗣 Commented on [#154](https://github.com/JesperDramsch/python-deadlines/pull/154#issuecomment-3688146665) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-4. ❌ Closed PR [#146](undefined) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+4. ❌ Closed PR [#146](https://github.com/JesperDramsch/python-deadlines/pull/146) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
 5. 🗣 Commented on [#140](https://github.com/JesperDramsch/python-deadlines/pull/140#issuecomment-3618881353) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
 <!--END_SECTION:activity-->
 
