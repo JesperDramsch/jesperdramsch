@@ -86,11 +86,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#212](https://github.com/JesperDramsch/python-deadlines/pull/212) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-2. 🎉 Merged PR [#218](https://github.com/JesperDramsch/python-deadlines/pull/218) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-3. ℹ️ Labeled PR [#218](https://github.com/JesperDramsch/python-deadlines/pull/218) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-4. 💪 Opened PR [#218](https://github.com/JesperDramsch/python-deadlines/pull/218) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-5. 🗣 Commented on [#216](https://github.com/JesperDramsch/python-deadlines/pull/216#issuecomment-3787530839) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+1. 🎉 Merged PR [#220](https://github.com/JesperDramsch/python-deadlines/pull/220) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+2. 💪 Opened PR [#220](https://github.com/JesperDramsch/python-deadlines/pull/220) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+3. ❌ Closed PR [#212](https://github.com/JesperDramsch/python-deadlines/pull/212) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+4. 🎉 Merged PR [#218](https://github.com/JesperDramsch/python-deadlines/pull/218) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+5. ℹ️ Labeled PR [#218](https://github.com/JesperDramsch/python-deadlines/pull/218) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
