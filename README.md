@@ -86,11 +86,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#252](https://github.com/JesperDramsch/python-deadlines/issues/252) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-2. 🔒 Closed issue [#251](https://github.com/JesperDramsch/python-deadlines/issues/251) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-3. 🔒 Closed issue [#249](https://github.com/JesperDramsch/python-deadlines/issues/249) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-4. 🔒 Closed issue [#248](https://github.com/JesperDramsch/python-deadlines/issues/248) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-5. 🔒 Closed issue [#247](https://github.com/JesperDramsch/python-deadlines/issues/247) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+1. 🔒 Closed issue [#253](https://github.com/JesperDramsch/python-deadlines/issues/253) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+2. 🔒 Closed issue [#254](https://github.com/JesperDramsch/python-deadlines/issues/254) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+3. 🔒 Closed issue [#252](https://github.com/JesperDramsch/python-deadlines/issues/252) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+4. 🔒 Closed issue [#251](https://github.com/JesperDramsch/python-deadlines/issues/251) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+5. 🔒 Closed issue [#249](https://github.com/JesperDramsch/python-deadlines/issues/249) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
