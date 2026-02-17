@@ -86,11 +86,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/makenotion/notion-mcp-server/issues/67#issuecomment-3901428326) in [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server)
-2. 🔒 Closed issue [#265](https://github.com/JesperDramsch/python-deadlines/issues/265) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-3. 🔒 Closed issue [#264](https://github.com/JesperDramsch/python-deadlines/issues/264) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-4. 🔒 Closed issue [#261](https://github.com/JesperDramsch/python-deadlines/issues/261) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-5. 🔒 Closed issue [#262](https://github.com/JesperDramsch/python-deadlines/issues/262) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+1. 🔒 Closed issue [#273](https://github.com/JesperDramsch/python-deadlines/issues/273) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+2. 🔒 Closed issue [#272](https://github.com/JesperDramsch/python-deadlines/issues/272) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+3. 🔒 Closed issue [#271](https://github.com/JesperDramsch/python-deadlines/issues/271) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+4. 🔒 Closed issue [#270](https://github.com/JesperDramsch/python-deadlines/issues/270) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+5. 🔒 Closed issue [#269](https://github.com/JesperDramsch/python-deadlines/issues/269) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
