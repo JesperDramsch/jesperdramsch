@@ -86,11 +86,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#274](https://github.com/JesperDramsch/python-deadlines/issues/274) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-2. 🗣 Commented on [#1](https://github.com/huntsman95/hass-medication_tracker/pull/1#issuecomment-3926061801) in [huntsman95/hass-medication_tracker](https://github.com/huntsman95/hass-medication_tracker)
-3. 🎉 Merged PR [#1](https://github.com/huntsman95/hass-medication_tracker/pull/1) in [huntsman95/hass-medication_tracker](https://github.com/huntsman95/hass-medication_tracker)
-4. 🗣 Commented on [#250](https://github.com/ecmwf/anemoi-core/issues/250#issuecomment-3921480000) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
-5. 🎉 Merged PR [#501](https://github.com/ecmwf/anemoi-core/pull/501) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
+1. 🔒 Closed issue [#283](https://github.com/JesperDramsch/python-deadlines/issues/283) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+2. 🔒 Closed issue [#280](https://github.com/JesperDramsch/python-deadlines/issues/280) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+3. 🔒 Closed issue [#279](https://github.com/JesperDramsch/python-deadlines/issues/279) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+4. 🔒 Closed issue [#278](https://github.com/JesperDramsch/python-deadlines/issues/278) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+5. 🔒 Closed issue [#277](https://github.com/JesperDramsch/python-deadlines/issues/277) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
