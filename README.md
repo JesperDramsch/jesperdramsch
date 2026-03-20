@@ -86,11 +86,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#309](https://github.com/JesperDramsch/python-deadlines/issues/309) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-2. 🗣 Commented on [#308](https://github.com/JesperDramsch/python-deadlines/pull/308#issuecomment-4077396721) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-3. 🔒 Closed issue [#304](https://github.com/JesperDramsch/python-deadlines/issues/304) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-4. 🔒 Closed issue [#298](https://github.com/JesperDramsch/python-deadlines/issues/298) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-5. 🔒 Closed issue [#290](https://github.com/JesperDramsch/python-deadlines/issues/290) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+1. 🗣 Commented on [#308](https://github.com/JesperDramsch/python-deadlines/pull/308#issuecomment-4092337084) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+2. 🔒 Closed issue [#309](https://github.com/JesperDramsch/python-deadlines/issues/309) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+3. 🗣 Commented on [#308](https://github.com/JesperDramsch/python-deadlines/pull/308#issuecomment-4077396721) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+4. 🔒 Closed issue [#304](https://github.com/JesperDramsch/python-deadlines/issues/304) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+5. 🔒 Closed issue [#298](https://github.com/JesperDramsch/python-deadlines/issues/298) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
