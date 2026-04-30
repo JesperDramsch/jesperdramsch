@@ -86,11 +86,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#312](https://github.com/JesperDramsch/python-deadlines/issues/312) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-2. ℹ️ Labeled issue [#1056](https://github.com/ecmwf/anemoi-core/issues/1056) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
-3. ℹ️ Labeled issue [#1056](https://github.com/ecmwf/anemoi-core/issues/1056) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
-4. ℹ️ Assigned issue [#1056](https://github.com/ecmwf/anemoi-core/issues/1056) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
-5. ❗ Opened issue [#1056](https://github.com/ecmwf/anemoi-core/issues/1056) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
+1. 🗣 Commented on [#346](https://github.com/JesperDramsch/python-deadlines/issues/346#issuecomment-4344770751) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+2. 🗣 Commented on [#2](https://github.com/JesperDramsch/pogo-filter-workshop/pull/2#issuecomment-4343921267) in [JesperDramsch/pogo-filter-workshop](https://github.com/JesperDramsch/pogo-filter-workshop)
+3. ❌ Closed PR [#2](https://github.com/JesperDramsch/pogo-filter-workshop/pull/2) in [JesperDramsch/pogo-filter-workshop](https://github.com/JesperDramsch/pogo-filter-workshop)
+4. 🔒 Closed issue [#312](https://github.com/JesperDramsch/python-deadlines/issues/312) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+5. ℹ️ Labeled issue [#1056](https://github.com/ecmwf/anemoi-core/issues/1056) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
