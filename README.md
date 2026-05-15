@@ -86,11 +86,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#351](https://github.com/JesperDramsch/python-deadlines/pull/351#issuecomment-4416401183) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-2. ❌ Closed PR [#343](https://github.com/JesperDramsch/python-deadlines/pull/343) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-3. 🗣 Commented on [#347](https://github.com/JesperDramsch/python-deadlines/pull/347#issuecomment-4363569007) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-4. 🗣 Commented on [#346](https://github.com/JesperDramsch/python-deadlines/issues/346#issuecomment-4344770751) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
-5. 🗣 Commented on [#2](https://github.com/JesperDramsch/pogo-filter-workshop/pull/2#issuecomment-4343921267) in [JesperDramsch/pogo-filter-workshop](https://github.com/JesperDramsch/pogo-filter-workshop)
+1. 🎉 Merged PR [#355](https://github.com/JesperDramsch/python-deadlines/pull/355) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+2. 💪 Opened PR [#355](https://github.com/JesperDramsch/python-deadlines/pull/355) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+3. 🎉 Merged PR [#354](https://github.com/JesperDramsch/python-deadlines/pull/354) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+4. 💪 Opened PR [#354](https://github.com/JesperDramsch/python-deadlines/pull/354) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+5. 🗣 Commented on [#351](https://github.com/JesperDramsch/python-deadlines/pull/351#issuecomment-4416401183) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
