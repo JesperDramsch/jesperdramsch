@@ -86,11 +86,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/JesperDramsch/pogo-filter-workshop/pull/7) in [JesperDramsch/pogo-filter-workshop](https://github.com/JesperDramsch/pogo-filter-workshop)
-2. 💪 Opened PR [#7](https://github.com/JesperDramsch/pogo-filter-workshop/pull/7) in [JesperDramsch/pogo-filter-workshop](https://github.com/JesperDramsch/pogo-filter-workshop)
-3. 🎉 Merged PR [#6](https://github.com/JesperDramsch/pogo-filter-workshop/pull/6) in [JesperDramsch/pogo-filter-workshop](https://github.com/JesperDramsch/pogo-filter-workshop)
-4. 💪 Opened PR [#6](https://github.com/JesperDramsch/pogo-filter-workshop/pull/6) in [JesperDramsch/pogo-filter-workshop](https://github.com/JesperDramsch/pogo-filter-workshop)
-5. 🎉 Merged PR [#5](https://github.com/JesperDramsch/pogo-filter-workshop/pull/5) in [JesperDramsch/pogo-filter-workshop](https://github.com/JesperDramsch/pogo-filter-workshop)
+1. 🎉 Merged PR [#8](https://github.com/JesperDramsch/pogo-filter-workshop/pull/8) in [JesperDramsch/pogo-filter-workshop](https://github.com/JesperDramsch/pogo-filter-workshop)
+2. 💪 Opened PR [#8](https://github.com/JesperDramsch/pogo-filter-workshop/pull/8) in [JesperDramsch/pogo-filter-workshop](https://github.com/JesperDramsch/pogo-filter-workshop)
+3. 🎉 Merged PR [#7](https://github.com/JesperDramsch/pogo-filter-workshop/pull/7) in [JesperDramsch/pogo-filter-workshop](https://github.com/JesperDramsch/pogo-filter-workshop)
+4. 💪 Opened PR [#7](https://github.com/JesperDramsch/pogo-filter-workshop/pull/7) in [JesperDramsch/pogo-filter-workshop](https://github.com/JesperDramsch/pogo-filter-workshop)
+5. 🎉 Merged PR [#6](https://github.com/JesperDramsch/pogo-filter-workshop/pull/6) in [JesperDramsch/pogo-filter-workshop](https://github.com/JesperDramsch/pogo-filter-workshop)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
