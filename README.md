@@ -86,11 +86,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#464](https://github.com/ecmwf/anemoi-core/pull/464) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
-2. 🗣 Commented on [#464](https://github.com/ecmwf/anemoi-core/pull/464#issuecomment-4555579773) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
-3. 🎉 Merged PR [#10](https://github.com/JesperDramsch/pogo-filter-workshop/pull/10) in [JesperDramsch/pogo-filter-workshop](https://github.com/JesperDramsch/pogo-filter-workshop)
-4. 💪 Opened PR [#10](https://github.com/JesperDramsch/pogo-filter-workshop/pull/10) in [JesperDramsch/pogo-filter-workshop](https://github.com/JesperDramsch/pogo-filter-workshop)
-5. 🗣 Commented on [#1123](https://github.com/ecmwf/anemoi-core/issues/1123#issuecomment-4547025411) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
+1. 🔒 Closed issue [#494](https://github.com/ecmwf/anemoi-core/issues/494) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
+2. 🎉 Merged PR [#998](https://github.com/ecmwf/anemoi-core/pull/998) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
+3. 🎉 Merged PR [#1180](https://github.com/ecmwf/anemoi-core/pull/1180) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
+4. 💪 Opened PR [#1180](https://github.com/ecmwf/anemoi-core/pull/1180) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
+5. 🗣 Commented on [#998](https://github.com/ecmwf/anemoi-core/pull/998#issuecomment-4668843633) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
