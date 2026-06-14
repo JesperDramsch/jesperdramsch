@@ -86,11 +86,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#494](https://github.com/ecmwf/anemoi-core/issues/494) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
-2. 🎉 Merged PR [#998](https://github.com/ecmwf/anemoi-core/pull/998) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
-3. 🎉 Merged PR [#1180](https://github.com/ecmwf/anemoi-core/pull/1180) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
-4. 💪 Opened PR [#1180](https://github.com/ecmwf/anemoi-core/pull/1180) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
-5. 🗣 Commented on [#998](https://github.com/ecmwf/anemoi-core/pull/998#issuecomment-4668843633) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
+1. ❗ Opened issue [#2456](https://github.com/RPiList/specials/issues/2456) in [RPiList/specials](https://github.com/RPiList/specials)
+2. 🔒 Closed issue [#494](https://github.com/ecmwf/anemoi-core/issues/494) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
+3. 🎉 Merged PR [#998](https://github.com/ecmwf/anemoi-core/pull/998) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
+4. 🎉 Merged PR [#1180](https://github.com/ecmwf/anemoi-core/pull/1180) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
+5. 💪 Opened PR [#1180](https://github.com/ecmwf/anemoi-core/pull/1180) in [ecmwf/anemoi-core](https://github.com/ecmwf/anemoi-core)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
