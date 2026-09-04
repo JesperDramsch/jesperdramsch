@@ -86,11 +86,11 @@ I try to contribute to useful open-source projects, but for some reason, the day
 
 ### Recent Public Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#66](https://github.com/JesperDramsch/pogo-filter-workshop/pull/66) in [JesperDramsch/pogo-filter-workshop](https://github.com/JesperDramsch/pogo-filter-workshop)
-2. 💪 Opened PR [#66](https://github.com/JesperDramsch/pogo-filter-workshop/pull/66) in [JesperDramsch/pogo-filter-workshop](https://github.com/JesperDramsch/pogo-filter-workshop)
-3. 🎉 Merged PR [#65](https://github.com/JesperDramsch/pogo-filter-workshop/pull/65) in [JesperDramsch/pogo-filter-workshop](https://github.com/JesperDramsch/pogo-filter-workshop)
-4. 💪 Opened PR [#65](https://github.com/JesperDramsch/pogo-filter-workshop/pull/65) in [JesperDramsch/pogo-filter-workshop](https://github.com/JesperDramsch/pogo-filter-workshop)
-5. 💪 Opened PR [#444](https://github.com/JesperDramsch/python-deadlines/pull/444) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+1. ❌ Closed PR [#449](https://github.com/JesperDramsch/python-deadlines/pull/449) in [JesperDramsch/python-deadlines](https://github.com/JesperDramsch/python-deadlines)
+2. 🎉 Merged PR [#4](https://github.com/JesperDramsch/github-files/pull/4) in [JesperDramsch/github-files](https://github.com/JesperDramsch/github-files)
+3. 💪 Opened PR [#4](https://github.com/JesperDramsch/github-files/pull/4) in [JesperDramsch/github-files](https://github.com/JesperDramsch/github-files)
+4. ℹ️ Labeled PR [#6](https://github.com/JesperDramsch/advent-of-code/pull/6) in [JesperDramsch/advent-of-code](https://github.com/JesperDramsch/advent-of-code)
+5. 💪 Opened PR [#6](https://github.com/JesperDramsch/advent-of-code/pull/6) in [JesperDramsch/advent-of-code](https://github.com/JesperDramsch/advent-of-code)
 <!--END_SECTION:activity-->
 
 ### Github Trophys
