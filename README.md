@@ -9,9 +9,15 @@
 
 🧪 I like to build things for researchers using machine learning and Python. I have built [ML.Recipes](https://ml.recipes) for AI4Science, [Data-Science-Gui.de](https://data-science-gui.de) for DS learners, and [PythonDeadlin.es](https://pythondeadlin.es) for Python conference submissions. I semi-regularly write articles for my [website](https://dramsch.net/articles) and my weekly-ish [non-hype AI newsletter](https://late.email). Sometimes, I make videos on [YouTube](https://dramsch.net/youtube) and [Tiktok](https://dramsch.net/tiktok), but they're fairly irregular.
 
-🌦 Formally, I'm a scientist for machine learning, improving global weather forecasts with AI at the [ECMWF](https://dramsch.net/ecmwf)/[@ECMWF](https://github.com/ecmwf), a 2022 fellow of the [Software Sustainability Institute](https://dramsch.net/ssi) for AI4Science, and a Co-chair of the Working Group Modelling for the [ITU Global Initiative](https://www.itu.int/en/ITU-T/extcoop/ai4resilience/Pages/default.aspx) on Resilience to Natural Hazards through AI Solutions.
+🌦 Formally, I'm a scientist for machine learning, improving global weather forecasts with AI at the [ECMWF](https://dramsch.net/ecmwf)/[@ECMWF](https://github.com/ecmwf), a 2022 fellow of the [Software Sustainability Institute](https://dramsch.net/ssi) for AI4Science, and a Co-chair of the Working Group Modelling for the [ITU Global Initiative](https://www.itu.int/en/ITU-T/extcoop/ai4resilience/Pages/default.aspx) on Resilience to Natural Hazards through AI Solutions. Most of my ECMWF work is public in the [Anemoi framework](https://github.com/ecmwf/anemoi-core): about 160 commits across the Anemoi repositories since 2024 ([my merged PRs](https://github.com/search?q=is%3Apr+is%3Amerged+author%3AJesperDramsch+org%3Aecmwf&type=pullrequests)).
 
 💻 I list all of my projects at [dramsch.net/projects](https://dramsch.net/projects).
+
+Currently maintaining:
+
+- [python-deadlines](https://github.com/JesperDramsch/python-deadlines): the Python conference deadline tracker behind PythonDeadlin.es, independently maintained since 2022, 1,329 of my commits since the fork
+- [pogo-filter-workshop](https://github.com/JesperDramsch/pogo-filter-workshop): a search string generator for Pokémon GO, 423 commits since April 2026
+- [ml.recipes](https://github.com/JesperDramsch/ml.recipes): easy wins for reproducible machine learning in research, MIT licensed with a CITATION.cff for citing it
 
 🏳‍🌈 My pronouns are ([they / them](https://dramsch.net/pronouns))
 
