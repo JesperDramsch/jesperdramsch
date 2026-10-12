@@ -23,7 +23,6 @@ ecmwf-training = "ecmwf"
 ecmwf-projects = "ecmwf"
 ecmwf-ifs = "ecmwf"
 ecmwf-lab = "ecmwf"
-ECMWFCode4Earth = "ecmwf"
 
 [moved]
 # Archived repositories that moved elsewhere: name = "successor URL".
