@@ -14,6 +14,35 @@
 💻 I list all of my projects at [dramsch.net/projects](https://dramsch.net/projects).
 
 <!-- PROFILE-STATS:START -->
+**Actively developed**
+
+- [python-deadlines](https://github.com/JesperDramsch/python-deadlines): :alarm_clock: Python conference deadline countdowns, 355 contributions in the last year
+- [pogo-filter-workshop](https://github.com/JesperDramsch/pogo-filter-workshop): Client-side Pokémon GO search string generator for trash and trade filters, with a regional map and trade buddy tracking, 212 contributions in the last year
+- [jesperdramsch](https://github.com/JesperDramsch/jesperdramsch): 14 contributions in the last year
+
+**In progress**
+
+- [pogo-cal-de](https://github.com/JesperDramsch/pogo-cal-de): Automated German translation and personal filtering of Gocalendar.info, 7 contributions in the last year
+
+**Finished, maintained as time allows**
+
+- [seismic-transfer-learning](https://github.com/JesperDramsch/seismic-transfer-learning): Deep-learning seismic facies on state-of-the-art CNN architectures (paper code), 93 stars
+- [ml.recipes](https://github.com/JesperDramsch/ml.recipes): Easy wins for reproducible machine learning in research, as a Jupyter Book tutorial (teaching), 78 stars
+- [latex-cv-boosted](https://github.com/JesperDramsch/latex-cv-boosted): Two-column CV and Coverletter. Versatile and pleasing. Powered with the magic of LaTeX, 51 stars
+- [data-science-gui.de](https://github.com/JesperDramsch/data-science-gui.de): Skillshare Data Science and Business Analytics in Python (teaching), 41 stars
+- [70-Years-of-Machine-Learning-in-Geoscience-in-Review](https://github.com/JesperDramsch/70-Years-of-Machine-Learning-in-Geoscience-in-Review): Code to recreate the tutorial and figures in the book chapter (paper code), 37 stars
+- and 16 more at [dramsch.net/projects](https://dramsch.net/projects)
+
+**No longer maintained**
+
+- [COmig](https://github.com/JesperDramsch/COmig): Common Offset Migration using Kirchhoff depth, 17 stars
+
+**Contributions**
+
+- Currently contributing to [ECMWF](https://github.com/ecmwf): 37 merged pull requests and 27 reviews in the last two years, most in [anemoi-core](https://github.com/ecmwf/anemoi-core)
+- Earlier: [softwareunderground](https://github.com/softwareunderground) (32), [auto-youtube-subscription-playlist-2](https://github.com/Elijas/auto-youtube-subscription-playlist-2) (12) and [python-organizers](https://github.com/python-organizers) (10) merged pull requests and reviews
+- Plus about 1,450 contributions to private repositories in the last year
+
 <!-- PROFILE-STATS:END -->
 
 🏳‍🌈 My pronouns are ([they / them](https://dramsch.net/pronouns))
