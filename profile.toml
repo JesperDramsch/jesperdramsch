@@ -16,5 +16,14 @@ assistant_emails = ["noreply@anthropic.com"]
 # Display names for organisations in the contributions list.
 ecmwf = "ECMWF"
 
+[org_aliases]
+# Organisations counted as part of another one: login = "canonical login".
+ecmwf-actions = "ecmwf"
+ecmwf-training = "ecmwf"
+ecmwf-projects = "ecmwf"
+ecmwf-ifs = "ecmwf"
+ecmwf-lab = "ecmwf"
+ECMWFCode4Earth = "ecmwf"
+
 [moved]
 # Archived repositories that moved elsewhere: name = "successor URL".
