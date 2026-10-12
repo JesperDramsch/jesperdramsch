@@ -199,6 +199,16 @@ def test_young_repo_with_recent_activity_is_wip():
     assert ps.classify(repo, TODAY) == "wip"
 
 
+def test_young_fork_is_not_automatically_wip_but_can_be_active_or_declared():
+    created = TODAY - dt.timedelta(days=10)
+    fork = make_repo(fork=True, created=created, events=days_ago(3, 4))
+    assert ps.classify(fork, TODAY) is None
+    busy = make_repo(fork=True, created=created, events=days_ago(*range(12)))
+    assert ps.classify(busy, TODAY) == "active"
+    declared = make_repo(fork=True, created=created, declared="wip")
+    assert ps.classify(declared, TODAY) == "wip"
+
+
 def test_old_repo_with_light_activity_has_no_state():
     assert ps.classify(make_repo(events=days_ago(3, 10)), TODAY) is None
 
