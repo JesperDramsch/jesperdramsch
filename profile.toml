@@ -1,0 +1,20 @@
+# Settings for scripts/profile_stats.py, which generates the block between the
+# PROFILE-STATS markers in README.md. Thresholds live in the script; this file
+# holds the per-person data.
+
+owner = "JesperDramsch"
+projects_url = "https://dramsch.net/projects"
+max_entries = 5
+
+[identities]
+# Commit author names and Co-authored-by names that count as the owner.
+names = ["Jesper Dramsch", "JesperDramsch"]
+# Commits authored by these addresses count only in repositories the owner owns.
+assistant_emails = ["noreply@anthropic.com"]
+
+[org_names]
+# Display names for organisations in the contributions list.
+ecmwf = "ECMWF"
+
+[moved]
+# Archived repositories that moved elsewhere: name = "successor URL".
