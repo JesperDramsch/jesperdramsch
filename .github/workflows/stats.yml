@@ -17,9 +17,11 @@ on:
 permissions:
   contents: write
 
+# Pull request dry runs get their own group so they never replace a pending
+# write run on main.
 concurrency:
-  group: profile-stats
-  cancel-in-progress: false
+  group: ${{ github.event_name == 'pull_request' && format('profile-stats-pr-{0}', github.event.pull_request.number) || 'profile-stats' }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
 
 jobs:
   stats:
@@ -41,16 +43,17 @@ jobs:
       - name: Test
         run: uv run pytest
 
-      # Pull requests only print the block and the report; they never write.
+      # Only runs on main write README.md; anything else prints the block and
+      # the report as a dry run.
       - name: Generate
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: >-
           uv run python scripts/profile_stats.py
-          ${{ github.event_name == 'pull_request' && '--dry-run' || '' }}
+          ${{ github.ref != 'refs/heads/main' && '--dry-run' || '' }}
 
       - name: Commit
-        if: github.event_name != 'pull_request'
+        if: github.ref == 'refs/heads/main'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
