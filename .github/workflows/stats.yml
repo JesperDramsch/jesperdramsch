@@ -1,0 +1,63 @@
+name: Profile stats
+
+on:
+  schedule:
+    # Mondays 05:00 UTC
+    - cron: "0 5 * * 1"
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - "scripts/**"
+      - "tests/**"
+      - "profile.toml"
+      - "pyproject.toml"
+      - "uv.lock"
+      - ".github/workflows/stats.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: false
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: astral-sh/setup-uv@v10
+
+      - name: Install
+        run: uv sync --locked
+
+      - name: Lint
+        run: |
+          uv run ruff check .
+          uv run ruff format --check .
+
+      - name: Test
+        run: uv run pytest
+
+      # Pull requests only print the block and the report; they never write.
+      - name: Generate
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: >-
+          uv run python scripts/profile_stats.py
+          ${{ github.event_name == 'pull_request' && '--dry-run' || '' }}
+
+      - name: Commit
+        if: github.event_name != 'pull_request'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "README.md unchanged."
+            exit 0
+          fi
+          git commit -m "chore(profile): update generated project stats"
+          git pull --rebase
+          git push
