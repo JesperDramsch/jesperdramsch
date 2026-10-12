@@ -16,8 +16,9 @@
 <!-- PROFILE-STATS:START -->
 **Actively developed**
 
-- [python-deadlines](https://github.com/JesperDramsch/python-deadlines): :alarm_clock: Python conference deadline countdowns, 356 contributions in the last year
+- [python-deadlines](https://github.com/JesperDramsch/python-deadlines): :alarm_clock: Python conference deadline countdowns, 357 contributions in the last year
 - [pogo-filter-workshop](https://github.com/JesperDramsch/pogo-filter-workshop): Client-side Pokémon GO search string generator for trash and trade filters, with a regional map and trade buddy tracking, 216 contributions in the last year
+- [keras-complex](https://github.com/JesperDramsch/keras-complex): Keras-Tensorflow implementation of complex-valued convolutional neural networks, 21 contributions in the last year
 
 **In progress**
 
