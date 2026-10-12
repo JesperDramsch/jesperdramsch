@@ -675,8 +675,9 @@ def test_commits_only_enrich_orgs_with_prs_and_skip_copies():
     assert len(orgs["ecmwf"].events) == 2
 
 
-def test_assistant_commits_in_forks_do_not_count():
-    claude = {
+def claude_commit(sha):
+    return {
+        "sha": sha,
         "author": None,
         "commit": {
             "author": {"name": "Claude", "email": "noreply@anthropic.com"},
@@ -684,18 +685,34 @@ def test_assistant_commits_in_forks_do_not_count():
             "message": "x",
         },
     }
-    fork = make_repo(name="f", fork=True, pushed=TODAY)
-    own = make_repo(name="o", pushed=TODAY)
+
+
+def test_assistant_commits_in_forks_count_only_when_not_upstream():
+    def fork(name, parent):
+        return make_repo(
+            name=name, fork=True, pushed=TODAY, parent=parent, parent_branch="main"
+        )
+
+    inherited = fork("inherited", "up/inherited")  # commit also exists upstream
+    own_work = fork("own-work", "up/own-work")  # commit only in the fork
+    unknown = fork("unknown", None)  # parent unreadable, so be cautious
+    plain = make_repo(name="plain", pushed=TODAY)
     gh = StubGitHub(
         {},
         paginated={
-            "/repos/JesperDramsch/f/commits": [claude],
-            "/repos/JesperDramsch/o/commits": [claude],
+            "/repos/JesperDramsch/inherited/commits": [claude_commit("a")],
+            "/repos/up/inherited/commits": [{"sha": "a"}],
+            "/repos/JesperDramsch/own-work/commits": [claude_commit("b")],
+            "/repos/up/own-work/commits": [{"sha": "z"}],
+            "/repos/JesperDramsch/unknown/commits": [claude_commit("c")],
+            "/repos/JesperDramsch/plain/commits": [claude_commit("d")],
         },
     )
-    ps.collect_own_events(gh, [fork, own], CONFIG, TODAY)
-    assert fork.events == []
-    assert own.events == [dt.date(2026, 10, 1)]
+    ps.collect_own_events(gh, [inherited, own_work, unknown, plain], CONFIG, TODAY)
+    assert inherited.events == []
+    assert own_work.events == [dt.date(2026, 10, 1)]
+    assert unknown.events == []
+    assert plain.events == [dt.date(2026, 10, 1)]
 
 
 def test_real_profile_toml_loads():

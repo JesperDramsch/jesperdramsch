@@ -755,6 +755,20 @@ def repo_from_url(url: str) -> str:
     return url.split("/repos/", 1)[1]
 
 
+def upstream_shas(gh: GitHub, repo: Repo, since: dt.date) -> set[str] | None:
+    """SHAs on the fork parent's default branch since a date, or None if unknown."""
+    if not (repo.parent and repo.parent_branch):
+        return None
+    try:
+        commits = gh.paginate(
+            f"/repos/{repo.parent}/commits",
+            {"sha": repo.parent_branch, "since": f"{since.isoformat()}T00:00:00Z"},
+        )
+    except DataError:
+        return None
+    return {c["sha"] for c in commits if c.get("sha")}
+
+
 def collect_own_events(
     gh: GitHub, repos: list[Repo], config: Config, today: dt.date
 ) -> None:
@@ -769,10 +783,13 @@ def collect_own_events(
             f"/repos/{owner}/{repo.name}/commits",
             {"since": f"{since.isoformat()}T00:00:00Z"},
         )
+        # A fork's history holds upstream commits, including assistant-authored
+        # ones from other people's sessions. Those count only when they are not
+        # upstream; if upstream cannot be read, they do not count.
+        upstream = upstream_shas(gh, repo, since) if repo.fork else set()
         for c in commits:
-            # A fork's history holds upstream commits, including assistant-authored
-            # ones from other people's sessions, so the assistant rule skips forks.
-            if is_owner_commit(c, config, owned_repo=not repo.fork):
+            assistant_ok = upstream is not None and c.get("sha") not in upstream
+            if is_owner_commit(c, config, owned_repo=assistant_ok):
                 repo.events.append(parse_date(c["commit"]["committer"]["date"]))
 
     def own_repo(item: dict[str, Any]) -> Repo | None:
