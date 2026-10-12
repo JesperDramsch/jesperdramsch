@@ -21,7 +21,11 @@ jobs:
           commit_message: "Updated readme with the latest Newsletter "
           max_post_count: "3"
           feed_list: "https://buttondown.email/jesper/rss"
+      # YouTube's feed often answers GitHub's runners with 404 while serving it
+      # elsewhere. Keep that from blocking the activity update below; the step
+      # still shows as failed in the run log.
       - uses: gautamkrishnar/blog-post-workflow@master
+        continue-on-error: true
         with:
           comment_tag_name: "YOUTUBE-LIST"
           commit_message: "Updated readme with the latest Youtube "
