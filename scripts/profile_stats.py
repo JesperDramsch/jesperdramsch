@@ -713,6 +713,14 @@ def blob(node: dict[str, Any], field: str) -> str | None:
     return (node.get(field) or {}).get("text")
 
 
+def is_profile_repo(name: str, owner: str) -> bool:
+    """GitHub's special profile README repository shares the owner's name.
+
+    It holds this README, not a project, so it is never classified or listed.
+    """
+    return name.lower() == owner.lower()
+
+
 def fetch_repos(gh: GitHub, config: Config) -> list[Repo]:
     repos: list[Repo] = []
     cursor = None
@@ -720,6 +728,8 @@ def fetch_repos(gh: GitHub, config: Config) -> list[Repo]:
         data = gh.graphql(REPOS_QUERY, {"login": config.owner, "cursor": cursor})
         page = data["user"]["repositories"]
         for node in page["nodes"]:
+            if is_profile_repo(node["name"], config.owner):
+                continue
             parent = node.get("parent") or {}
             repos.append(
                 Repo(

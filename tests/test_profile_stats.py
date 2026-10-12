@@ -720,3 +720,32 @@ def test_real_profile_toml_loads():
     assert config.owner == "JesperDramsch"
     assert config.org_names["ecmwf"] == "ECMWF"
     assert config.org_aliases["ecmwf-actions"] == "ecmwf"
+
+
+def graphql_node(name):
+    return {
+        "name": name,
+        "url": f"https://github.com/JesperDramsch/{name}",
+        "description": None,
+        "isFork": False,
+        "isArchived": False,
+        "stargazerCount": 0,
+        "createdAt": "2020-01-01T00:00:00Z",
+        "pushedAt": "2026-10-01T00:00:00Z",
+        "defaultBranchRef": {"name": "main"},
+        "parent": None,
+        "repositoryTopics": {"nodes": []},
+    }
+
+
+def test_profile_repo_is_never_fetched():
+    class StubGraphQL:
+        def graphql(self, query, variables):
+            nodes = [graphql_node("jesperdramsch"), graphql_node("python-deadlines")]
+            page = {"pageInfo": {"hasNextPage": False, "endCursor": None}}
+            return {"user": {"repositories": {**page, "nodes": nodes}}}
+
+    repos = ps.fetch_repos(StubGraphQL(), CONFIG)
+    assert [r.name for r in repos] == ["python-deadlines"]
+    assert ps.is_profile_repo("JesperDramsch", "JesperDramsch")
+    assert not ps.is_profile_repo("python-deadlines", "JesperDramsch")
