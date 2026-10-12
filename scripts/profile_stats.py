@@ -299,7 +299,13 @@ def classify(repo: Repo, today: dt.date) -> str | None:
     year = sum(1 for d in repo.events if (today - d).days <= YEAR_DAYS)
     if recent >= 1 and year >= ACTIVE_MIN_YEAR_EVENTS:
         return "active"
-    if recent >= 1 and (today - repo.created).days <= WIP_MAX_AGE_DAYS:
+    # A fresh fork is usually made for one upstream PR, not new work of its own;
+    # forks reach WIP only by declaration.
+    if (
+        recent >= 1
+        and not repo.fork
+        and (today - repo.created).days <= WIP_MAX_AGE_DAYS
+    ):
         return "wip"
     return None
 
