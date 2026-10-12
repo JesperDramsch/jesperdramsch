@@ -1,5 +1,9 @@
 import datetime as dt
+import email.message
+import io
+import urllib.error
 from collections import Counter
+from pathlib import Path
 
 import profile_stats as ps
 import pytest
@@ -340,3 +344,352 @@ def test_replace_block_swaps_only_marked_text():
 def test_replace_block_requires_markers():
     with pytest.raises(ps.DataError):
         ps.replace_block("no markers here", "x")
+
+
+# --------------------------------------------------------------- citation variants
+
+
+def test_citation_with_comments_and_inline_comment():
+    cff = (
+        "# citation\npreferred-citation:  # the paper\n"
+        "  # authors below\n  type: article  # journal\n  title: x\n"
+    )
+    assert ps.citation_is_publication(cff)
+
+
+def test_neutral_type_with_doi_is_publication_but_without_doi_is_not():
+    assert ps.citation_is_publication(
+        "preferred-citation:\n  type: generic\n  doi: 1\n"
+    )
+    assert not ps.citation_is_publication("preferred-citation:\n  type: website\n")
+
+
+def test_software_type_vetoes_doi():
+    cff = "preferred-citation:\n  type: software\n  doi: 10.5281/zenodo.1\n"
+    assert not ps.citation_is_publication(cff)
+
+
+def test_codemeta_with_bom():
+    assert ps.state_from_codemeta('\ufeff{"developmentStatus": "active"}') == "active"
+
+
+# --------------------------------------------------------------- boundaries
+
+
+def test_active_boundaries():
+    def state(*ages):
+        return ps.classify(make_repo(events=days_ago(*ages)), TODAY)
+
+    assert state(90, *range(100, 109)) == "active"
+    assert state(91, *range(100, 109)) is None
+    assert state(1, *range(357, 366)) == "active"
+    assert state(1, *range(358, 367)) is None
+
+
+def test_wip_age_boundary():
+    young = make_repo(created=TODAY - dt.timedelta(days=365), events=days_ago(3))
+    old = make_repo(created=TODAY - dt.timedelta(days=366), events=days_ago(3))
+    assert ps.classify(young, TODAY) == "wip"
+    assert ps.classify(old, TODAY) is None
+
+
+def test_contradiction_threshold_is_ten_recent_events():
+    nine = make_repo(declared="inactive", events=days_ago(*range(9)))
+    ten = make_repo(declared="inactive", events=days_ago(*range(10)))
+    assert ps.contradiction(nine, TODAY) is None
+    assert ps.contradiction(ten, TODAY)
+
+
+def test_org_active_only_in_older_windows_is_not_current():
+    org = ps.OrgActivity(login="ecmwf", events=days_ago(190, 200, 300, 350))
+    assert not ps.org_is_current(org, TODAY)
+
+
+def test_org_windows_are_91_days():
+    org = ps.OrgActivity(login="ecmwf", events=days_ago(0, 90, 181))
+    assert ps.active_windows(org.events, TODAY) == 2
+    assert not ps.org_is_current(org, TODAY)
+
+
+def test_org_windows_exclude_day_364():
+    assert ps.active_windows(days_ago(10, 100, 364), TODAY) == 2
+
+
+def test_user_org_without_repos_links_to_login():
+    org = ps.OrgActivity(login="someone", owner_type="User")
+    assert ps.org_label(org, CONFIG, recent=True) == (
+        "someone",
+        "https://github.com/someone",
+    )
+
+
+# --------------------------------------------------------------- rendering gaps
+
+
+def test_active_sorted_by_contributions_desc():
+    a = make_repo(name="a", events=days_ago(1) * 3)
+    b = make_repo(name="b", events=days_ago(1) * 12)
+    block = render({"active": [a, b]})
+    assert block.index("[b]") < block.index("[a]")
+
+
+def test_exactly_max_entries_has_no_more_line():
+    repos = [make_repo(name=f"r{i}", declared="inactive") for i in range(2)]
+    assert "more at" not in render({"inactive": repos})
+
+
+def test_note_without_description():
+    repo = make_repo(name="w", description="", topics=["workshop"], stars=3)
+    expected = (
+        "[w](https://github.com/JesperDramsch/repo): (workshop material), 3 stars"
+    )
+    assert expected in render({"inactive": [repo]})
+
+
+def test_private_count_of_exactly_ten_is_shown():
+    assert "about 10 contributions to private repositories" in render({}, private=10)
+
+
+# --------------------------------------------------------------- client, offline
+
+
+def make_http_error(code, headers=None, body=b"{}"):
+    message = email.message.Message()
+    for key, value in (headers or {}).items():
+        message[key] = value
+    return urllib.error.HTTPError(
+        "https://api.github.com/x", code, "err", message, io.BytesIO(body)
+    )
+
+
+@pytest.fixture
+def no_sleep(monkeypatch):
+    monkeypatch.setattr(ps.time, "sleep", lambda seconds: None)
+
+
+def test_sso_denial_retries_without_token(no_sleep):
+    gh = ps.GitHub("token")
+    calls = []
+
+    def fake_open(url, data, auth):
+        calls.append(auth)
+        if auth:
+            raise make_http_error(403, {"X-GitHub-SSO": "required; url=x"})
+        return {"ok": True}, {}
+
+    gh._open = fake_open
+    assert gh.request("https://api.github.com/x")[0] == {"ok": True}
+    assert calls == [True, False]
+    assert gh.sso_fallbacks == 1
+
+
+def test_network_errors_retry_then_raise(no_sleep):
+    gh = ps.GitHub(None)
+    attempts = []
+
+    def fake_open(url, data, auth):
+        attempts.append(url)
+        raise urllib.error.URLError("connection reset")
+
+    gh._open = fake_open
+    with pytest.raises(ps.DataError, match="unreachable"):
+        gh.request("https://api.github.com/x")
+    assert len(attempts) == 4
+
+
+def test_server_error_retries_and_recovers(no_sleep):
+    gh = ps.GitHub(None)
+    responses = [make_http_error(502), ({"ok": 1}, {})]
+
+    def fake_open(url, data, auth):
+        item = responses.pop(0)
+        if isinstance(item, Exception):
+            raise item
+        return item
+
+    gh._open = fake_open
+    assert gh.request("https://api.github.com/x")[0] == {"ok": 1}
+
+
+SAML = {"extensions": {"saml_failure": True}}
+
+
+@pytest.mark.parametrize(
+    "errors, data, ok",
+    [
+        ([SAML], {"user": {}}, True),
+        ([SAML, {"type": "NOT_FOUND"}], {"user": {}}, False),
+        ([SAML], None, False),
+        ([{"type": "NOT_FOUND"}], {"user": None}, False),
+    ],
+)
+def test_graphql_accepts_only_saml_partial_data(errors, data, ok):
+    gh = ps.GitHub("token")
+    response = {"data": data, "errors": errors}
+    gh.request = lambda url, data=None, auth=True: (response, {})
+    if ok:
+        assert gh.graphql("q", {}) == data
+        assert gh.sso_fallbacks == 1
+    else:
+        with pytest.raises(ps.DataError):
+            gh.graphql("q", {})
+
+
+def test_graphql_needs_token():
+    with pytest.raises(ps.DataError, match="token"):
+        ps.GitHub(None).graphql("q", {})
+
+
+def search_client(pages):
+    gh = ps.GitHub("token")
+    queue = list(pages)
+    gh.get = lambda path, params=None: queue.pop(0)
+    return gh
+
+
+def test_search_fails_on_incomplete_results(no_sleep):
+    page = {"total_count": 1, "incomplete_results": True, "items": [{"id": 1}]}
+    with pytest.raises(ps.DataError, match="incomplete"):
+        search_client([page] * 3).search("issues", "x")
+
+
+def test_search_fails_on_short_results(no_sleep):
+    first = {"total_count": 250, "items": [{"id": i} for i in range(100)]}
+    empty = {"total_count": 250, "items": []}
+    with pytest.raises(ps.DataError, match="100 of 250"):
+        search_client([first, empty]).search("issues", "x")
+
+
+def test_search_deduplicates_and_records_cap(no_sleep):
+    pages = [
+        {"total_count": 5000, "items": [{"id": i + p * 100} for i in range(100)]}
+        for p in range(10)
+    ]
+    gh = search_client(pages)
+    total, items = gh.search("issues", "x")
+    assert total == 5000
+    assert len(items) == 1000
+    assert gh.capped_searches == ["x is:public"]
+
+
+def test_rate_limit_wait():
+    assert ps.rate_limit_wait("7", None) == 7
+    assert ps.rate_limit_wait("soon", "110", now=100) == 11
+    assert ps.rate_limit_wait(None, "bad", now=100) == 60
+
+
+# --------------------------------------------------------------- collection, stubbed
+
+
+class StubGitHub:
+    """Answers searches by matching a key in the query; no network."""
+
+    def __init__(self, searches, paginated=None):
+        self.searches = searches
+        self.paginated = paginated or {}
+
+    def search(self, kind, query):
+        for key, items in self.searches.items():
+            wanted = "commits" if key == "committer-date" else "issues"
+            if key in query and kind == wanted:
+                return len(items), items
+        return 0, []
+
+    def paginate(self, path, params, max_pages=10):
+        return self.paginated.get(path, [])
+
+    def get(self, path, params=None):
+        return {"type": "Organization"}
+
+
+def merged_pr(full, merged_at):
+    return {
+        "repository_url": f"https://api.github.com/repos/{full}",
+        "pull_request": {"merged_at": merged_at},
+        "updated_at": merged_at,
+        "number": 1,
+    }
+
+
+def commit_hit(full, date, sha, fork=False):
+    return {
+        "sha": sha,
+        "repository": {
+            "full_name": full,
+            "fork": fork,
+            "private": False,
+            "owner": {"type": "Organization"},
+        },
+        "commit": {"committer": {"date": date}},
+    }
+
+
+REAL_CONFIG = Path(__file__).parents[1] / "profile.toml"
+
+
+def test_org_aliases_merge_into_one_entry():
+    config = ps.Config.load(REAL_CONFIG)
+    gh = StubGitHub(
+        {
+            "is:merged": [
+                merged_pr("ecmwf/anemoi-core", "2026-09-01T00:00:00Z"),
+                merged_pr("ecmwf-actions/reusable-workflows", "2025-01-29T00:00:00Z"),
+            ]
+        }
+    )
+    orgs, total = ps.collect_org_activity(gh, config, TODAY)
+    assert set(orgs) == {"ecmwf"}
+    assert total == 2
+    assert orgs["ecmwf"].total == 2
+    assert ps.org_label(orgs["ecmwf"], config, recent=True) == (
+        "ECMWF",
+        "https://github.com/ecmwf",
+    )
+
+
+def test_commits_only_enrich_orgs_with_prs_and_skip_copies():
+    gh = StubGitHub(
+        {
+            "is:merged": [merged_pr("ecmwf/anemoi-core", "2026-09-01T00:00:00Z")],
+            "committer-date": [
+                commit_hit("ecmwf/anemoi-core", "2026-05-01T00:00:00Z", "a"),
+                commit_hit("ecmwf/anemoi-core", "2026-05-01T00:00:00Z", "a"),
+                commit_hit("someone/anemoi-core", "2026-06-01T00:00:00Z", "b"),
+                commit_hit("other/anemoi-fork", "2026-06-01T00:00:00Z", "c", fork=True),
+            ],
+        }
+    )
+    orgs, _ = ps.collect_org_activity(gh, CONFIG, TODAY)
+    assert set(orgs) == {"ecmwf"}
+    # The merged PR plus one deduplicated commit.
+    assert len(orgs["ecmwf"].events) == 2
+
+
+def test_assistant_commits_in_forks_do_not_count():
+    claude = {
+        "author": None,
+        "commit": {
+            "author": {"name": "Claude", "email": "noreply@anthropic.com"},
+            "committer": {"date": "2026-10-01T00:00:00Z"},
+            "message": "x",
+        },
+    }
+    fork = make_repo(name="f", fork=True, pushed=TODAY)
+    own = make_repo(name="o", pushed=TODAY)
+    gh = StubGitHub(
+        {},
+        paginated={
+            "/repos/JesperDramsch/f/commits": [claude],
+            "/repos/JesperDramsch/o/commits": [claude],
+        },
+    )
+    ps.collect_own_events(gh, [fork, own], CONFIG, TODAY)
+    assert fork.events == []
+    assert own.events == [dt.date(2026, 10, 1)]
+
+
+def test_real_profile_toml_loads():
+    config = ps.Config.load(REAL_CONFIG)
+    assert config.owner == "JesperDramsch"
+    assert config.org_names["ecmwf"] == "ECMWF"
+    assert config.org_aliases["ecmwf-actions"] == "ecmwf"
