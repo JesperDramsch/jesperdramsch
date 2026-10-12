@@ -32,6 +32,7 @@ from __future__ import annotations
 import argparse
 import dataclasses
 import datetime as dt
+import http.client
 import json
 import os
 import re
@@ -93,8 +94,8 @@ NOTE_TOPICS = (
     ("course", "teaching"),
     ("tutorial", "teaching"),
 )
-# CITATION.cff types that describe software or data rather than a publication.
-NON_PUBLICATION_TYPES = {
+# CITATION.cff types that describe software or data; they veto "paper code".
+SOFTWARE_DATA_TYPES = {
     "software",
     "software-code",
     "software-container",
@@ -102,11 +103,9 @@ NON_PUBLICATION_TYPES = {
     "software-virtual-machine",
     "data",
     "database",
-    "website",
-    "slides",
-    "video",
-    "generic",
 }
+# Types that are not a publication by themselves but do not veto a DOI.
+NEUTRAL_TYPES = {"generic", "website", "slides", "video"}
 
 
 class DataError(RuntimeError):
@@ -122,6 +121,7 @@ class Config:
     assistant_emails: list[str]
     org_names: dict[str, str]
     moved: dict[str, str]
+    org_aliases: dict[str, str] = dataclasses.field(default_factory=dict)
 
     @classmethod
     def load(cls, path: Path) -> Config:
@@ -137,6 +137,7 @@ class Config:
             ],
             org_names=dict(raw.get("org_names", {})),
             moved=dict(raw.get("moved", {})),
+            org_aliases=dict(raw.get("org_aliases", {})),
         )
 
 
@@ -194,7 +195,7 @@ def state_from_codemeta(text: str | None) -> str | None:
     if not text:
         return None
     try:
-        value = json.loads(text).get("developmentStatus")
+        value = json.loads(text.lstrip("\ufeff")).get("developmentStatus")
     except (json.JSONDecodeError, AttributeError):
         return None
     if not isinstance(value, str):
@@ -221,12 +222,13 @@ def citation_is_publication(cff: str | None) -> bool:
     """
     if not cff:
         return False
-    lines = cff.splitlines()
+    # Comment-only lines carry no structure; drop them before reading the block.
+    lines = [line for line in cff.splitlines() if not line.lstrip().startswith("#")]
     try:
         start = next(
             i
             for i, line in enumerate(lines)
-            if re.match(r"^preferred-citation:\s*$", line)
+            if re.match(r"^preferred-citation:\s*(#.*)?$", line)
         )
     except StopIteration:
         return False
@@ -247,11 +249,12 @@ def citation_is_publication(cff: str | None) -> bool:
     for line in block:
         if line.strip() and len(line) - len(line.lstrip()) == base and ":" in line:
             key, _, value = line.strip().partition(":")
-            keys[key.strip()] = value.strip().strip("'\"").lower()
+            value = re.sub(r"\s+#.*$", "", value.strip())
+            keys[key.strip()] = value.strip("'\"").lower()
     kind = keys.get("type")
-    if kind in NON_PUBLICATION_TYPES:
+    if kind in SOFTWARE_DATA_TYPES:
         return False
-    return bool(kind) or bool(keys.get("doi"))
+    return bool(keys.get("doi")) or bool(kind and kind not in NEUTRAL_TYPES)
 
 
 def co_author_names(message: str) -> list[str]:
@@ -329,6 +332,9 @@ def org_is_current(org: OrgActivity, today: dt.date) -> bool:
     if not org.events:
         return False
     latest = max(org.events)
+    # With 3 of 4 windows active, window 0 or 1 always is, so the latest event is
+    # at most 181 days old. The recency clause states the agreed rule explicitly
+    # and keeps it true if the window settings change.
     return (
         active_windows(org.events, today) >= ORG_MIN_ACTIVE_WINDOWS
         and (today - latest).days <= ORG_RECENT_DAYS
@@ -384,10 +390,10 @@ def sort_key(repo: Repo, state: str, today: dt.date) -> tuple:
 
 def org_label(org: OrgActivity, config: Config, recent: bool) -> tuple[str, str]:
     counter = org.repos_recent if recent and org.repos_recent else org.repos_total
-    busiest = counter.most_common(1)[0][0] if counter else f"{org.login}/{org.login}"
     if org.login in config.org_names:
         return config.org_names[org.login], f"https://github.com/{org.login}"
-    if org.owner_type == "User":
+    if org.owner_type == "User" and counter:
+        busiest = counter.most_common(1)[0][0]
         return busiest.split("/", 1)[1], f"https://github.com/{busiest}"
     return org.login, f"https://github.com/{org.login}"
 
@@ -457,6 +463,22 @@ def replace_block(readme: str, block: str) -> str:
 # --- GitHub client ---
 
 
+def rate_limit_wait(
+    retry_after: str | None, reset: str | None, now: float | None = None
+) -> int:
+    """Seconds to wait before retrying a rate-limited request."""
+    now = time.time() if now is None else now
+    if retry_after:
+        try:
+            return int(retry_after)
+        except ValueError:
+            pass
+    try:
+        return max(0, int(reset or 0) - int(now)) + 1
+    except ValueError:
+        return 60
+
+
 class GitHub:
     """Minimal REST/GraphQL client with SSO fallback and rate-limit handling."""
 
@@ -464,6 +486,7 @@ class GitHub:
         self.token = token
         self.calls = 0
         self.sso_fallbacks = 0
+        self.capped_searches: list[str] = []
         self._last_search = 0.0
 
     def _open(
@@ -503,15 +526,12 @@ class GitHub:
                     self.sso_fallbacks += 1
                     auth = False
                     continue
-                reset = err.headers.get("x-ratelimit-reset")
                 retry_after = err.headers.get("retry-after")
                 if err.code in (403, 429) and (
                     retry_after or err.headers.get("x-ratelimit-remaining") == "0"
                 ):
-                    wait = (
-                        int(retry_after)
-                        if retry_after
-                        else max(0, int(reset or 0) - int(time.time())) + 1
+                    wait = rate_limit_wait(
+                        retry_after, err.headers.get("x-ratelimit-reset")
                     )
                     if wait <= 90 and attempt < 3:
                         time.sleep(wait)
@@ -522,6 +542,18 @@ class GitHub:
                 raise DataError(
                     f"GitHub API {err.code} for {url}: {text[:200]}"
                 ) from err
+            except (
+                urllib.error.URLError,
+                TimeoutError,
+                ConnectionError,
+                http.client.HTTPException,
+                json.JSONDecodeError,
+            ) as err:
+                # All requests are reads, so retrying them is safe.
+                if attempt < 3:
+                    time.sleep(2 ** (attempt + 1))
+                    continue
+                raise DataError(f"GitHub API unreachable for {url}: {err}") from err
             if (
                 auth
                 and self.token
@@ -564,25 +596,48 @@ class GitHub:
         """
         return query if "is:public" in query.split() else f"{query} is:public"
 
-    def search(
-        self, kind: str, query: str, max_pages: int = 10
-    ) -> tuple[int, list[dict[str, Any]]]:
-        query = self.public_query(query)
-        items: list[dict[str, Any]] = []
-        total = 0
-        for page in range(1, max_pages + 1):
+    def _search_page(self, kind: str, query: str, page: int) -> dict[str, Any]:
+        # A stable sort keeps pages from overlapping while results change.
+        sort = {"commits": "committer-date", "issues": "created"}[kind]
+        params = {"q": query, "per_page": 100, "page": page, "sort": sort}
+        for attempt in range(3):
             # Search allows 30 requests a minute with a token and 10 without.
             gap = 2.2 if self.token else 6.5
             time.sleep(max(0.0, self._last_search + gap - time.time()))
             self._last_search = time.time()
-            body = self.get(
-                f"/search/{kind}", {"q": query, "per_page": 100, "page": page}
-            )
+            body = self.get(f"/search/{kind}", {**params, "order": "asc"})
+            if not body.get("incomplete_results"):
+                return body
+            time.sleep(2 ** (attempt + 1))
+        raise DataError(f"search timed out with incomplete results: {query!r}")
+
+    def search(
+        self, kind: str, query: str, max_pages: int = 10
+    ) -> tuple[int, list[dict[str, Any]]]:
+        """Return the total count and all items, failing on short results.
+
+        GitHub serves at most 1,000 results per search; hitting that cap is
+        recorded for the report rather than treated as an error.
+        """
+        query = self.public_query(query)
+        items: dict[str, dict[str, Any]] = {}
+        total = 0
+        for page in range(1, max_pages + 1):
+            body = self._search_page(kind, query, page)
             total = body["total_count"]
-            items.extend(body["items"])
-            if len(items) >= min(total, 1000) or not body["items"]:
+            for item in body["items"]:
+                items[str(item.get("id") or item.get("sha"))] = item
+            if len(body["items"]) < 100 or len(items) >= min(total, 1000):
                 break
-        return total, items
+        expected = min(total, 1000)
+        # Allow a couple of items to appear or vanish while paging.
+        if len(items) < expected - 2:
+            raise DataError(
+                f"search returned {len(items)} of {expected} items: {query!r}"
+            )
+        if total > 1000:
+            self.capped_searches.append(query)
+        return total, list(items.values())
 
     def graphql(self, query: str, variables: dict[str, Any]) -> dict[str, Any]:
         if not self.token:
@@ -709,7 +764,9 @@ def collect_own_events(
             {"since": f"{since.isoformat()}T00:00:00Z"},
         )
         for c in commits:
-            if is_owner_commit(c, config, owned_repo=True):
+            # A fork's history holds upstream commits, including assistant-authored
+            # ones from other people's sessions, so the assistant rule skips forks.
+            if is_owner_commit(c, config, owned_repo=not repo.fork):
                 repo.events.append(parse_date(c["commit"]["committer"]["date"]))
 
     def own_repo(item: dict[str, Any]) -> Repo | None:
@@ -777,9 +834,13 @@ def collect_org_activity(
     orgs: dict[str, OrgActivity] = {}
     known_types: set[str] = set()
 
-    def org_for(full: str) -> OrgActivity:
+    def org_key(full: str) -> str:
         login = full.split("/", 1)[0]
-        return orgs.setdefault(login, OrgActivity(login=login))
+        return config.org_aliases.get(login, login)
+
+    def org_for(full: str) -> OrgActivity:
+        key = org_key(full)
+        return orgs.setdefault(key, OrgActivity(login=key))
 
     merged_total, merged = gh.search(
         "issues", f"type:pr is:merged author:{owner} -user:{owner}"
@@ -820,12 +881,24 @@ def collect_org_activity(
     _, commits = gh.search(
         "commits", f"author:{owner} committer-date:>={year_ago.isoformat()}"
     )
+    # Commits only add dates to organisations where the owner has merged PRs or
+    # reviews. Commit search also finds the owner's commits in other people's
+    # copies and forks of a repository, which must not become entries.
+    seen: set[str] = set()
     for item in commits:
         repository = item.get("repository") or {}
         full = repository.get("full_name", "")
-        if not full or full.split("/", 1)[0] == owner or repository.get("private"):
+        if (
+            not full
+            or full.split("/", 1)[0] == owner
+            or repository.get("private")
+            or repository.get("fork")
+            or org_key(full) not in orgs
+            or item.get("sha") in seen
+        ):
             continue
-        org = org_for(full)
+        seen.add(item.get("sha"))
+        org = orgs[org_key(full)]
         if owner_type := (repository.get("owner") or {}).get("type"):
             org.owner_type = owner_type
             known_types.add(org.login)
@@ -848,7 +921,7 @@ def fork_has_own_commits(gh: GitHub, repo: Repo, config: Config) -> bool | None:
     except DataError:
         return None
     return any(
-        is_owner_commit(c, config, owned_repo=True) for c in compare.get("commits", [])
+        is_owner_commit(c, config, owned_repo=False) for c in compare.get("commits", [])
     )
 
 
@@ -871,6 +944,8 @@ def build_report(
         f"API calls: {gh.calls}. "
         f"SSO fallbacks to unauthenticated requests: {gh.sso_fallbacks}."
     )
+    for query in gh.capped_searches:
+        lines.append(f"Search capped at 1,000 results, counts may be low: `{query}`")
     lines.append("")
     lines.append("| State | Repositories |")
     lines.append("|---|---|")
