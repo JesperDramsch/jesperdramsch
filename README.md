@@ -16,8 +16,8 @@
 <!-- PROFILE-STATS:START -->
 **Actively developed**
 
-- [python-deadlines](https://github.com/JesperDramsch/python-deadlines): :alarm_clock: Python conference deadline countdowns, 388 contributions in the last year
-- [pogo-filter-workshop](https://github.com/JesperDramsch/pogo-filter-workshop): Client-side Pokémon GO search string generator for trash and trade filters, with a regional map and trade buddy tracking, 245 contributions in the last year
+- [python-deadlines](https://github.com/JesperDramsch/python-deadlines): :alarm_clock: Python conference deadline countdowns, 399 contributions in the last year
+- [pogo-filter-workshop](https://github.com/JesperDramsch/pogo-filter-workshop): Client-side Pokémon GO search string generator for trash and trade filters, with a regional map and trade buddy tracking, 315 contributions in the last year
 - [keras-complex](https://github.com/JesperDramsch/keras-complex): Keras-Tensorflow implementation of complex-valued convolutional neural networks, 86 contributions in the last year
 
 **In progress**
@@ -41,7 +41,7 @@
 
 - Currently contributing to [ECMWF](https://github.com/ecmwf): 38 merged pull requests and 28 reviews in the last two years, most in [anemoi-core](https://github.com/ecmwf/anemoi-core)
 - Earlier: [softwareunderground](https://github.com/softwareunderground) (32), [auto-youtube-subscription-playlist-2](https://github.com/Elijas/auto-youtube-subscription-playlist-2) (12) and [python-organizers](https://github.com/python-organizers) (10) merged pull requests and reviews
-- Plus about 1,820 contributions to private repositories in the last year
+- Plus about 1,840 contributions to private repositories in the last year
 
 <!-- PROFILE-STATS:END -->
 
